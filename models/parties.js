@@ -1,0 +1,106 @@
+module.exports = [{
+    name: 'DEM',
+    number: 25
+}, {
+    name: 'PCB',
+    number: 21
+}, {
+    name: 'PCdoB',
+    number: 65
+}, {
+    name: 'PCO',
+    number: 29
+}, {
+    name: 'PDT',
+    number: 12
+}, {
+    name: 'PEN',
+    number: 51
+}, {
+    name: 'PHS',
+    number: 31
+}, {
+    name: 'PMDB',
+    number: 15
+}, {
+    name: 'PMB',
+    number: 35
+}, {
+    name: 'PMN',
+    number: 33
+}, {
+    name: 'NOVO',
+    number: 30
+}, {
+    name: 'PP',
+    number: 11
+}, {
+    name: 'PPL',
+    number: 54
+}, {
+    name: 'PPS',
+    number: 23
+}, {
+    name: 'PR',
+    number: 22
+}, {
+    name: 'PRB',
+    number: 10
+}, {
+    name: 'PROS',
+    number: 90
+}, {
+    name: 'PRP',
+    number: 44
+}, {
+    name: 'PRTB',
+    number: 28
+}, {
+    name: 'PSB',
+    number: 40
+}, {
+    name: 'PSC',
+    number: 20
+}, {
+    name: 'PSD',
+    number: 55
+}, {
+    name: 'PSDB',
+    number: 45
+}, {
+    name: 'PSDC',
+    number: 27
+}, {
+    name: 'PSL',
+    number: 17
+}, {
+    name: 'PSOL',
+    number: 50
+}, {
+    name: 'PSTU',
+    number: 16
+}, {
+    name: 'PT',
+    number: 13
+}, {
+    name: 'PTB',
+    number: 14
+}, {
+    name: 'PTC',
+    number: 36
+}, {
+    name: 'PTdoB',
+    number: 70
+}, {
+    name: 'PTN',
+    number: 19
+}, {
+    name: 'PV',
+    number: 43
+}, {
+    name: 'REDE',
+    number: 18
+}, {
+    name: 'SD',
+    number: 77
+}];

@@ -1,0 +1,24 @@
+{
+  "name": "jus-stats",
+  "version": "1.0.0",
+  "description": "in dev ...",
+  "main": "index.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13",
+    "diacritics": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljoppi/jus-stats.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieljoppi/jus-stats/issues"
+  },
+  "homepage": "https://github.com/danieljoppi/jus-stats#readme"
+}
