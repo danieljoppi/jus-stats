@@ -2,7 +2,7 @@
 
 const loadData = require('./load-data');
 
-let state = 'SC';
+let state = 'AC';
 
 Promise.all([
     loadData.loadPositions(state),

@@ -4,8 +4,8 @@ var fs = require('fs'),
     readline = require('readline');
 var iconv = require('iconv-lite');
 
-exports.openCSV = (fileName) => {
-    let filePath = path.join(__dirname, 'data-csv', fileName);
+exports.openCSV = (fileName, state) => {
+    let filePath = path.join(__dirname, 'data-csv', state, fileName);
     return readline.createInterface({
         input: fs.createReadStream(filePath).pipe(iconv.decodeStream('latin1'))
     });

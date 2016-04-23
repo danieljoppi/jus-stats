@@ -11,7 +11,7 @@ const $groups = require('./models/party-groups');
 const $quocient = require('./calculations/quocient');
 
 exports.loadPositions = (state) => new Promise(resolve => {
-    let lineReader = reader.openCSV(`consulta_vagas_2014_${state}.txt`);
+    let lineReader = reader.openCSV(`consulta_vagas_2014_${state}.txt`, state);
     lineReader.on('line', (line) => {
         let values = reader.parseLine(line);
         let posCode = values[7];
@@ -29,7 +29,7 @@ exports.loadPositions = (state) => new Promise(resolve => {
 });
 
 exports.loadCandidate = (state) => new Promise(resolve => {
-    let lineReader = reader.openCSV(`consulta_cand_2014_${state}.txt`);
+    let lineReader = reader.openCSV(`consulta_cand_2014_${state}.txt`, state);
     let candidates = [];
     lineReader.on('line', (line) => {
         let values = reader.parseLine(line);
@@ -76,7 +76,7 @@ exports.loadVotes = (opts, candsFull) => {
     let state = opts.state,
         totalPositions = opts.total;
 
-    let lineReader = reader.openCSV(`votacao_secao_2014_${state}.txt`);
+    let lineReader = reader.openCSV(`votacao_secao_2014_${state}.txt`, state);
 
     let totalVotes = 0,
         partyGroups = JSON.parse(JSON.stringify($groups[state].map(g => {
@@ -401,7 +401,12 @@ exports.loadVotes = (opts, candsFull) => {
             {data: candVotes, name: 'candidate-impeachment'},
             {data: extras, name: 'candidate-extras'}
         ].forEach(val => {
-            let jsonPath = path.join(__dirname, 'data-json', `${val.name}_${state}.json`);
+            let dir = path.join(__dirname, 'data-json', state);
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir);
+            }
+
+            let jsonPath = path.join(__dirname, 'data-json', state, `${val.name}_${state}.json`);
             //if (!fs.existsSync(jsonPath)) {
             fs.writeFile(jsonPath, JSON.stringify(val.data, 0, '  '), 'utf8', () => {
                 console.log('saved in:', jsonPath);
