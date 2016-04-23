@@ -12,6 +12,7 @@ exports.process = (groups, pos, quoc) => {
         resume[i] = {win: group.positions, sup: group.positions * 2};
     }
     // others positions
+    console.log('###>>>', resume.total, pos);
     for (let r = resume.total; r < pos; r++) {
         let great = {idx: -1, val: 0};
         for (let i = 0; i < groups.length; i++) {
@@ -19,15 +20,17 @@ exports.process = (groups, pos, quoc) => {
             // ignore if no position
             if (!group.positions) continue;
 
-            let med = group.quoc / group.positions;
+            let med = group.votes / (group.positions + 1);
             if (med > great.val) {
                 great.val = med;
                 great.idx = i;
             }
         }
-        let positions = groups[great.idx].positions += 1;
-        resume[great.idx] = {win: positions, sup: positions * 2};
-        resume.total += 1;
+        if (~great.idx) {
+            let positions = (groups[great.idx].positions += 1);
+            resume[great.idx] = {win: positions, sup: positions * 2};
+            resume.total += 1;
+        }
     }
     return resume;
 };
