@@ -12,7 +12,6 @@ exports.process = (groups, pos, quoc) => {
         resume[i] = {win: group.positions, sup: group.positions * 2};
     }
     // others positions
-    console.log('###>>>', resume.total, pos);
     for (let r = resume.total; r < pos; r++) {
         let great = {idx: -1, val: 0};
         for (let i = 0; i < groups.length; i++) {

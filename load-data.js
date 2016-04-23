@@ -63,7 +63,7 @@ exports.loadCandidate = (state) => new Promise(resolve => {
                     //cand.avatar = candVote.avatar;
                     cand.impeachment = candVote.vote;
                 } else {
-                    console.log('>>>> not found', candVote.urnaName, candVote.state);
+                    console.log('>>>> not found', candVote.urnaName, '(', candVote.party, '-', candVote.state, ')');
                 }
             });
 
@@ -199,7 +199,6 @@ exports.loadVotes = (opts, candsFull) => {
 
 
         console.log('Total Positions', totalPositions, '>>>', groupResume.total, partyResume.total);
-
         let totalImp = 0,
             candVotes = [],
             others = {};
@@ -228,18 +227,18 @@ exports.loadVotes = (opts, candsFull) => {
                 others[c.party] = [];
             }
             let g = partyGroups[party.group];
+            if (g.totalNeedVotes === undefined) {
+                g.countNeeds = 0;
+                g.totalNeedVotes = 0;
+            }
+            if (g.totalExtraVotes === undefined) {
+                g.countExtra = 0;
+                g.totalExtraVotes = 0;
+            }
+
             if (c.status.geral && c.impeachment !== undefined) {
                 totalImp++;
                 let cc = JSON.parse(JSON.stringify(c));
-                if (g.totalNeedVotes === undefined) {
-                    g.countNeeds = 0;
-                    g.totalNeedVotes = 0;
-                }
-                if (g.totalExtraVotes === undefined) {
-                    g.countExtra = 0;
-                    g.totalExtraVotes = 0;
-                }
-
                 cc.group = {
                     id: party.group,
                     parties: g.parties,
