@@ -36,7 +36,7 @@ exports.gen = (state) => {
         let label = `${candidate.party} - ${candidate.urnaName}`;
         let list = parties[candidate.candidate];
         if (!list.length) {
-            resume.push([label, candidate.party, 100]);
+            resume.push([label, candidate.party, 0]);
         } else for (let l=0; l<list.length; l++) {
             let party = list[l];
             let target = `${candidate.candidate}-${party}`;
