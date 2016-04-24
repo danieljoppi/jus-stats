@@ -12,10 +12,10 @@
     "votes": 495031,
     "quoc": 3.099600520950735,
     "positions": 3,
-    "countNeeds": 2,
-    "totalNeedVotes": 156721,
-    "countExtra": 27,
-    "totalExtraVotes": 332336,
+    "countNeeds": 3,
+    "totalNeedVotes": 224613,
+    "countExtra": 26,
+    "totalExtraVotes": 240520,
     "hasMore": true,
     "pctLess": 0
   },
@@ -34,12 +34,12 @@
     "votes": 454514,
     "quoc": 2.8459062789591005,
     "positions": 3,
-    "countNeeds": 1,
-    "totalNeedVotes": 90204,
-    "countExtra": 30,
-    "totalExtraVotes": 225302,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 2,
+    "totalNeedVotes": 195099,
+    "countExtra": 29,
+    "totalExtraVotes": 170489,
+    "hasMore": false,
+    "pctLess": 0.126141087345399
   },
   {
     "name": "NOVO TEMPO",

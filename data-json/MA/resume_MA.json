@@ -2,122 +2,152 @@
   [
     "PPS - ELIZIANE GAMA",
     "SD",
-    6192
+    8456
   ],
   [
     "PPS - ELIZIANE GAMA",
     "PP",
-    1463
+    954
   ],
   [
     "PPS - ELIZIANE GAMA",
     "PCdoB",
-    13641
+    9135
   ],
   [
     "PPS - ELIZIANE GAMA",
     "PPS",
-    4636
+    3873
   ],
   [
     "PPS - ELIZIANE GAMA",
     "PSDB",
-    4487
+    2928
   ],
   [
     "PPS - ELIZIANE GAMA",
     "PSB",
-    10667
+    9821
   ],
   [
     "PMDB - HILDO ROCHA",
     "PMDB",
-    28471
+    16885
   ],
   [
     "PMDB - HILDO ROCHA",
     "DEM",
-    769
+    648
   ],
   [
     "PMDB - HILDO ROCHA",
     "PTB",
-    2800
+    2360
   ],
   [
     "PMDB - HILDO ROCHA",
     "PV",
-    930
+    784
   ],
   [
     "PMDB - HILDO ROCHA",
     "PRB",
-    4391
+    3703
   ],
   [
     "PMDB - HILDO ROCHA",
     "PR",
-    7532
+    6329
   ],
   [
-    "PRB - CLEBER VERDE",
-    "PMDB",
-    40223
+    "PCdoB - RUBENS PEREIRA JUNIOR",
+    "SD",
+    11640
   ],
   [
-    "PRB - CLEBER VERDE",
-    "DEM",
-    1084
-  ],
-  [
-    "PRB - CLEBER VERDE",
-    "PTB",
-    3955
-  ],
-  [
-    "PRB - CLEBER VERDE",
-    "PV",
+    "PCdoB - RUBENS PEREIRA JUNIOR",
+    "PP",
     1313
   ],
   [
+    "PCdoB - RUBENS PEREIRA JUNIOR",
+    "PCdoB",
+    12574
+  ],
+  [
+    "PCdoB - RUBENS PEREIRA JUNIOR",
+    "PPS",
+    5333
+  ],
+  [
+    "PCdoB - RUBENS PEREIRA JUNIOR",
+    "PSDB",
+    4031
+  ],
+  [
+    "PCdoB - RUBENS PEREIRA JUNIOR",
+    "PSB",
+    13511
+  ],
+  [
+    "PRB - CLEBER VERDE",
+    "PMDB",
+    23831
+  ],
+  [
+    "PRB - CLEBER VERDE",
+    "DEM",
+    914
+  ],
+  [
+    "PRB - CLEBER VERDE",
+    "PTB",
+    3334
+  ],
+  [
+    "PRB - CLEBER VERDE",
+    "PV",
+    1107
+  ],
+  [
     "PRB - CLEBER VERDE",
     "PRB",
-    6201
+    5226
   ],
   [
     "PRB - CLEBER VERDE",
     "PR",
-    10636
+    8966
   ],
   [
     "PV - SARNEY FILHO",
     "PMDB",
-    48087
+    28493
   ],
   [
     "PV - SARNEY FILHO",
     "DEM",
-    1297
+    1093
   ],
   [
     "PV - SARNEY FILHO",
     "PTB",
-    4728
+    3984
   ],
   [
     "PV - SARNEY FILHO",
     "PV",
-    1570
+    1323
   ],
   [
     "PV - SARNEY FILHO",
     "PRB",
-    7416
+    6249
   ],
   [
     "PV - SARNEY FILHO",
     "PR",
-    12721
+    10720
   ],
   [
     "PT - ZE CARLOS",
@@ -130,64 +160,94 @@
     15613
   ],
   [
+    "PSB - ZE REINALDO",
+    "SD",
+    18094
+  ],
+  [
+    "PSB - ZE REINALDO",
+    "PP",
+    2042
+  ],
+  [
+    "PSB - ZE REINALDO",
+    "PCdoB",
+    19545
+  ],
+  [
+    "PSB - ZE REINALDO",
+    "PPS",
+    8288
+  ],
+  [
+    "PSB - ZE REINALDO",
+    "PSDB",
+    6266
+  ],
+  [
+    "PSB - ZE REINALDO",
+    "PSB",
+    21012
+  ],
+  [
     "PTB - PEDRO FERNANDES",
     "PMDB",
-    51655
+    30615
   ],
   [
     "PTB - PEDRO FERNANDES",
     "DEM",
-    1393
+    1175
   ],
   [
     "PTB - PEDRO FERNANDES",
     "PTB",
-    5078
+    4282
   ],
   [
     "PTB - PEDRO FERNANDES",
     "PV",
-    1686
+    1422
   ],
   [
     "PTB - PEDRO FERNANDES",
     "PRB",
-    7964
+    6715
   ],
   [
     "PTB - PEDRO FERNANDES",
     "PR",
-    13661
+    11506
   ],
   [
     "PV - VICTOR MENDES",
     "PMDB",
-    51935
+    30775
   ],
   [
     "PV - VICTOR MENDES",
     "DEM",
-    1401
+    1180
   ],
   [
     "PV - VICTOR MENDES",
     "PTB",
-    5106
+    4304
   ],
   [
     "PV - VICTOR MENDES",
     "PV",
-    1695
+    1429
   ],
   [
     "PV - VICTOR MENDES",
     "PRB",
-    8007
+    6750
   ],
   [
     "PV - VICTOR MENDES",
     "PR",
-    13737
+    11573
   ],
   [
     "PRP - JUSCELINO FILHO",
@@ -215,6 +275,36 @@
     5959
   ],
   [
+    "PMDB - JOAO MARCELO",
+    "PMDB",
+    31171
+  ],
+  [
+    "PMDB - JOAO MARCELO",
+    "DEM",
+    1196
+  ],
+  [
+    "PMDB - JOAO MARCELO",
+    "PTB",
+    4358
+  ],
+  [
+    "PMDB - JOAO MARCELO",
+    "PV",
+    1447
+  ],
+  [
+    "PMDB - JOAO MARCELO",
+    "PRB",
+    6836
+  ],
+  [
+    "PMDB - JOAO MARCELO",
+    "PR",
+    11729
+  ],
+  [
     "PDT - WEVERTON ROCHA",
     "PDT",
     50872
@@ -232,62 +322,62 @@
   [
     "PMDB - ALBERTO FILHO",
     "PMDB",
-    61875
+    36650
   ],
   [
     "PMDB - ALBERTO FILHO",
     "DEM",
-    1669
+    1406
   ],
   [
     "PMDB - ALBERTO FILHO",
     "PTB",
-    6082
+    5124
   ],
   [
     "PMDB - ALBERTO FILHO",
     "PV",
-    2019
+    1701
   ],
   [
     "PMDB - ALBERTO FILHO",
     "PRB",
-    9539
+    8038
   ],
   [
     "PMDB - ALBERTO FILHO",
     "PR",
-    16363
+    13788
   ],
   [
     "PP - WALDIR MARANHAO",
     "SD",
-    16335
+    22304
   ],
   [
     "PP - WALDIR MARANHAO",
     "PP",
-    3859
+    2518
   ],
   [
     "PP - WALDIR MARANHAO",
     "PCdoB",
-    35986
+    24096
   ],
   [
     "PP - WALDIR MARANHAO",
     "PPS",
-    12230
+    10218
   ],
   [
     "PP - WALDIR MARANHAO",
     "PSDB",
-    11837
+    7724
   ],
   [
     "PP - WALDIR MARANHAO",
     "PSB",
-    28140
+    25901
   ],
   [
     "PEN - ANDRE FUFUCA",
@@ -317,32 +407,32 @@
   [
     "PSDB - JOAO CASTELO",
     "SD",
-    18364
+    25085
   ],
   [
     "PSDB - JOAO CASTELO",
     "PP",
-    4341
+    2833
   ],
   [
     "PSDB - JOAO CASTELO",
     "PCdoB",
-    40467
+    27101
   ],
   [
     "PSDB - JOAO CASTELO",
     "PPS",
-    13753
+    11492
   ],
   [
     "PSDB - JOAO CASTELO",
     "PSDB",
-    13313
+    8686
   ],
   [
     "PSDB - JOAO CASTELO",
     "PSB",
-    31642
+    29128
   ],
   [
     "PEN - JUNIOR MARRECA",

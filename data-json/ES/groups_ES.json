@@ -11,12 +11,12 @@
     "votes": 691558,
     "quoc": 3.7262073461822376,
     "positions": 4,
-    "countNeeds": 3,
-    "totalNeedVotes": 300930,
-    "countExtra": 31,
-    "totalExtraVotes": 435709,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 4,
+    "totalNeedVotes": 418892,
+    "countExtra": 30,
+    "totalExtraVotes": 368078,
+    "hasMore": false,
+    "pctLess": 0.12130573035531832
   },
   {
     "name": "COM A FORÇA DO POVO CAPIXABA",
@@ -27,12 +27,12 @@
     "votes": 430091,
     "quoc": 2.317388048040605,
     "positions": 3,
-    "countNeeds": 2,
-    "totalNeedVotes": 125475,
-    "countExtra": 20,
-    "totalExtraVotes": 184380,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 3,
+    "totalNeedVotes": 260140,
+    "countExtra": 19,
+    "totalExtraVotes": 133452,
+    "hasMore": false,
+    "pctLess": 0.4869993080648881
   },
   {
     "name": "UNIDOS PELO ESPIRITO SANTO",
@@ -66,10 +66,12 @@
     "votes": 274573,
     "quoc": 1.4794361856320013,
     "positions": 1,
-    "countNeeds": 0,
-    "totalNeedVotes": 0,
-    "countExtra": 27,
-    "totalExtraVotes": 274573
+    "countNeeds": 1,
+    "totalNeedVotes": 97483,
+    "countExtra": 26,
+    "totalExtraVotes": 186463,
+    "hasMore": true,
+    "pctLess": 0
   },
   {
     "name": "44 - PRP",

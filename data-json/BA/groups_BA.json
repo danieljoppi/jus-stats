@@ -13,12 +13,12 @@
     "votes": 3594897,
     "quoc": 20.869502368567712,
     "positions": 22,
-    "countNeeds": 21,
-    "totalNeedVotes": 1398944,
-    "countExtra": 45,
-    "totalExtraVotes": 1376465,
+    "countNeeds": 23,
+    "totalNeedVotes": 1501230,
+    "countExtra": 43,
+    "totalExtraVotes": 1134239,
     "hasMore": false,
-    "pctLess": 0.016068548848274126
+    "pctLess": 0.24446020929504472
   },
   {
     "name": "UNIDOS POR UMA BAHIA MELHOR",
@@ -35,12 +35,12 @@
     "votes": 2384861,
     "quoc": 13.844864620100315,
     "positions": 14,
-    "countNeeds": 8,
-    "totalNeedVotes": 494783,
-    "countExtra": 70,
-    "totalExtraVotes": 1329340,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 13,
+    "totalNeedVotes": 841152,
+    "countExtra": 65,
+    "totalExtraVotes": 814429,
+    "hasMore": false,
+    "pctLess": 0.03176952560298257
   },
   {
     "name": "UM NOVO CAMINHO PARA A BAHIA",

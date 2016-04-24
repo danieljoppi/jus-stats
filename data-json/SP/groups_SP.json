@@ -9,12 +9,12 @@
     "votes": 5542227,
     "quoc": 18.116056339869708,
     "positions": 18,
-    "countNeeds": 16,
-    "totalNeedVotes": 2018764,
-    "countExtra": 68,
-    "totalExtraVotes": 2054269,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 18,
+    "totalNeedVotes": 2334261,
+    "countExtra": 66,
+    "totalExtraVotes": 1757908,
+    "hasMore": false,
+    "pctLess": 0.2469102641049994
   },
   {
     "name": "PT - PCdoB",
@@ -25,12 +25,12 @@
     "votes": 3172943,
     "quoc": 10.371501230677707,
     "positions": 10,
-    "countNeeds": 10,
-    "totalNeedVotes": 1955425,
-    "countExtra": 63,
-    "totalExtraVotes": 2069078,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 11,
+    "totalNeedVotes": 2123068,
+    "countExtra": 62,
+    "totalExtraVotes": 1930792,
+    "hasMore": false,
+    "pctLess": 0.090565163244889
   },
   {
     "name": "PMDB-PROS-PP-PSD",
@@ -58,12 +58,12 @@
     "votes": 2243192,
     "quoc": 7.332394117589375,
     "positions": 7,
-    "countNeeds": 6,
-    "totalNeedVotes": 1387748,
-    "countExtra": 91,
-    "totalExtraVotes": 1489437,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 7,
+    "totalNeedVotes": 1663362,
+    "countExtra": 90,
+    "totalExtraVotes": 1459122,
+    "hasMore": false,
+    "pctLess": 0.12278746298159991
   },
   {
     "name": "22 - PR",
@@ -88,10 +88,10 @@
     "votes": 1247194,
     "quoc": 4.076743296647261,
     "positions": 4,
-    "countNeeds": 3,
-    "totalNeedVotes": 544824,
-    "countExtra": 74,
-    "totalExtraVotes": 874231,
+    "countNeeds": 4,
+    "totalNeedVotes": 747790,
+    "countExtra": 73,
+    "totalExtraVotes": 771268,
     "hasMore": true,
     "pctLess": 0
   },
@@ -103,10 +103,10 @@
     "votes": 964545,
     "quoc": 3.1528393843015863,
     "positions": 3,
-    "countNeeds": 2,
-    "totalNeedVotes": 435076,
-    "countExtra": 90,
-    "totalExtraVotes": 787763,
+    "countNeeds": 3,
+    "totalNeedVotes": 681643,
+    "countExtra": 89,
+    "totalExtraVotes": 728401,
     "hasMore": true,
     "pctLess": 0
   },
@@ -148,10 +148,12 @@
     "votes": 501230,
     "quoc": 1.6383866844921533,
     "positions": 2,
-    "countNeeds": 0,
-    "totalNeedVotes": 0,
-    "countExtra": 44,
-    "totalExtraVotes": 501230
+    "countNeeds": 1,
+    "totalNeedVotes": 78743,
+    "countExtra": 43,
+    "totalExtraVotes": 274044,
+    "hasMore": true,
+    "pctLess": 0
   },
   {
     "name": "Frente de Esquerda",
@@ -177,10 +179,12 @@
     "votes": 456509,
     "quoc": 1.4922057078603206,
     "positions": 1,
-    "countNeeds": 0,
-    "totalNeedVotes": 0,
-    "countExtra": 50,
-    "totalExtraVotes": 456509
+    "countNeeds": 1,
+    "totalNeedVotes": 126733,
+    "countExtra": 49,
+    "totalExtraVotes": 277313,
+    "hasMore": true,
+    "pctLess": 0
   },
   {
     "name": "PROJETO VITORIA",

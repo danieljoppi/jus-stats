@@ -17,12 +17,12 @@
     "votes": 2451007,
     "quoc": 12.340368649209282,
     "positions": 14,
-    "countNeeds": 10,
-    "totalNeedVotes": 943104,
-    "countExtra": 44,
-    "totalExtraVotes": 1010707,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 12,
+    "totalNeedVotes": 1124642,
+    "countExtra": 42,
+    "totalExtraVotes": 795011,
+    "hasMore": false,
+    "pctLess": 0.2930986038223719
   },
   {
     "name": "PMDB/PSC/PR/PRP/PSDB",
@@ -36,12 +36,12 @@
     "votes": 1152398,
     "quoc": 5.802111601725935,
     "positions": 6,
-    "countNeeds": 4,
-    "totalNeedVotes": 270344,
-    "countExtra": 38,
-    "totalExtraVotes": 628274,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 6,
+    "totalNeedVotes": 398697,
+    "countExtra": 36,
+    "totalExtraVotes": 359393,
+    "hasMore": false,
+    "pctLess": 0.09858112802453994
   },
   {
     "name": "EM DEFESA DO CEARÁ",
@@ -57,7 +57,7 @@
     "countNeeds": 1,
     "totalNeedVotes": 51573,
     "countExtra": 29,
-    "totalExtraVotes": 343161,
+    "totalExtraVotes": 144544,
     "hasMore": true,
     "pctLess": 0
   },

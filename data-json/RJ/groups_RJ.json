@@ -27,12 +27,12 @@
     "votes": 1240865,
     "quoc": 7.3178017078694095,
     "positions": 8,
-    "countNeeds": 6,
-    "totalNeedVotes": 693302,
-    "countExtra": 72,
-    "totalExtraVotes": 747191,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 7,
+    "totalNeedVotes": 797246,
+    "countExtra": 71,
+    "totalExtraVotes": 681567,
+    "hasMore": false,
+    "pctLess": 0.1450982507281316
   },
   {
     "name": "FRENTE POPULAR I",
@@ -44,12 +44,12 @@
     "votes": 990402,
     "quoc": 5.840736459709379,
     "positions": 6,
-    "countNeeds": 6,
-    "totalNeedVotes": 674185,
-    "countExtra": 71,
-    "totalExtraVotes": 647179,
+    "countNeeds": 7,
+    "totalNeedVotes": 761517,
+    "countExtra": 70,
+    "totalExtraVotes": 564943,
     "hasMore": false,
-    "pctLess": 0.040057254314468584
+    "pctLess": 0.2581347494540503
   },
   {
     "name": "50 - PSOL",
@@ -139,10 +139,12 @@
     "votes": 193830,
     "quoc": 1.1430812417437253,
     "positions": 1,
-    "countNeeds": 0,
-    "totalNeedVotes": 0,
-    "countExtra": 85,
-    "totalExtraVotes": 193830
+    "countNeeds": 1,
+    "totalNeedVotes": 136347,
+    "countExtra": 84,
+    "totalExtraVotes": 160609,
+    "hasMore": true,
+    "pctLess": 0
   },
   {
     "name": "RENOVA RIO",

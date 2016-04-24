@@ -15,12 +15,12 @@
     "votes": 1416400,
     "quoc": 6.405368860428623,
     "positions": 6,
-    "countNeeds": 4,
-    "totalNeedVotes": 404843,
-    "countExtra": 44,
-    "totalExtraVotes": 715608,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 6,
+    "totalNeedVotes": 712476,
+    "countExtra": 42,
+    "totalExtraVotes": 580987,
+    "hasMore": false,
+    "pctLess": 0.1845521814068123
   },
   {
     "name": "TODOS PELO PARÁ II",
@@ -31,12 +31,12 @@
     "votes": 1056259,
     "quoc": 4.776707502928182,
     "positions": 5,
-    "countNeeds": 3,
-    "totalNeedVotes": 338750,
-    "countExtra": 18,
-    "totalExtraVotes": 731628,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 5,
+    "totalNeedVotes": 571024,
+    "countExtra": 16,
+    "totalExtraVotes": 521648,
+    "hasMore": false,
+    "pctLess": 0.0864692202079072
   },
   {
     "name": "DEFENDENDO O PARÁ",
@@ -69,10 +69,12 @@
     "votes": 347324,
     "quoc": 1.5706991909626595,
     "positions": 2,
-    "countNeeds": 0,
-    "totalNeedVotes": 0,
-    "countExtra": 15,
-    "totalExtraVotes": 347324
+    "countNeeds": 1,
+    "totalNeedVotes": 79914,
+    "countExtra": 14,
+    "totalExtraVotes": 206111,
+    "hasMore": true,
+    "pctLess": 0
   },
   {
     "name": "FRENTE DE ESQUERDA - MUDANÇA PRA VALER",

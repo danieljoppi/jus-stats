@@ -27,32 +27,32 @@
   [
     "PSDB - CARLOS SAMPAIO",
     "PSDB",
-    7602
+    6184
   ],
   [
     "PSDB - CARLOS SAMPAIO",
     "DEM",
-    1708
+    687
   ],
   [
     "PSDB - CARLOS SAMPAIO",
     "PPS",
-    996
+    860
   ],
   [
     "PSDB - DUARTE NOGUEIRA",
     "PSDB",
-    38245
+    31219
   ],
   [
     "PSDB - DUARTE NOGUEIRA",
     "DEM",
-    8611
+    3469
   ],
   [
     "PSDB - DUARTE NOGUEIRA",
     "PPS",
-    5022
+    4338
   ],
   [
     "PP - PAULO MALUF",
@@ -77,32 +77,37 @@
   [
     "PSDB - RICARDO TRIPOLI",
     "PSDB",
-    53189
+    43448
   ],
   [
     "PSDB - RICARDO TRIPOLI",
     "DEM",
-    11959
+    4830
   ],
   [
     "PSDB - RICARDO TRIPOLI",
     "PPS",
-    6975
+    6037
   ],
   [
     "PSDB - SAMUEL MOREIRA",
     "PSDB",
-    58035
+    47390
   ],
   [
     "PSDB - SAMUEL MOREIRA",
     "DEM",
-    13066
+    5265
   ],
   [
     "PSDB - SAMUEL MOREIRA",
     "PPS",
-    7618
+    6582
+  ],
+  [
+    "SD - PAULINHO DA FORCA",
+    "SD",
+    78743
   ],
   [
     "PMDB - BALEIA ROSSI",
@@ -127,17 +132,17 @@
   [
     "PSDB - EDUARDO CURY",
     "PSDB",
-    88677
+    72420
   ],
   [
     "PSDB - EDUARDO CURY",
     "DEM",
-    19969
+    8048
   ],
   [
     "PSDB - EDUARDO CURY",
     "PPS",
-    11645
+    10061
   ],
   [
     "PR - MARCIO ALVINO",
@@ -145,19 +150,39 @@
     109789
   ],
   [
+    "PDT - MAJOR OLIMPIO GOMES",
+    "PDT",
+    126733
+  ],
+  [
+    "DEM - JORGE TADEU",
+    "PSDB",
+    76504
+  ],
+  [
+    "DEM - JORGE TADEU",
+    "DEM",
+    8502
+  ],
+  [
+    "DEM - JORGE TADEU",
+    "PPS",
+    10629
+  ],
+  [
     "PSDB - BRUNA FURLAN",
     "PSDB",
-    93852
+    76638
   ],
   [
     "PSDB - BRUNA FURLAN",
     "DEM",
-    21143
+    8518
   ],
   [
     "PSDB - BRUNA FURLAN",
     "PPS",
-    12328
+    10650
   ],
   [
     "PSB - LUIZA ERUNDINA",
@@ -167,42 +192,42 @@
   [
     "PSDB - VITOR LIPPI",
     "PSDB",
-    95669
+    78182
   ],
   [
     "PSDB - VITOR LIPPI",
     "DEM",
-    21546
+    8688
   ],
   [
     "PSDB - VITOR LIPPI",
     "PPS",
-    12561
+    10863
   ],
   [
     "PSDB - SILVIO TORRES",
     "PSDB",
-    96300
+    78675
   ],
   [
     "PSDB - SILVIO TORRES",
     "DEM",
-    21677
+    8752
   ],
   [
     "PSDB - SILVIO TORRES",
     "PPS",
-    12642
+    10941
   ],
   [
     "PT - ANDRES SANCHEZ",
     "PT",
-    127539
+    115882
   ],
   [
     "PT - ANDRES SANCHEZ",
     "PCdoB",
-    8556
+    7879
   ],
   [
     "PSOL - IVAN VALENTE",
@@ -217,32 +242,32 @@
   [
     "PSDB - MIGUEL HADDAD",
     "PSDB",
-    101476
+    82914
   ],
   [
     "PSDB - MIGUEL HADDAD",
     "DEM",
-    22850
+    9223
   ],
   [
     "PSDB - MIGUEL HADDAD",
     "PPS",
-    13325
+    11527
   ],
   [
     "PPS - ALEX MANENTE",
     "PSDB",
-    104091
+    85036
   ],
   [
     "PPS - ALEX MANENTE",
     "DEM",
-    23421
+    9455
   ],
   [
     "PPS - ALEX MANENTE",
     "PPS",
-    13657
+    11822
   ],
   [
     "PSD - JEFFERSON CAMPOS",
@@ -287,32 +312,32 @@
   [
     "PPS - ARNALDO JARDIM",
     "PSDB",
-    111079
+    90705
   ],
   [
     "PPS - ARNALDO JARDIM",
     "DEM",
-    24995
+    10080
   ],
   [
     "PPS - ARNALDO JARDIM",
     "PPS",
-    14577
+    12603
   ],
   [
     "PSDB - MARA GABRILLI",
     "PSDB",
-    111161
+    90837
   ],
   [
     "PSDB - MARA GABRILLI",
     "DEM",
-    25029
+    10096
   ],
   [
     "PSDB - MARA GABRILLI",
     "PPS",
-    14596
+    12622
   ],
   [
     "PP - MISSIONARIO JOSE OLIMPIO",
@@ -337,62 +362,72 @@
   [
     "PSDB - VANDERLEI MACRIS",
     "PSDB",
-    116102
+    94859
   ],
   [
     "PSDB - VANDERLEI MACRIS",
     "DEM",
-    26136
+    10550
   ],
   [
     "PSDB - VANDERLEI MACRIS",
     "PPS",
-    15242
+    13188
+  ],
+  [
+    "PT - ZARATTINI",
+    "PT",
+    142643
+  ],
+  [
+    "PT - ZARATTINI",
+    "PCdoB",
+    9698
   ],
   [
     "PRB - ANTONIO BULHOES",
     "PRB",
-    167990
+    147363
   ],
   [
     "PT - ARLINDO CHINAGLIA",
     "PT",
-    159463
+    144811
   ],
   [
     "PT - ARLINDO CHINAGLIA",
     "PCdoB",
-    10694
+    9846
   ],
   [
     "DEM - ELI CORREA FILHO",
     "PSDB",
-    126651
+    103490
   ],
   [
     "DEM - ELI CORREA FILHO",
     "DEM",
-    28514
+    11503
   ],
   [
     "DEM - ELI CORREA FILHO",
     "PPS",
-    16626
+    14381
   ],
   [
     "PRB - ROBERTO ALVES",
     "PRB",
-    175413
+    153789
   ],
   [
     "PT - ANA PERUGINI",
     "PT",
-    172668
+    156892
   ],
   [
     "PT - ANA PERUGINI",
     "PCdoB",
-    11580
+    10670
   ],
   [
     "PSC - GILBERTO NASCIMENTO",
@@ -402,12 +437,27 @@
   [
     "PT - VICENTE CANDIDO",
     "PT",
-    176440
+    160322
   ],
   [
     "PT - VICENTE CANDIDO",
     "PCdoB",
-    11837
+    10904
+  ],
+  [
+    "PSDB - PAPA",
+    "PSDB",
+    113455
+  ],
+  [
+    "PSDB - PAPA",
+    "DEM",
+    12613
+  ],
+  [
+    "PSDB - PAPA",
+    "PPS",
+    15768
   ],
   [
     "PR - MILTON MONTI",
@@ -417,17 +467,17 @@
   [
     "PSDB - FLORIANO PESARO",
     "PSDB",
-    141536
+    115593
   ],
   [
     "PSDB - FLORIANO PESARO",
     "DEM",
-    31864
+    12847
   ],
   [
     "PSDB - FLORIANO PESARO",
     "PPS",
-    18580
+    16059
   ],
   [
     "PSD - RICARDO IZAR",
@@ -482,12 +532,12 @@
   [
     "PT - PAULO TEIXEIRA",
     "PT",
-    182397
+    165729
   ],
   [
     "PT - PAULO TEIXEIRA",
     "PCdoB",
-    12231
+    11272
   ],
   [
     "PR - PAULO FREIRE",
@@ -497,17 +547,17 @@
   [
     "DEM - ALEXANDRE LEITE",
     "PSDB",
-    144663
+    118123
   ],
   [
     "DEM - ALEXANDRE LEITE",
     "DEM",
-    32568
+    13128
   ],
   [
     "DEM - ALEXANDRE LEITE",
     "PPS",
-    18990
+    16411
   ],
   [
     "PV - EVANDRO GUSSI",
@@ -520,14 +570,19 @@
     200682
   ],
   [
+    "PSB - OTA",
+    "PSB",
+    202966
+  ],
+  [
     "PT - NILTO TATTO",
     "PT",
-    191864
+    174281
   ],
   [
     "PT - NILTO TATTO",
     "PCdoB",
-    12869
+    11850
   ],
   [
     "PSD - HERCULANO PASSOS",
@@ -572,27 +627,27 @@
   [
     "PCdoB - ORLANDO SILVA",
     "PT",
-    201754
+    183318
   ],
   [
     "PCdoB - ORLANDO SILVA",
     "PCdoB",
-    13534
+    12464
   ],
   [
     "PSB - FLAVINHO",
     "PSB",
-    215494
+    215492
   ],
   [
     "PT - VICENTINHO",
     "PT",
-    203296
+    184720
   ],
   [
     "PT - VICENTINHO",
     "PCdoB",
-    13632
+    12562
   ],
   [
     "PTN - RENATA ABREU",
@@ -622,22 +677,22 @@
   [
     "PT - VALMIR PRASCIDELLI",
     "PT",
-    207583
+    188558
   ],
   [
     "PT - VALMIR PRASCIDELLI",
     "PCdoB",
-    13927
+    12821
   ],
   [
     "PT - JOSE MENTOR",
     "PT",
-    209510
+    190367
   ],
   [
     "PT - JOSE MENTOR",
     "PCdoB",
-    14051
+    12944
   ],
   [
     "PSC - EDUARDO BOLSONARO",
@@ -647,12 +702,17 @@
   [
     "PRB - VINICIUS CARVALHO",
     "PRB",
-    225286
+    197565
   ],
   [
     "PV - ROBERTO DE LUCENA",
     "PV",
-    238744
+    238738
+  ],
+  [
+    "PV - DR SINVAL MALHEIROS",
+    "PV",
+    246567
   ],
   [
     "PR - CAPITAO AUGUSTO",
@@ -662,7 +722,7 @@
   [
     "PRB - SERGIO REIS",
     "PRB",
-    260599
+    228601
   ],
   [
     "PR - MIGUEL LOMBARDI",
@@ -672,11 +732,16 @@
   [
     "PRB - BETO MANSUR",
     "PRB",
-    274628
+    240898
+  ],
+  [
+    "PRB - MARCELO SQUASONI",
+    "PRB",
+    241772
   ],
   [
     "PRB - FAUSTO PINATO",
     "PRB",
-    283832
+    248928
   ]
 ]

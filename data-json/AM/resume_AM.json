@@ -1,153 +1,158 @@
 [
   [
+    "PSDB - ARTUR BISNETO",
+    "PSDB",
+    0
+  ],
+  [
     "PSD - SILAS CAMARA",
     "PROS",
-    1949
+    1373
   ],
   [
     "PSD - SILAS CAMARA",
     "DEM",
-    7935
+    389
   ],
   [
     "PSD - SILAS CAMARA",
     "PSDB",
-    8705
+    6040
   ],
   [
     "PSD - SILAS CAMARA",
     "PR",
-    567
+    399
   ],
   [
     "PSD - SILAS CAMARA",
     "PTN",
-    3942
+    2778
   ],
   [
     "PSD - SILAS CAMARA",
     "PSC",
-    461
+    325
   ],
   [
     "PSD - SILAS CAMARA",
     "PTdoB",
-    49
+    34
   ],
   [
     "PSD - SILAS CAMARA",
     "PTC",
-    2010
+    1416
   ],
   [
     "PSD - SILAS CAMARA",
     "PRTB",
-    15
+    11
   ],
   [
     "PSD - SILAS CAMARA",
     "PEN",
-    108
+    76
   ],
   [
     "PSD - SILAS CAMARA",
     "PV",
-    551
+    388
   ],
   [
     "PSD - SILAS CAMARA",
     "PHS",
-    3291
+    2318
   ],
   [
     "PSD - SILAS CAMARA",
     "PSL",
-    569
+    401
   ],
   [
     "PSD - SILAS CAMARA",
     "PSD",
-    10970
+    8767
   ],
   [
     "PSD - SILAS CAMARA",
     "SD",
-    157
+    110
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PROS",
-    4131
+    2910
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "DEM",
-    16820
+    825
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PSDB",
-    18454
+    12799
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PR",
-    1201
+    846
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PTN",
-    8357
+    5886
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PSC",
-    977
+    688
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PTdoB",
-    102
+    72
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PTC",
-    4263
+    3002
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PRTB",
-    32
+    23
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PEN",
-    229
+    161
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PV",
-    1167
+    822
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PHS",
-    6974
+    4913
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PSL",
-    1205
+    849
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "PSD",
-    23256
+    18592
   ],
   [
     "PR - ALFREDO NASCIMENTO",
     "SD",
-    332
+    234
   ],
   [
     "PMDB - MARCOS ROTTA",
@@ -250,79 +255,154 @@
     14575
   ],
   [
+    "DEM - PAUDERNEY",
+    "PROS",
+    3446
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "DEM",
+    977
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PSDB",
+    15162
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PR",
+    1002
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PTN",
+    6973
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PSC",
+    816
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PTdoB",
+    85
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PTC",
+    3557
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PRTB",
+    27
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PEN",
+    190
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PV",
+    974
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PHS",
+    5820
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PSL",
+    1006
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "PSD",
+    22025
+  ],
+  [
+    "DEM - PAUDERNEY",
+    "SD",
+    278
+  ],
+  [
     "PSD - ATILA LINS",
     "PROS",
-    5576
+    3927
   ],
   [
     "PSD - ATILA LINS",
     "DEM",
-    22701
+    1113
   ],
   [
     "PSD - ATILA LINS",
     "PSDB",
-    24908
+    17275
   ],
   [
     "PSD - ATILA LINS",
     "PR",
-    1620
+    1142
   ],
   [
     "PSD - ATILA LINS",
     "PTN",
-    11280
+    7943
   ],
   [
     "PSD - ATILA LINS",
     "PSC",
-    1320
+    930
   ],
   [
     "PSD - ATILA LINS",
     "PTdoB",
-    138
+    98
   ],
   [
     "PSD - ATILA LINS",
     "PTC",
-    5753
+    4052
   ],
   [
     "PSD - ATILA LINS",
     "PRTB",
-    44
+    31
   ],
   [
     "PSD - ATILA LINS",
     "PEN",
-    308
+    217
   ],
   [
     "PSD - ATILA LINS",
     "PV",
-    1576
+    1110
   ],
   [
     "PSD - ATILA LINS",
     "PHS",
-    9415
+    6630
   ],
   [
     "PSD - ATILA LINS",
     "PSL",
-    1628
+    1147
   ],
   [
     "PSD - ATILA LINS",
     "PSD",
-    31391
+    25094
   ],
   [
     "PSD - ATILA LINS",
     "SD",
-    449
+    316
   ],
   [
     "PP - CONCEICAO SAMPAIO",

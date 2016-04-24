@@ -5,104 +5,134 @@
     0
   ],
   [
+    "PMDB - MARUN",
+    "PMDB",
+    48302
+  ],
+  [
+    "PMDB - MARUN",
+    "PSB",
+    2674
+  ],
+  [
+    "PMDB - MARUN",
+    "PRB",
+    10993
+  ],
+  [
+    "PMDB - MARUN",
+    "PTN",
+    1861
+  ],
+  [
+    "PMDB - MARUN",
+    "PEN",
+    285
+  ],
+  [
+    "PMDB - MARUN",
+    "PSC",
+    3777
+  ],
+  [
     "PMDB - GERALDO RESENDE",
     "PMDB",
-    51225
+    51340
   ],
   [
     "PMDB - GERALDO RESENDE",
     "PSB",
-    4073
+    2843
   ],
   [
     "PMDB - GERALDO RESENDE",
     "PRB",
-    7844
+    11684
   ],
   [
     "PMDB - GERALDO RESENDE",
     "PTN",
-    2835
+    1978
   ],
   [
     "PMDB - GERALDO RESENDE",
     "PEN",
-    435
+    303
   ],
   [
     "PMDB - GERALDO RESENDE",
     "PSC",
-    5752
+    4014
   ],
   [
     "PSB - TEREZA CRISTINA",
     "PMDB",
-    60023
+    60158
   ],
   [
     "PSB - TEREZA CRISTINA",
     "PSB",
-    4773
+    3331
   ],
   [
     "PSB - TEREZA CRISTINA",
     "PRB",
-    9190
+    13691
   ],
   [
     "PSB - TEREZA CRISTINA",
     "PTN",
-    3322
+    2319
   ],
   [
     "PSB - TEREZA CRISTINA",
     "PEN",
-    509
+    356
   ],
   [
     "PSB - TEREZA CRISTINA",
     "PSC",
-    6742
+    4704
   ],
   [
     "PT - VANDER LOUBET",
     "PT",
-    25796
+    41875
   ],
   [
     "PT - VANDER LOUBET",
     "PR",
-    12873
+    17381
   ],
   [
     "PT - VANDER LOUBET",
     "PDT",
-    20234
+    5023
   ],
   [
     "PT - VANDER LOUBET",
     "PROS",
-    16511
+    7708
   ],
   [
     "PT - VANDER LOUBET",
     "PTC",
-    7583
+    3506
   ],
   [
     "PT - VANDER LOUBET",
     "PCdoB",
-    2376
+    1099
   ],
   [
     "PT - VANDER LOUBET",
     "PTB",
-    3050
+    1410
   ],
   [
     "PT - VANDER LOUBET",
     "PSDC",
-    1782
+    824
   ],
   [
     "DEM - MANDETTA",
@@ -133,6 +163,46 @@
     "DEM - MANDETTA",
     "PMN",
     1419
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PT",
+    48692
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PR",
+    20211
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PDT",
+    5842
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PROS",
+    8964
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PTC",
+    4078
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PCdoB",
+    1277
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PTB",
+    1640
+  ],
+  [
+    "PDT - DAGOBERTO NOGUEIRA",
+    "PSDC",
+    959
   ],
   [
     "SD - ELIZEU DIONIZIO",

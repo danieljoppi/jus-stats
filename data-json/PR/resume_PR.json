@@ -37,52 +37,97 @@
   [
     "PMDB - JOAO ARRUDA",
     "PMDB",
-    13810
+    13035
   ],
   [
     "PSC - TAKAYAMA",
     "PSDB",
-    8721
+    8481
   ],
   [
     "PSC - TAKAYAMA",
     "DEM",
-    2580
+    2515
   ],
   [
     "PSC - TAKAYAMA",
     "PR",
-    687
+    670
   ],
   [
     "PSC - TAKAYAMA",
     "PSC",
-    4677
+    4559
   ],
   [
     "PSC - TAKAYAMA",
     "PTdoB",
-    167
+    164
   ],
   [
     "PSC - TAKAYAMA",
     "PP",
-    264
+    257
   ],
   [
     "PSC - TAKAYAMA",
     "SD",
-    4355
+    482
   ],
   [
     "PSC - TAKAYAMA",
     "PSD",
-    3397
+    3311
   ],
   [
     "PSC - TAKAYAMA",
     "PPS",
-    1218
+    1190
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "PSDB",
+    9552
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "DEM",
+    2825
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "PR",
+    753
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "PSC",
+    5120
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "PTdoB",
+    184
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "PP",
+    289
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "SD",
+    540
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "PSD",
+    3719
+  ],
+  [
+    "SD - DELEGADO FRANCISCHINI",
+    "PPS",
+    1334
   ],
   [
     "PSB - LUCIANO DUCCI",
@@ -117,232 +162,237 @@
   [
     "PP - DILCEU SPERAFICO",
     "PSDB",
-    12253
+    11928
   ],
   [
     "PP - DILCEU SPERAFICO",
     "DEM",
-    3625
+    3528
   ],
   [
     "PP - DILCEU SPERAFICO",
     "PR",
-    966
+    940
   ],
   [
     "PP - DILCEU SPERAFICO",
     "PSC",
-    6570
+    6395
   ],
   [
     "PP - DILCEU SPERAFICO",
     "PTdoB",
-    235
+    229
   ],
   [
     "PP - DILCEU SPERAFICO",
     "PP",
-    371
+    362
   ],
   [
     "PP - DILCEU SPERAFICO",
     "SD",
-    6118
+    676
   ],
   [
     "PP - DILCEU SPERAFICO",
     "PSD",
-    4771
+    4645
   ],
   [
     "PP - DILCEU SPERAFICO",
     "PPS",
-    1712
+    1667
+  ],
+  [
+    "PMDB - HERMES FRANGAO PARCIANELLO",
+    "PMDB",
+    37727
   ],
   [
     "PR - GIACOBO",
     "PSDB",
-    14699
+    14308
   ],
   [
     "PR - GIACOBO",
     "DEM",
-    4350
+    4231
   ],
   [
     "PR - GIACOBO",
     "PR",
-    1159
+    1128
   ],
   [
     "PR - GIACOBO",
     "PSC",
-    7883
+    7672
   ],
   [
     "PR - GIACOBO",
     "PTdoB",
-    283
+    274
   ],
   [
     "PR - GIACOBO",
     "PP",
-    445
+    434
   ],
   [
     "PR - GIACOBO",
     "SD",
-    7342
+    810
   ],
   [
     "PR - GIACOBO",
     "PSD",
-    5727
+    5573
   ],
   [
     "PR - GIACOBO",
     "PPS",
-    2055
+    1999
   ],
   [
     "PP - MARCELO BELINATI",
     "PSDB",
-    16756
+    16295
   ],
   [
     "PP - MARCELO BELINATI",
     "DEM",
-    4967
+    4840
   ],
   [
     "PP - MARCELO BELINATI",
     "PR",
-    1324
+    1290
   ],
   [
     "PP - MARCELO BELINATI",
     "PSC",
-    9003
+    8773
   ],
   [
     "PP - MARCELO BELINATI",
     "PTdoB",
-    323
+    314
   ],
   [
     "PP - MARCELO BELINATI",
     "PP",
-    508
+    496
   ],
   [
     "PP - MARCELO BELINATI",
     "SD",
-    8387
+    927
   ],
   [
     "PP - MARCELO BELINATI",
     "PSD",
-    6542
+    6372
   ],
   [
     "PP - MARCELO BELINATI",
     "PPS",
-    2348
+    2288
   ],
   [
     "PMDB - OSMAR SERRAGLIO",
     "PMDB",
-    73131
+    69034
   ],
   [
     "PPS - SANDRO ALEX",
     "PSDB",
-    23461
+    22849
   ],
   [
     "PPS - SANDRO ALEX",
     "DEM",
-    6940
+    6758
   ],
   [
     "PPS - SANDRO ALEX",
     "PR",
-    1850
+    1801
   ],
   [
     "PPS - SANDRO ALEX",
     "PSC",
-    12579
+    12249
   ],
   [
     "PPS - SANDRO ALEX",
     "PTdoB",
-    451
+    439
   ],
   [
     "PPS - SANDRO ALEX",
     "PP",
-    711
+    692
   ],
   [
     "PPS - SANDRO ALEX",
     "SD",
-    11716
+    1293
   ],
   [
     "PPS - SANDRO ALEX",
     "PSD",
-    9137
+    8899
   ],
   [
     "PPS - SANDRO ALEX",
     "PPS",
-    3279
+    3193
   ],
   [
     "PP - RICARDO BARROS",
     "PSDB",
-    24286
+    23642
   ],
   [
     "PP - RICARDO BARROS",
     "DEM",
-    7186
+    6993
   ],
   [
     "PP - RICARDO BARROS",
     "PR",
-    1915
+    1864
   ],
   [
     "PP - RICARDO BARROS",
     "PSC",
-    13021
+    12675
   ],
   [
     "PP - RICARDO BARROS",
     "PTdoB",
-    466
+    454
   ],
   [
     "PP - RICARDO BARROS",
     "PP",
-    736
+    716
   ],
   [
     "PP - RICARDO BARROS",
     "SD",
-    12129
+    1337
   ],
   [
     "PP - RICARDO BARROS",
     "PSD",
-    9460
+    9208
   ],
   [
     "PP - RICARDO BARROS",
     "PPS",
-    3394
+    3305
   ],
   [
     "PT - ENIO VERRI",
@@ -372,227 +422,227 @@
   [
     "PR - LUIZ NISHIMORI",
     "PSDB",
-    26705
+    25984
   ],
   [
     "PR - LUIZ NISHIMORI",
     "DEM",
-    7900
+    7685
   ],
   [
     "PR - LUIZ NISHIMORI",
     "PR",
-    2106
+    2049
   ],
   [
     "PR - LUIZ NISHIMORI",
     "PSC",
-    14316
+    13930
   ],
   [
     "PR - LUIZ NISHIMORI",
     "PTdoB",
-    514
+    499
   ],
   [
     "PR - LUIZ NISHIMORI",
     "PP",
-    809
+    787
   ],
   [
     "PR - LUIZ NISHIMORI",
     "SD",
-    13334
+    1470
   ],
   [
     "PR - LUIZ NISHIMORI",
     "PSD",
-    10400
+    10120
   ],
   [
     "PR - LUIZ NISHIMORI",
     "PPS",
-    3733
+    3633
   ],
   [
     "PP - NELSON MEURER",
     "PSDB",
-    26813
+    26092
   ],
   [
     "PP - NELSON MEURER",
     "DEM",
-    7931
+    7718
   ],
   [
     "PP - NELSON MEURER",
     "PR",
-    2114
+    2058
   ],
   [
     "PP - NELSON MEURER",
     "PSC",
-    14376
+    13988
   ],
   [
     "PP - NELSON MEURER",
     "PTdoB",
-    515
+    501
   ],
   [
     "PP - NELSON MEURER",
     "PP",
-    812
+    790
   ],
   [
     "PP - NELSON MEURER",
     "SD",
-    13390
+    1475
   ],
   [
     "PP - NELSON MEURER",
     "PSD",
-    10443
+    10162
   ],
   [
     "PP - NELSON MEURER",
     "PPS",
-    3748
+    3647
   ],
   [
     "PPS - RUBENS BUENO",
     "PSDB",
-    30229
+    29416
   ],
   [
     "PPS - RUBENS BUENO",
     "DEM",
-    8943
+    8710
   ],
   [
     "PPS - RUBENS BUENO",
     "PR",
-    2384
+    2322
   ],
   [
     "PPS - RUBENS BUENO",
     "PSC",
-    16212
+    15785
   ],
   [
     "PPS - RUBENS BUENO",
     "PTdoB",
-    581
+    566
   ],
   [
     "PPS - RUBENS BUENO",
     "PP",
-    916
+    892
   ],
   [
     "PPS - RUBENS BUENO",
     "SD",
-    15099
+    1665
   ],
   [
     "PPS - RUBENS BUENO",
     "PSD",
-    11776
+    11468
   ],
   [
     "PPS - RUBENS BUENO",
     "PPS",
-    4227
+    4116
   ],
   [
     "PSD - EVANDRO ROMAN",
     "PSDB",
-    31432
+    30598
   ],
   [
     "PSD - EVANDRO ROMAN",
     "DEM",
-    9306
+    9052
   ],
   [
     "PSD - EVANDRO ROMAN",
     "PR",
-    2481
+    2412
   ],
   [
     "PSD - EVANDRO ROMAN",
     "PSC",
-    16867
+    16404
   ],
   [
     "PSD - EVANDRO ROMAN",
     "PTdoB",
-    605
+    588
   ],
   [
     "PSD - EVANDRO ROMAN",
     "PP",
-    954
+    927
   ],
   [
     "PSD - EVANDRO ROMAN",
     "SD",
-    15709
+    1731
   ],
   [
     "PSD - EVANDRO ROMAN",
     "PSD",
-    12253
+    11916
   ],
   [
     "PSD - EVANDRO ROMAN",
     "PPS",
-    4399
+    4277
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "PSDB",
-    33228
+    32363
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "DEM",
-    9829
+    9574
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "PR",
-    2620
+    2552
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "PSC",
-    17814
+    17350
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "PTdoB",
-    639
+    622
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "PP",
-    1006
+    981
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "SD",
-    16592
+    1832
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "PSD",
-    12941
+    12605
   ],
   [
     "PSDB - LUIZ CARLOS HAULY",
     "PPS",
-    4644
+    4524
   ],
   [
     "PCdoB - ALIEL MACHADO",
@@ -622,47 +672,47 @@
   [
     "PSDB - ALFREDO KAEFER",
     "PSDB",
-    34489
+    33561
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "DEM",
-    10203
+    9936
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "PR",
-    2719
+    2648
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "PSC",
-    18489
+    18008
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "PTdoB",
-    662
+    646
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "PP",
-    1045
+    1018
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "SD",
-    17223
+    1901
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "PSD",
-    13433
+    13082
   ],
   [
     "PSDB - ALFREDO KAEFER",
     "PPS",
-    4822
+    4695
   ],
   [
     "PV - LEANDRE",
@@ -677,7 +727,7 @@
   [
     "PMDB - SERGIO SOUZA",
     "PMDB",
-    112480
+    106179
   ],
   [
     "PT - ASSIS DO COUTO",
@@ -707,47 +757,47 @@
   [
     "PSC - NELSON PADOVANI",
     "PSDB",
-    36724
+    35753
   ],
   [
     "PSC - NELSON PADOVANI",
     "DEM",
-    10863
+    10585
   ],
   [
     "PSC - NELSON PADOVANI",
     "PR",
-    2895
+    2822
   ],
   [
     "PSC - NELSON PADOVANI",
     "PSC",
-    19688
+    19187
   ],
   [
     "PSC - NELSON PADOVANI",
     "PTdoB",
-    706
+    687
   ],
   [
     "PSC - NELSON PADOVANI",
     "PP",
-    1113
+    1084
   ],
   [
     "PSC - NELSON PADOVANI",
     "SD",
-    18339
+    2026
   ],
   [
     "PSC - NELSON PADOVANI",
     "PSD",
-    14301
+    13937
   ],
   [
     "PSC - NELSON PADOVANI",
     "PPS",
-    5133
+    5003
   ],
   [
     "PT - TONINHO WANDSCHEER",
@@ -777,47 +827,47 @@
   [
     "PSC - PAULO MARTINS",
     "PSDB",
-    40401
+    39354
   ],
   [
     "PSC - PAULO MARTINS",
     "DEM",
-    11972
+    11641
   ],
   [
     "PSC - PAULO MARTINS",
     "PR",
-    3191
+    3103
   ],
   [
     "PSC - PAULO MARTINS",
     "PSC",
-    21699
+    21099
   ],
   [
     "PSC - PAULO MARTINS",
     "PTdoB",
-    778
+    756
   ],
   [
     "PSC - PAULO MARTINS",
     "PP",
-    1226
+    1192
   ],
   [
     "PSC - PAULO MARTINS",
     "SD",
-    20210
+    2227
   ],
   [
     "PSC - PAULO MARTINS",
     "PSD",
-    15762
+    15327
   ],
   [
     "PSC - PAULO MARTINS",
     "PPS",
-    5657
+    5501
   ],
   [
     "PHS - DIEGO GARCIA",

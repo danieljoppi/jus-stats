@@ -7,47 +7,47 @@
   [
     "PSDB - NILSON PINTO",
     "PSDB",
-    12389
+    11105
   ],
   [
     "PSDB - NILSON PINTO",
     "PSD",
-    3514
+    2261
   ],
   [
     "PSDB - NILSON PINTO",
     "PSB",
-    3302
+    3389
   ],
   [
     "PSDB - NILSON PINTO",
     "PP",
-    2643
+    3208
   ],
   [
     "PSDB - NILSON PINTO",
     "PSC",
-    1349
+    767
   ],
   [
     "PSDB - NILSON PINTO",
     "PTB",
-    627
+    357
   ],
   [
     "PSDB - NILSON PINTO",
     "PPS",
-    2481
+    674
   ],
   [
     "PSDB - NILSON PINTO",
     "PTdoB",
-    1018
+    578
   ],
   [
     "PSDB - NILSON PINTO",
     "PTC",
-    231
+    130
   ],
   [
     "PSOL - EDMILSON RODRIGUES",
@@ -102,67 +102,87 @@
   [
     "PT - BETO FARO",
     "PMDB",
-    38231
+    24656
   ],
   [
     "PT - BETO FARO",
     "PT",
-    39926
+    46705
+  ],
+  [
+    "SD - WLAD",
+    "PRB",
+    16804
+  ],
+  [
+    "SD - WLAD",
+    "SD",
+    63112
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PSDB",
-    44118
+    39503
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PSD",
-    12522
+    8045
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PSB",
-    11768
+    12061
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PP",
-    9420
+    11476
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PSC",
-    4800
+    2727
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PTB",
-    2232
+    1269
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PPS",
-    8836
+    2397
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PTdoB",
-    3621
+    2057
   ],
   [
     "PTB - JOSUE BENGTSON",
     "PTC",
-    821
+    466
+  ],
+  [
+    "PMDB - PRIANTE",
+    "PMDB",
+    31183
+  ],
+  [
+    "PMDB - PRIANTE",
+    "PT",
+    59055
   ],
   [
     "PT - ZE GERALDO",
     "PMDB",
-    56727
+    36606
   ],
   [
     "PT - ZE GERALDO",
     "PT",
-    59249
+    69340
   ],
   [
     "PROS - BETO SALAME",
@@ -205,49 +225,59 @@
     1839
   ],
   [
+    "PMDB - ELCIONE",
+    "PMDB",
+    42138
+  ],
+  [
+    "PMDB - ELCIONE",
+    "PT",
+    79814
+  ],
+  [
     "PSC - JULIA MARINHO",
     "PSDB",
-    60322
+    54020
   ],
   [
     "PSC - JULIA MARINHO",
     "PSD",
-    17119
+    11001
   ],
   [
     "PSC - JULIA MARINHO",
     "PSB",
-    16089
+    16491
   ],
   [
     "PSC - JULIA MARINHO",
     "PP",
-    12879
+    15694
   ],
   [
     "PSC - JULIA MARINHO",
     "PSC",
-    6563
+    3729
   ],
   [
     "PSC - JULIA MARINHO",
     "PTB",
-    3052
+    1734
   ],
   [
     "PSC - JULIA MARINHO",
     "PPS",
-    12080
+    3277
   ],
   [
     "PSC - JULIA MARINHO",
     "PTdoB",
-    4951
+    2813
   ],
   [
     "PSC - JULIA MARINHO",
     "PTC",
-    1123
+    637
   ],
   [
     "DEM - HELIO LEITE",
@@ -292,56 +322,146 @@
   [
     "PMDB - SIMONE MORGADO",
     "PMDB",
-    70736
+    45636
   ],
   [
     "PMDB - SIMONE MORGADO",
     "PT",
-    73881
+    86445
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PSDB",
-    65178
+    58383
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PSD",
-    18497
+    11890
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PSB",
-    17384
+    17824
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PP",
-    13916
+    16951
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PSC",
-    7091
+    4030
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PTB",
-    3298
+    1874
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PPS",
-    13052
+    3542
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PTdoB",
-    5350
+    3040
   ],
   [
     "PSD - JOAQUIM PASSARINHO",
     "PTC",
-    1213
+    689
+  ],
+  [
+    "PPS - JORDY",
+    "PSDB",
+    60476
+  ],
+  [
+    "PPS - JORDY",
+    "PSD",
+    12316
+  ],
+  [
+    "PPS - JORDY",
+    "PSB",
+    18463
+  ],
+  [
+    "PPS - JORDY",
+    "PP",
+    17560
+  ],
+  [
+    "PPS - JORDY",
+    "PSC",
+    4174
+  ],
+  [
+    "PPS - JORDY",
+    "PTB",
+    1941
+  ],
+  [
+    "PPS - JORDY",
+    "PPS",
+    3669
+  ],
+  [
+    "PPS - JORDY",
+    "PTdoB",
+    3149
+  ],
+  [
+    "PPS - JORDY",
+    "PTC",
+    714
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PSDB",
+    63401
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PSD",
+    12912
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PSB",
+    19357
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PP",
+    18417
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PSC",
+    4377
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PTB",
+    2035
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PPS",
+    3848
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PTdoB",
+    3302
+  ],
+  [
+    "PSD - CHAPADINHA",
+    "PTC",
+    748
   ]
 ]

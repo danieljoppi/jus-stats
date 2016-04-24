@@ -12,12 +12,12 @@
     "votes": 3896151,
     "quoc": 20.296470134714163,
     "positions": 20,
-    "countNeeds": 16,
-    "totalNeedVotes": 1131405,
-    "countExtra": 75,
-    "totalExtraVotes": 1572240,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 19,
+    "totalNeedVotes": 1347214,
+    "countExtra": 72,
+    "totalExtraVotes": 1212163,
+    "hasMore": false,
+    "pctLess": 0.10024465303953195
   },
   {
     "name": "MINAS PRA VOCÊ",
@@ -31,12 +31,12 @@
     "votes": 3215339,
     "quoc": 16.749872370573343,
     "positions": 17,
-    "countNeeds": 14,
-    "totalNeedVotes": 1079696,
-    "countExtra": 76,
-    "totalExtraVotes": 1223643,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 15,
+    "totalNeedVotes": 1213737,
+    "countExtra": 75,
+    "totalExtraVotes": 1165722,
+    "hasMore": false,
+    "pctLess": 0.039559641009543255
   },
   {
     "name": "+MINAS",
@@ -49,12 +49,12 @@
     "votes": 715611,
     "quoc": 3.72787843427345,
     "positions": 4,
-    "countNeeds": 3,
-    "totalNeedVotes": 313441,
-    "countExtra": 95,
-    "totalExtraVotes": 453166,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 4,
+    "totalNeedVotes": 447318,
+    "countExtra": 94,
+    "totalExtraVotes": 395081,
+    "hasMore": false,
+    "pctLess": 0.116778220415901
   },
   {
     "name": "MINAS SEGUE EM FRENTE",
@@ -66,10 +66,10 @@
     "votes": 592555,
     "quoc": 3.0868348944061847,
     "positions": 3,
-    "countNeeds": 1,
-    "totalNeedVotes": 101224,
-    "countExtra": 90,
-    "totalExtraVotes": 501817,
+    "countNeeds": 3,
+    "totalNeedVotes": 307584,
+    "countExtra": 88,
+    "totalExtraVotes": 324253,
     "hasMore": true,
     "pctLess": 0
   },

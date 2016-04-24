@@ -15,12 +15,12 @@
     "votes": 2615171,
     "quoc": 13.751102908312696,
     "positions": 14,
-    "countNeeds": 14,
-    "totalNeedVotes": 1124502,
-    "countExtra": 51,
-    "totalExtraVotes": 1077167,
+    "countNeeds": 15,
+    "totalNeedVotes": 1155112,
+    "countExtra": 50,
+    "totalExtraVotes": 917598,
     "hasMore": false,
-    "pctLess": 0.04209418924999689
+    "pctLess": 0.2056198879416022
   },
   {
     "name": "Paraná Sempre em Frente",
@@ -49,12 +49,12 @@
     "votes": 747306,
     "quoc": 3.929487482845109,
     "positions": 4,
-    "countNeeds": 3,
-    "totalNeedVotes": 199420,
-    "countExtra": 15,
-    "totalExtraVotes": 376189,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 4,
+    "totalNeedVotes": 239386,
+    "countExtra": 14,
+    "totalExtraVotes": 225976,
+    "hasMore": false,
+    "pctLess": 0.05601831351875214
   },
   {
     "name": "Educação e Trabalho com Sustentabilidade",

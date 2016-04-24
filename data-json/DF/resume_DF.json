@@ -1,5 +1,30 @@
 [
   [
+    "DEM - FRAGA",
+    "PR",
+    2187
+  ],
+  [
+    "DEM - FRAGA",
+    "PTB",
+    3808
+  ],
+  [
+    "DEM - FRAGA",
+    "PRTB",
+    2094
+  ],
+  [
+    "DEM - FRAGA",
+    "PMN",
+    4635
+  ],
+  [
+    "DEM - FRAGA",
+    "DEM",
+    245
+  ],
+  [
     "PSD - ROGERIO ROSSO",
     "PSB",
     35447
@@ -167,26 +192,26 @@
   [
     "PR - LAERTE BESSA",
     "PR",
-    14275
+    12089
   ],
   [
     "PR - LAERTE BESSA",
     "PTB",
-    24852
+    21047
   ],
   [
     "PR - LAERTE BESSA",
     "PRTB",
-    13670
+    11578
   ],
   [
     "PR - LAERTE BESSA",
     "PMN",
-    30281
+    25640
   ],
   [
     "PR - LAERTE BESSA",
     "DEM",
-    66119
+    1354
   ]
 ]

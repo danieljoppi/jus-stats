@@ -16,12 +16,12 @@
     "votes": 135305,
     "quoc": 4.38462037007032,
     "positions": 4,
-    "countNeeds": 2,
-    "totalNeedVotes": 38947,
-    "countExtra": 31,
-    "totalExtraVotes": 81675,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 4,
+    "totalNeedVotes": 64496,
+    "countExtra": 29,
+    "totalExtraVotes": 45506,
+    "hasMore": false,
+    "pctLess": 0.2944368643016621
   },
   {
     "name": "MAIS RORAIMA",
@@ -40,12 +40,12 @@
     "votes": 51987,
     "quoc": 1.6846624971645225,
     "positions": 2,
-    "countNeeds": 1,
-    "totalNeedVotes": 24126,
-    "countExtra": 33,
-    "totalExtraVotes": 45254,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 2,
+    "totalNeedVotes": 45937,
+    "countExtra": 32,
+    "totalExtraVotes": 36206,
+    "hasMore": false,
+    "pctLess": 0.21183359818882383
   },
   {
     "name": "RORAIMA LIVRE E FELIZ",
@@ -59,10 +59,12 @@
     "votes": 38564,
     "quoc": 1.24968404679348,
     "positions": 1,
-    "countNeeds": 0,
-    "totalNeedVotes": 0,
-    "countExtra": 28,
-    "totalExtraVotes": 38564
+    "countNeeds": 1,
+    "totalNeedVotes": 22025,
+    "countExtra": 27,
+    "totalExtraVotes": 29730,
+    "hasMore": true,
+    "pctLess": 0
   },
   {
     "name": "11 - PP",

@@ -12,12 +12,12 @@
     "votes": 1005868,
     "quoc": 5.75897309645542,
     "positions": 6,
-    "countNeeds": 6,
-    "totalNeedVotes": 487107,
-    "countExtra": 34,
-    "totalExtraVotes": 445009,
+    "countNeeds": 7,
+    "totalNeedVotes": 577921,
+    "countExtra": 33,
+    "totalExtraVotes": 361162,
     "hasMore": false,
-    "pctLess": 0.08642454327283328
+    "pctLess": 0.3750668343943203
   },
   {
     "name": "TODOS PELO MARANHÃO 3",
@@ -32,12 +32,12 @@
     "votes": 813418,
     "quoc": 4.657124372355591,
     "positions": 5,
-    "countNeeds": 3,
-    "totalNeedVotes": 271351,
-    "countExtra": 38,
-    "totalExtraVotes": 560786,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 5,
+    "totalNeedVotes": 415830,
+    "countExtra": 36,
+    "totalExtraVotes": 355943,
+    "hasMore": false,
+    "pctLess": 0.14401798812014524
   },
   {
     "name": "DEMOCRATA TRABALHISTA",

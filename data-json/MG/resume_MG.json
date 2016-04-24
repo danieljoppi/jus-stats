@@ -22,57 +22,57 @@
   [
     "PT - WELITON PRADO",
     "PT",
-    3321
+    3335
   ],
   [
     "PT - WELITON PRADO",
     "PMDB",
-    1252
+    1113
   ],
   [
     "PT - WELITON PRADO",
     "PCdoB",
-    375
+    334
   ],
   [
     "PT - WELITON PRADO",
     "PROS",
-    422
+    377
   ],
   [
     "PT - WELITON PRADO",
     "PRB",
-    494
+    440
   ],
   [
     "PP - ODELMO LEAO",
     "DEM",
-    2320
+    1968
   ],
   [
     "PP - ODELMO LEAO",
     "PSDB",
-    3675
+    4745
   ],
   [
     "PP - ODELMO LEAO",
     "PP",
-    1745
+    990
   ],
   [
     "PP - ODELMO LEAO",
     "PR",
-    332
+    280
   ],
   [
     "PP - ODELMO LEAO",
     "PSD",
-    3114
+    2141
   ],
   [
     "PP - ODELMO LEAO",
     "SD",
-    1124
+    952
   ],
   [
     "PTB - EROS BIONDINI",
@@ -85,84 +85,114 @@
     5760
   ],
   [
+    "PSD - JAIMINHO MARTINS",
+    "DEM",
+    5261
+  ],
+  [
+    "PSD - JAIMINHO MARTINS",
+    "PSDB",
+    12821
+  ],
+  [
+    "PSD - JAIMINHO MARTINS",
+    "PP",
+    2645
+  ],
+  [
+    "PSD - JAIMINHO MARTINS",
+    "PR",
+    749
+  ],
+  [
+    "PSD - JAIMINHO MARTINS",
+    "PSD",
+    5723
+  ],
+  [
+    "PSD - JAIMINHO MARTINS",
+    "SD",
+    2542
+  ],
+  [
     "PP - TONINHO PINHEIRO",
     "DEM",
-    8228
+    6951
   ],
   [
     "PP - TONINHO PINHEIRO",
     "PSDB",
-    13072
+    16988
   ],
   [
     "PP - TONINHO PINHEIRO",
     "PP",
-    6205
+    3495
   ],
   [
     "PP - TONINHO PINHEIRO",
     "PR",
-    1177
+    991
   ],
   [
     "PP - TONINHO PINHEIRO",
     "PSD",
-    11058
+    7561
   ],
   [
     "PP - TONINHO PINHEIRO",
     "SD",
-    3983
+    3354
   ],
   [
     "PT - PATRUS ANANIAS",
     "PT",
-    25212
+    25607
   ],
   [
     "PT - PATRUS ANANIAS",
     "PMDB",
-    9629
+    8565
   ],
   [
     "PT - PATRUS ANANIAS",
     "PCdoB",
-    2882
+    2561
   ],
   [
     "PT - PATRUS ANANIAS",
     "PROS",
-    3258
+    2897
   ],
   [
     "PT - PATRUS ANANIAS",
     "PRB",
-    3807
+    3385
   ],
   [
     "PRB - GEORGE HILTON",
     "PT",
-    25455
+    25818
   ],
   [
     "PRB - GEORGE HILTON",
     "PMDB",
-    9700
+    8633
   ],
   [
     "PRB - GEORGE HILTON",
     "PCdoB",
-    2902
+    2583
   ],
   [
     "PRB - GEORGE HILTON",
     "PROS",
-    3280
+    2920
   ],
   [
     "PRB - GEORGE HILTON",
     "PRB",
-    3833
+    3413
   ],
   [
     "PSB - STEFANO AGUIAR",
@@ -182,562 +212,592 @@
   [
     "PSDB - DOMINGOS SAVIO",
     "DEM",
-    9052
+    7613
   ],
   [
     "PSDB - DOMINGOS SAVIO",
     "PSDB",
-    14355
+    18670
   ],
   [
     "PSDB - DOMINGOS SAVIO",
     "PP",
-    6814
+    3827
   ],
   [
     "PSDB - DOMINGOS SAVIO",
     "PR",
-    1296
+    1085
   ],
   [
     "PSDB - DOMINGOS SAVIO",
     "PSD",
-    12158
+    8280
   ],
   [
     "PSDB - DOMINGOS SAVIO",
     "SD",
-    4387
+    3676
   ],
   [
     "PSDB - MARCUS PESTANA",
     "DEM",
-    11351
+    9562
   ],
   [
     "PSDB - MARCUS PESTANA",
     "PSDB",
-    18007
+    23442
   ],
   [
     "PSDB - MARCUS PESTANA",
     "PP",
-    8545
+    4806
   ],
   [
     "PSDB - MARCUS PESTANA",
     "PR",
-    1624
+    1362
   ],
   [
     "PSDB - MARCUS PESTANA",
     "PSD",
-    15246
+    10398
   ],
   [
     "PSDB - MARCUS PESTANA",
     "SD",
-    5502
+    4616
   ],
   [
     "PSDB - EDUARDO BARBOSA",
     "DEM",
-    11583
+    9754
   ],
   [
     "PSDB - EDUARDO BARBOSA",
     "PSDB",
-    18373
+    23915
   ],
   [
     "PSDB - EDUARDO BARBOSA",
     "PP",
-    8721
+    4903
   ],
   [
     "PSDB - EDUARDO BARBOSA",
     "PR",
-    1658
+    1390
   ],
   [
     "PSDB - EDUARDO BARBOSA",
     "PSD",
-    15559
+    10608
   ],
   [
     "PSDB - EDUARDO BARBOSA",
     "SD",
-    5615
+    4707
   ],
   [
     "PMDB - MAURO LOPES",
     "PT",
-    34999
+    35535
   ],
   [
     "PMDB - MAURO LOPES",
     "PMDB",
-    13367
+    11884
   ],
   [
     "PMDB - MAURO LOPES",
     "PCdoB",
-    3999
+    3554
   ],
   [
     "PMDB - MAURO LOPES",
     "PROS",
-    4520
+    4019
   ],
   [
     "PMDB - MAURO LOPES",
     "PRB",
-    5283
+    4697
   ],
   [
     "PP - DIMAS FABIANO",
     "DEM",
-    11842
+    9988
   ],
   [
     "PP - DIMAS FABIANO",
     "PSDB",
-    18777
+    24442
   ],
   [
     "PP - DIMAS FABIANO",
     "PP",
-    8912
+    5021
   ],
   [
     "PP - DIMAS FABIANO",
     "PR",
-    1694
+    1425
   ],
   [
     "PP - DIMAS FABIANO",
     "PSD",
-    15903
+    10865
   ],
   [
     "PP - DIMAS FABIANO",
     "SD",
-    5739
+    4823
   ],
   [
     "PMDB - NEWTON CARDOSO JR",
     "PT",
-    35737
+    36228
   ],
   [
     "PMDB - NEWTON CARDOSO JR",
     "PMDB",
-    13647
+    12115
   ],
   [
     "PMDB - NEWTON CARDOSO JR",
     "PCdoB",
-    4083
+    3624
   ],
   [
     "PMDB - NEWTON CARDOSO JR",
     "PROS",
-    4615
+    4096
   ],
   [
     "PMDB - NEWTON CARDOSO JR",
     "PRB",
-    5392
+    4789
   ],
   [
     "PR - BILAC PINTO",
     "DEM",
-    12913
+    10885
   ],
   [
     "PR - BILAC PINTO",
     "PSDB",
-    20495
+    26697
   ],
   [
     "PR - BILAC PINTO",
     "PP",
-    9727
+    5473
   ],
   [
     "PR - BILAC PINTO",
     "PR",
-    1848
+    1552
   ],
   [
     "PR - BILAC PINTO",
     "PSD",
-    17345
+    11839
   ],
   [
     "PR - BILAC PINTO",
     "SD",
-    6257
+    5253
   ],
   [
     "PMDB - LEONARDO QUINTAO",
     "PT",
-    41375
+    41990
   ],
   [
     "PMDB - LEONARDO QUINTAO",
     "PMDB",
-    15803
+    14043
   ],
   [
     "PMDB - LEONARDO QUINTAO",
     "PCdoB",
-    4726
+    4200
   ],
   [
     "PMDB - LEONARDO QUINTAO",
     "PROS",
-    5343
+    4747
   ],
   [
     "PMDB - LEONARDO QUINTAO",
     "PRB",
-    6246
+    5549
+  ],
+  [
+    "PP - LUIZ FERNANDO",
+    "DEM",
+    11805
+  ],
+  [
+    "PP - LUIZ FERNANDO",
+    "PSDB",
+    28948
+  ],
+  [
+    "PP - LUIZ FERNANDO",
+    "PP",
+    5934
+  ],
+  [
+    "PP - LUIZ FERNANDO",
+    "PR",
+    1683
+  ],
+  [
+    "PP - LUIZ FERNANDO",
+    "PSD",
+    12841
+  ],
+  [
+    "PP - LUIZ FERNANDO",
+    "SD",
+    5698
   ],
   [
     "PSD - MARCOS MONTES",
     "DEM",
-    14270
+    12020
   ],
   [
     "PSD - MARCOS MONTES",
     "PSDB",
-    22644
+    29476
   ],
   [
     "PSD - MARCOS MONTES",
     "PP",
-    10748
+    6042
   ],
   [
     "PSD - MARCOS MONTES",
     "PR",
-    2042
+    1713
   ],
   [
     "PSD - MARCOS MONTES",
     "PSD",
-    19170
+    13072
   ],
   [
     "PSD - MARCOS MONTES",
     "SD",
-    6917
+    5801
   ],
   [
     "PT - LEONARDO MONTEIRO",
     "PT",
-    43136
+    43792
   ],
   [
     "PT - LEONARDO MONTEIRO",
     "PMDB",
-    16477
+    14643
   ],
   [
     "PT - LEONARDO MONTEIRO",
     "PCdoB",
-    4929
+    4381
   ],
   [
     "PT - LEONARDO MONTEIRO",
     "PROS",
-    5572
+    4951
   ],
   [
     "PT - LEONARDO MONTEIRO",
     "PRB",
-    6513
+    5786
   ],
   [
     "PTdoB - LUIS TIBE",
     "PTdoB",
-    50933
+    42097
   ],
   [
     "PTdoB - LUIS TIBE",
     "PRP",
-    4188
+    2934
   ],
   [
     "PTdoB - LUIS TIBE",
     "PHS",
-    17116
+    19619
   ],
   [
     "PTdoB - LUIS TIBE",
     "PEN",
-    4777
+    3345
   ],
   [
     "PSD - DIEGO ANDRADE",
     "DEM",
-    14636
+    12340
   ],
   [
     "PSD - DIEGO ANDRADE",
     "PSDB",
-    23220
+    30249
   ],
   [
     "PSD - DIEGO ANDRADE",
     "PP",
-    11021
+    6203
   ],
   [
     "PSD - DIEGO ANDRADE",
     "PR",
-    2095
+    1758
   ],
   [
     "PSD - DIEGO ANDRADE",
     "PSD",
-    19658
+    13422
   ],
   [
     "PSD - DIEGO ANDRADE",
     "SD",
-    7092
+    5959
   ],
   [
     "PT - PADRE JOAO",
     "PT",
-    44618
+    45303
   ],
   [
     "PT - PADRE JOAO",
     "PMDB",
-    17035
+    15154
   ],
   [
     "PT - PADRE JOAO",
     "PCdoB",
-    5095
+    4532
   ],
   [
     "PT - PADRE JOAO",
     "PROS",
-    5760
+    5127
   ],
   [
     "PT - PADRE JOAO",
     "PRB",
-    6732
+    5989
   ],
   [
     "PMDB - SARAIVA FELIPE",
     "PT",
-    45410
+    46087
   ],
   [
     "PMDB - SARAIVA FELIPE",
     "PMDB",
-    17336
+    15433
   ],
   [
     "PMDB - SARAIVA FELIPE",
     "PCdoB",
-    5185
+    4616
   ],
   [
     "PMDB - SARAIVA FELIPE",
     "PROS",
-    5863
+    5219
   ],
   [
     "PMDB - SARAIVA FELIPE",
     "PRB",
-    6852
+    6100
   ],
   [
     "SD - ZE SILVA",
     "DEM",
-    15445
+    13026
   ],
   [
     "SD - ZE SILVA",
     "PSDB",
-    24516
+    31929
   ],
   [
     "SD - ZE SILVA",
     "PP",
-    11636
+    6547
   ],
   [
     "SD - ZE SILVA",
     "PR",
-    2209
+    1857
   ],
   [
     "SD - ZE SILVA",
     "PSD",
-    20751
+    14167
   ],
   [
     "SD - ZE SILVA",
     "SD",
-    7483
+    6287
   ],
   [
     "PP - RENZO BRAZ",
     "DEM",
-    15528
+    13090
   ],
   [
     "PP - RENZO BRAZ",
     "PSDB",
-    24631
+    32098
   ],
   [
     "PP - RENZO BRAZ",
     "PP",
-    11693
+    6579
   ],
   [
     "PP - RENZO BRAZ",
     "PR",
-    2221
+    1865
   ],
   [
     "PP - RENZO BRAZ",
     "PSD",
-    20855
+    14236
   ],
   [
     "PP - RENZO BRAZ",
     "SD",
-    7528
+    6318
   ],
   [
     "DEM - CARLOS MELLES",
     "DEM",
-    15826
+    13346
   ],
   [
     "DEM - CARLOS MELLES",
     "PSDB",
-    25114
+    32717
   ],
   [
     "DEM - CARLOS MELLES",
     "PP",
-    11920
+    6710
   ],
   [
     "DEM - CARLOS MELLES",
     "PR",
-    2266
+    1902
   ],
   [
     "DEM - CARLOS MELLES",
     "PSD",
-    21259
+    14514
   ],
   [
     "DEM - CARLOS MELLES",
     "SD",
-    7671
+    6441
   ],
   [
     "PSDB - PAULO ABI-ACKEL",
     "DEM",
-    16402
+    13837
   ],
   [
     "PSDB - PAULO ABI-ACKEL",
     "PSDB",
-    26027
+    33881
   ],
   [
     "PSDB - PAULO ABI-ACKEL",
     "PP",
-    12352
+    6956
   ],
   [
     "PSDB - PAULO ABI-ACKEL",
     "PR",
-    2348
+    1972
   ],
   [
     "PSDB - PAULO ABI-ACKEL",
     "PSD",
-    22034
+    15053
   ],
   [
     "PSDB - PAULO ABI-ACKEL",
     "SD",
-    7950
+    6681
   ],
   [
     "PSDB - CAIO NARCIO",
     "DEM",
-    17126
+    14435
   ],
   [
     "PSDB - CAIO NARCIO",
     "PSDB",
-    27157
+    35389
   ],
   [
     "PSDB - CAIO NARCIO",
     "PP",
-    12891
+    7257
   ],
   [
     "PSDB - CAIO NARCIO",
     "PR",
-    2451
+    2058
   ],
   [
     "PSDB - CAIO NARCIO",
     "PSD",
-    22998
+    15700
   ],
   [
     "PSDB - CAIO NARCIO",
     "SD",
-    8299
+    6969
   ],
   [
     "PR - LINCOLN PORTELA",
     "DEM",
-    17533
+    14779
   ],
   [
     "PR - LINCOLN PORTELA",
     "PSDB",
-    27827
+    36237
   ],
   [
     "PR - LINCOLN PORTELA",
     "PP",
-    13210
+    7429
   ],
   [
     "PR - LINCOLN PORTELA",
     "PR",
-    2509
+    2107
   ],
   [
     "PR - LINCOLN PORTELA",
     "PSD",
-    23557
+    16075
   ],
   [
     "PR - LINCOLN PORTELA",
     "SD",
-    8496
+    7133
   ],
   [
     "PSC - RAQUEL MUNIZ",
@@ -755,119 +815,134 @@
     33258
   ],
   [
+    "PDT - SUB-TENENTE GONZAGA",
+    "PPS",
+    45839
+  ],
+  [
+    "PDT - SUB-TENENTE GONZAGA",
+    "PV",
+    24991
+  ],
+  [
+    "PDT - SUB-TENENTE GONZAGA",
+    "PDT",
+    27135
+  ],
+  [
     "PT - MIGUEL CORREA",
     "PT",
-    55498
+    56314
   ],
   [
     "PT - MIGUEL CORREA",
     "PMDB",
-    21164
+    18843
   ],
   [
     "PT - MIGUEL CORREA",
     "PCdoB",
-    6330
+    5637
   ],
   [
     "PT - MIGUEL CORREA",
     "PROS",
-    7157
+    6373
   ],
   [
     "PT - MIGUEL CORREA",
     "PRB",
-    8364
+    7448
   ],
   [
     "PMDB - RODRIGO PACHECO",
     "PT",
-    55873
+    56703
   ],
   [
     "PMDB - RODRIGO PACHECO",
     "PMDB",
-    21327
+    18960
   ],
   [
     "PMDB - RODRIGO PACHECO",
     "PCdoB",
-    6379
+    5670
   ],
   [
     "PMDB - RODRIGO PACHECO",
     "PROS",
-    7212
+    6412
   ],
   [
     "PMDB - RODRIGO PACHECO",
     "PRB",
-    8428
+    7494
   ],
   [
     "PR - AELTON FREITAS",
     "DEM",
-    18985
+    16018
   ],
   [
     "PR - AELTON FREITAS",
     "PSDB",
-    30141
+    39240
   ],
   [
     "PR - AELTON FREITAS",
     "PP",
-    14308
+    8053
   ],
   [
     "PR - AELTON FREITAS",
     "PR",
-    2716
+    2283
   ],
   [
     "PR - AELTON FREITAS",
     "PSD",
-    25510
+    17421
   ],
   [
     "PR - AELTON FREITAS",
     "SD",
-    9199
+    7733
   ],
   [
     "PDT - MARIO HERINGER",
     "PPS",
-    24924
+    47363
   ],
   [
     "PDT - MARIO HERINGER",
     "PV",
-    23996
+    25819
   ],
   [
     "PDT - MARIO HERINGER",
     "PDT",
-    52311
+    28042
   ],
   [
     "PHS - MARCELO ARO",
     "PTdoB",
-    69342
+    57334
   ],
   [
     "PHS - MARCELO ARO",
     "PRP",
-    5701
+    3996
   ],
   [
     "PHS - MARCELO ARO",
     "PHS",
-    23305
+    26718
   ],
   [
     "PHS - MARCELO ARO",
     "PEN",
-    6503
+    4557
   ],
   [
     "PSB - JULIO DELGADO",
@@ -885,79 +960,124 @@
     1961
   ],
   [
+    "PSDB - BONIFACIO ANDRADA",
+    "DEM",
+    17199
+  ],
+  [
+    "PSDB - BONIFACIO ANDRADA",
+    "PSDB",
+    42164
+  ],
+  [
+    "PSDB - BONIFACIO ANDRADA",
+    "PP",
+    8644
+  ],
+  [
+    "PSDB - BONIFACIO ANDRADA",
+    "PR",
+    2451
+  ],
+  [
+    "PSDB - BONIFACIO ANDRADA",
+    "PSD",
+    18702
+  ],
+  [
+    "PSDB - BONIFACIO ANDRADA",
+    "SD",
+    8299
+  ],
+  [
+    "PV - FABINHO RAMALHO",
+    "PPS",
+    50717
+  ],
+  [
+    "PV - FABINHO RAMALHO",
+    "PV",
+    27651
+  ],
+  [
+    "PV - FABINHO RAMALHO",
+    "PDT",
+    30027
+  ],
+  [
     "PT - MARGARIDA SALOMAO",
     "PT",
-    63655
+    64602
   ],
   [
     "PT - MARGARIDA SALOMAO",
     "PMDB",
-    24273
+    21608
   ],
   [
     "PT - MARGARIDA SALOMAO",
     "PCdoB",
-    7260
+    6463
   ],
   [
     "PT - MARGARIDA SALOMAO",
     "PROS",
-    8209
+    7307
   ],
   [
     "PT - MARGARIDA SALOMAO",
     "PRB",
-    9593
+    8539
   ],
   [
     "PMDB - LAUDIVIO CARVALHO",
     "PT",
-    63770
+    64713
   ],
   [
     "PMDB - LAUDIVIO CARVALHO",
     "PMDB",
-    24321
+    21655
   ],
   [
     "PMDB - LAUDIVIO CARVALHO",
     "PCdoB",
-    7275
+    6476
   ],
   [
     "PMDB - LAUDIVIO CARVALHO",
     "PROS",
-    8224
+    7322
   ],
   [
     "PMDB - LAUDIVIO CARVALHO",
     "PRB",
-    9610
+    8556
   ],
   [
     "PCdoB - JO MORAES",
     "PT",
-    70022
+    71069
   ],
   [
     "PCdoB - JO MORAES",
     "PMDB",
-    26713
+    23763
   ],
   [
     "PCdoB - JO MORAES",
     "PCdoB",
-    7990
+    7109
   ],
   [
     "PCdoB - JO MORAES",
     "PROS",
-    9032
+    8037
   ],
   [
     "PCdoB - JO MORAES",
     "PRB",
-    10556
+    9391
   ],
   [
     "PSB - TENENTE LUCIO",
@@ -977,22 +1097,67 @@
   [
     "PRP - MARCELO ALVARO ANTONIO",
     "PTdoB",
-    87022
+    71933
   ],
   [
     "PRP - MARCELO ALVARO ANTONIO",
     "PRP",
-    7155
+    5013
   ],
   [
     "PRP - MARCELO ALVARO ANTONIO",
     "PHS",
-    29241
+    33531
   ],
   [
     "PRP - MARCELO ALVARO ANTONIO",
     "PEN",
-    8160
+    5717
+  ],
+  [
+    "PTdoB - PASTOR FRANKLIN LIMA",
+    "PTdoB",
+    73206
+  ],
+  [
+    "PTdoB - PASTOR FRANKLIN LIMA",
+    "PRP",
+    5100
+  ],
+  [
+    "PTdoB - PASTOR FRANKLIN LIMA",
+    "PHS",
+    34119
+  ],
+  [
+    "PTdoB - PASTOR FRANKLIN LIMA",
+    "PEN",
+    5818
+  ],
+  [
+    "PT - ADELMO LEAO",
+    "PT",
+    76617
+  ],
+  [
+    "PT - ADELMO LEAO",
+    "PMDB",
+    25644
+  ],
+  [
+    "PT - ADELMO LEAO",
+    "PCdoB",
+    7670
+  ],
+  [
+    "PT - ADELMO LEAO",
+    "PROS",
+    8672
+  ],
+  [
+    "PT - ADELMO LEAO",
+    "PRB",
+    10135
   ],
   [
     "PMN - DAMINA PEREIRA",

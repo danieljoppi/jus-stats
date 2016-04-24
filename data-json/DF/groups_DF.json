@@ -49,12 +49,12 @@
     "votes": 272576,
     "quoc": 1.4973412436827072,
     "positions": 2,
-    "countNeeds": 1,
-    "totalNeedVotes": 149197,
-    "countExtra": 25,
-    "totalExtraVotes": 239733,
-    "hasMore": true,
-    "pctLess": 0
+    "countNeeds": 2,
+    "totalNeedVotes": 176181,
+    "countExtra": 24,
+    "totalExtraVotes": 84677,
+    "hasMore": false,
+    "pctLess": 0.5193749609776309
   },
   {
     "name": "RESPEITO POR BRASÍLIA 1",
