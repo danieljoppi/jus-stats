@@ -1,0 +1,132 @@
+[
+  {
+    "name": "AGORA É A VEZ DO POVO",
+    "parties": [
+      "PT",
+      "PDT",
+      "PSB",
+      "PMDB",
+      "PCdoB",
+      "PRP",
+      "PROS",
+      "PSD",
+      "PRB",
+      "PSDC"
+    ],
+    "votes": 567680,
+    "quoc": 4.313513924243,
+    "positions": 5,
+    "countNeeds": 5,
+    "totalNeedVotes": 319116,
+    "countExtra": 26,
+    "totalExtraVotes": 228771,
+    "hasMore": false,
+    "pctLess": 0.28311021697439176
+  },
+  {
+    "name": "SERGIPE MEU AMOR",
+    "parties": [
+      "PP",
+      "PTB",
+      "PSL",
+      "PSC",
+      "PR",
+      "PPS",
+      "DEM",
+      "PHS",
+      "PTC",
+      "PV",
+      "PSDB",
+      "PEN",
+      "PTdoB",
+      "SD"
+    ],
+    "votes": 451490,
+    "quoc": 3.430644732342996,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 107858,
+    "countExtra": 33,
+    "totalExtraVotes": 164533,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 15926,
+    "quoc": 0.12101363929941872,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 15926
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 8145,
+    "quoc": 0.061889745830325596,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 8145
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 3661,
+    "quoc": 0.02781809201778048,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 3661
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 3113,
+    "quoc": 0.023654116484935983,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 8,
+    "totalExtraVotes": 3113
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 1749,
+    "quoc": 0.01328976862581209,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 1749
+  },
+  {
+    "name": "54 - PPL",
+    "parties": [
+      "PPL"
+    ],
+    "votes": 1077,
+    "quoc": 0.008183579651229057,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 1077
+  }
+]

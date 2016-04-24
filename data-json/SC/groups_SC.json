@@ -1,0 +1,171 @@
+[
+  {
+    "name": "PSD, PMDB, PR, PTB, PSC, PSDC, PROS, PV, PRB, PCdoB, PDT e DEM",
+    "parties": [
+      "PSD",
+      "PMDB",
+      "PR",
+      "PTB",
+      "PSC",
+      "PSDC",
+      "PROS",
+      "PV",
+      "PRB",
+      "PCdoB",
+      "PDT",
+      "DEM"
+    ],
+    "votes": 1857892,
+    "quoc": 8.745613993795807,
+    "positions": 9,
+    "countNeeds": 8,
+    "totalNeedVotes": 650635,
+    "countExtra": 38,
+    "totalExtraVotes": 596594,
+    "hasMore": false,
+    "pctLess": 0.08305885788498928
+  },
+  {
+    "name": "A Força para Mudança",
+    "parties": [
+      "PP",
+      "PPS",
+      "PRTB",
+      "PHS",
+      "PSDB",
+      "PEN",
+      "SD",
+      "PTC",
+      "PSB"
+    ],
+    "votes": 957786,
+    "quoc": 4.508564892179799,
+    "positions": 5,
+    "countNeeds": 4,
+    "totalNeedVotes": 459572,
+    "countExtra": 42,
+    "totalExtraVotes": 355173,
+    "hasMore": false,
+    "pctLess": 0.22716571070474267
+  },
+  {
+    "name": "13 - PT",
+    "parties": [
+      "PT"
+    ],
+    "votes": 488347,
+    "quoc": 2.2987850515682298,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 177069,
+    "countExtra": 16,
+    "totalExtraVotes": 240542,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 38390,
+    "quoc": 0.18071239944077538,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 38390
+  },
+  {
+    "name": "70 - PTdoB",
+    "parties": [
+      "PTdoB"
+    ],
+    "votes": 22688,
+    "quoc": 0.10679872150331628,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 8,
+    "totalExtraVotes": 22688
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 10977,
+    "quoc": 0.05167178975413887,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 15,
+    "totalExtraVotes": 10977
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 8530,
+    "quoc": 0.040153080678036315,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 8530
+  },
+  {
+    "name": "Coragem e compromisso a Santa Catarina",
+    "parties": [
+      "PMN",
+      "PPL"
+    ],
+    "votes": 8294,
+    "quoc": 0.0390421630883509,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 8,
+    "totalExtraVotes": 8294
+  },
+  {
+    "name": "19 - PTN",
+    "parties": [
+      "PTN"
+    ],
+    "votes": 3530,
+    "quoc": 0.016616691066057232,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 3530
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 1740,
+    "quoc": 0.00819066358496872,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1740
+  },
+  {
+    "name": "17 - PSL",
+    "parties": [
+      "PSL"
+    ],
+    "votes": 824,
+    "quoc": 0.0038787970080541526,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 1,
+    "totalExtraVotes": 824
+  }
+]

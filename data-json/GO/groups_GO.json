@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Garantia de um Futuro Melhor para Goiás I",
+    "parties": [
+      "PSDB",
+      "PP",
+      "PR",
+      "PSD",
+      "PTB",
+      "PDT",
+      "PPS",
+      "PROS",
+      "PRB"
+    ],
+    "votes": 2012700,
+    "quoc": 11.262695503763185,
+    "positions": 11,
+    "countNeeds": 12,
+    "totalNeedVotes": 897144,
+    "countExtra": 32,
+    "totalExtraVotes": 586679,
+    "hasMore": false,
+    "pctLess": 0.34605927253595853
+  },
+  {
+    "name": "AMOR POR GOIAS",
+    "parties": [
+      "PMDB",
+      "DEM",
+      "SD",
+      "PCdoB",
+      "PRTB",
+      "PTN",
+      "PPL"
+    ],
+    "votes": 570324,
+    "quoc": 3.191427212445091,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 201098,
+    "countExtra": 29,
+    "totalExtraVotes": 235307,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "13 - PT",
+    "parties": [
+      "PT"
+    ],
+    "votes": 280901,
+    "quoc": 1.5718698413586638,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 62831,
+    "countExtra": 8,
+    "totalExtraVotes": 165027,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 110254,
+    "quoc": 0.6169609132368988,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 7,
+    "totalExtraVotes": 110254
+  },
+  {
+    "name": "40 - PSB",
+    "parties": [
+      "PSB"
+    ],
+    "votes": 34113,
+    "quoc": 0.19089001426932653,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 34113
+  },
+  {
+    "name": "20 - PSC",
+    "parties": [
+      "PSC"
+    ],
+    "votes": 18314,
+    "quoc": 0.1024817436557455,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 18314
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 5847,
+    "quoc": 0.03271872639265829,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 5847
+  },
+  {
+    "name": "27 - PSDC",
+    "parties": [
+      "PSDC"
+    ],
+    "votes": 3434,
+    "quoc": 0.019216026412243643,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 8,
+    "totalExtraVotes": 3434
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 2104,
+    "quoc": 0.011773593352172575,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 2104
+  }
+]

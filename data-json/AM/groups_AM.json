@@ -1,0 +1,133 @@
+[
+  {
+    "name": "FAZENDO MAIS POR NOSSA GENTE 1",
+    "parties": [
+      "PROS",
+      "DEM",
+      "PSDB",
+      "PR",
+      "PTN",
+      "PSC",
+      "PTdoB",
+      "PTC",
+      "PRTB",
+      "PEN",
+      "PV",
+      "PHS",
+      "PSL",
+      "PSD",
+      "SD"
+    ],
+    "votes": 898071,
+    "quoc": 4.326801888610523,
+    "positions": 5,
+    "countNeeds": 3,
+    "totalNeedVotes": 246886,
+    "countExtra": 36,
+    "totalExtraVotes": 522277,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "RENOVAÇÃO E EXPERIÊNCIA",
+    "parties": [
+      "PMDB",
+      "PP",
+      "PT",
+      "PDT",
+      "PTB",
+      "PPS",
+      "PRB",
+      "PSDC",
+      "PPL",
+      "PCdoB"
+    ],
+    "votes": 673870,
+    "quoc": 3.2466274812102522,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 319201,
+    "countExtra": 30,
+    "totalExtraVotes": 370391,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "40 - PSB",
+    "parties": [
+      "PSB"
+    ],
+    "votes": 62455,
+    "quoc": 0.30090094430526115,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 62455
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 13777,
+    "quoc": 0.066375987666217,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 13,
+    "totalExtraVotes": 13777
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 5560,
+    "quoc": 0.026787434958566197,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 5560
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 3835,
+    "quoc": 0.018476585083831182,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 3835
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 1656,
+    "quoc": 0.007978415879745616,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1656
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 1258,
+    "quoc": 0.00606089805357487,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1258
+  }
+]

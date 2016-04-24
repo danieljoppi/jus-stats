@@ -1,0 +1,122 @@
+[
+  {
+    "name": "A VONTADE DO POVO I",
+    "parties": [
+      "PSDB",
+      "PEN",
+      "PR",
+      "PTB",
+      "PSD",
+      "SD",
+      "PMN",
+      "PPS",
+      "PTdoB",
+      "PTN",
+      "PRB",
+      "PSDC",
+      "PSC",
+      "PP"
+    ],
+    "votes": 953079,
+    "quoc": 5.897474134943814,
+    "positions": 6,
+    "countNeeds": 4,
+    "totalNeedVotes": 297634,
+    "countExtra": 45,
+    "totalExtraVotes": 281065,
+    "hasMore": false,
+    "pctLess": 0.05566904318727027
+  },
+  {
+    "name": "A FORÇA DO TRABALHO 1",
+    "parties": [
+      "PSB",
+      "DEM",
+      "PRTB",
+      "PDT",
+      "PRP",
+      "PV",
+      "PT",
+      "PSL",
+      "PCdoB",
+      "PHS",
+      "PPL"
+    ],
+    "votes": 474545,
+    "quoc": 2.936395475471511,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 243867,
+    "countExtra": 45,
+    "totalExtraVotes": 233588,
+    "hasMore": false,
+    "pctLess": 0.04215002439854511
+  },
+  {
+    "name": "RENOVAÇÃO DE VERDADE",
+    "parties": [
+      "PMDB"
+    ],
+    "votes": 441731,
+    "quoc": 2.7333485966041287,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 93837,
+    "countExtra": 7,
+    "totalExtraVotes": 50744,
+    "hasMore": false,
+    "pctLess": 0.45923249890768036
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 60910,
+    "quoc": 0.37689965843275086,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 60910
+  },
+  {
+    "name": "90 - PROS",
+    "parties": [
+      "PROS"
+    ],
+    "votes": 7391,
+    "quoc": 0.04573412207316469,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 7,
+    "totalExtraVotes": 7391
+  },
+  {
+    "name": "29 - PCO",
+    "parties": [
+      "PCO"
+    ],
+    "votes": 851,
+    "quoc": 0.005265828424335429,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 851
+  },
+  {
+    "name": "36 - PTC",
+    "parties": [
+      "PTC"
+    ],
+    "votes": 792,
+    "quoc": 0.004900747487748131,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 792
+  }
+]

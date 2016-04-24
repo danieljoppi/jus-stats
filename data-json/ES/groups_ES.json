@@ -1,0 +1,243 @@
+[
+  {
+    "name": "O ESPIRITO SANTO PODE MAIS",
+    "parties": [
+      "PMDB",
+      "DEM",
+      "PSDB",
+      "SD",
+      "PROS"
+    ],
+    "votes": 691558,
+    "quoc": 3.7262073461822376,
+    "positions": 4,
+    "countNeeds": 3,
+    "totalNeedVotes": 300930,
+    "countExtra": 31,
+    "totalExtraVotes": 435709,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "COM A FORÇA DO POVO CAPIXABA",
+    "parties": [
+      "PDT",
+      "PT"
+    ],
+    "votes": 430091,
+    "quoc": 2.317388048040605,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 125475,
+    "countExtra": 20,
+    "totalExtraVotes": 184380,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "UNIDOS PELO ESPIRITO SANTO",
+    "parties": [
+      "PRB",
+      "PP",
+      "PTB",
+      "PHS",
+      "PPS",
+      "PSD",
+      "PV"
+    ],
+    "votes": 327806,
+    "quoc": 1.7662627362023353,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 276832,
+    "countExtra": 31,
+    "totalExtraVotes": 233452,
+    "hasMore": false,
+    "pctLess": 0.15670153739452086
+  },
+  {
+    "name": "TODOS PELO ESPÍRITO SANTO",
+    "parties": [
+      "PRTB",
+      "PSB",
+      "PSL",
+      "PTN"
+    ],
+    "votes": 274573,
+    "quoc": 1.4794361856320013,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 27,
+    "totalExtraVotes": 274573
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 47839,
+    "quoc": 0.2577629544217724,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 24,
+    "totalExtraVotes": 47839
+  },
+  {
+    "name": "22 - PR",
+    "parties": [
+      "PR"
+    ],
+    "votes": 40560,
+    "quoc": 0.21854272521054136,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 40560
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 10889,
+    "quoc": 0.05867139385644933,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 10889
+  },
+  {
+    "name": "36 - PTC",
+    "parties": [
+      "PTC"
+    ],
+    "votes": 6819,
+    "quoc": 0.03674168745588465,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 6819
+  },
+  {
+    "name": "20 - PSC",
+    "parties": [
+      "PSC"
+    ],
+    "votes": 5934,
+    "quoc": 0.03197318864396825,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 5934
+  },
+  {
+    "name": "51 - PEN",
+    "parties": [
+      "PEN"
+    ],
+    "votes": 5207,
+    "quoc": 0.028056015043670827,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 5207
+  },
+  {
+    "name": "70 - PTdoB",
+    "parties": [
+      "PTdoB"
+    ],
+    "votes": 4530,
+    "quoc": 0.024408248155911052,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 4530
+  },
+  {
+    "name": "27 - PSDC",
+    "parties": [
+      "PSDC"
+    ],
+    "votes": 3183,
+    "quoc": 0.017150431320146774,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 3183
+  },
+  {
+    "name": "65 - PCdoB",
+    "parties": [
+      "PCdoB"
+    ],
+    "votes": 2268,
+    "quoc": 0.012220288480707785,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 2268
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 1650,
+    "quoc": 0.008890421513742437,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1650
+  },
+  {
+    "name": "54 - PPL",
+    "parties": [
+      "PPL"
+    ],
+    "votes": 1393,
+    "quoc": 0.007505671011298918,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1393
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 1109,
+    "quoc": 0.005975440884085068,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1109
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 522,
+    "quoc": 0.002812606078893062,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 1,
+    "totalExtraVotes": 522
+  }
+]

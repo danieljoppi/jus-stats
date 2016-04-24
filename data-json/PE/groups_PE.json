@@ -1,0 +1,123 @@
+[
+  {
+    "name": "FRENTE POPULAR DE PERNAMBUCO PARA DEPUTADO FEDERAL",
+    "parties": [
+      "PSB",
+      "PMDB",
+      "PCdoB",
+      "PV",
+      "PR",
+      "PSD",
+      "PPS",
+      "PSDB",
+      "SD",
+      "PPL",
+      "DEM",
+      "PROS",
+      "PP",
+      "PEN",
+      "PTC"
+    ],
+    "votes": 3033637,
+    "quoc": 16.892767649318973,
+    "positions": 17,
+    "countNeeds": 13,
+    "totalNeedVotes": 927613,
+    "countExtra": 46,
+    "totalExtraVotes": 1267520,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "PERNAMBUCO VAI MAIS LONGE",
+    "parties": [
+      "PTB",
+      "PT",
+      "PSC",
+      "PDT",
+      "PRB",
+      "PTdoB"
+    ],
+    "votes": 1179264,
+    "quoc": 6.566716040583132,
+    "positions": 7,
+    "countNeeds": 6,
+    "totalNeedVotes": 512038,
+    "countExtra": 42,
+    "totalExtraVotes": 613810,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "JUNTOS PELO IMPOSTO ÚNICO",
+    "parties": [
+      "PSDC",
+      "PTN",
+      "PRP",
+      "PSL",
+      "PHS",
+      "PRTB"
+    ],
+    "votes": 237830,
+    "quoc": 1.3243532202559276,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 150997,
+    "countExtra": 49,
+    "totalExtraVotes": 209245,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 17987,
+    "quoc": 0.10016037242039848,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 17987
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 8064,
+    "quoc": 0.04490427771157466,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 8064
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 7321,
+    "quoc": 0.040766892004766624,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 7321
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 5436,
+    "quoc": 0.030270294350213275,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 5436
+  }
+]

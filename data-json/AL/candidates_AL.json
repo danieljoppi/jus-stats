@@ -1,0 +1,1576 @@
+[
+  {
+    "candidate": 7777,
+    "fullName": "JOÃO HENRIQUE HOLANDA CALDAS",
+    "urnaName": "JHC",
+    "party": "SD",
+    "state": "AL",
+    "impeachment": true,
+    "votes": 135929,
+    "pct": 9.82,
+    "individual": false,
+    "quoc": 0.88,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "MARX BELTRÃO LIMA SIQUEIRA",
+    "urnaName": "MARX BELTRAO",
+    "party": "PMDB",
+    "state": "AL",
+    "impeachment": true,
+    "votes": 123317,
+    "pct": 8.91,
+    "individual": false,
+    "quoc": 0.8,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4545,
+    "fullName": "PEDRO TORRES BRANDÃO VILELA",
+    "urnaName": "PEDRO VILELA",
+    "party": "PSDB",
+    "state": "AL",
+    "impeachment": true,
+    "votes": 119582,
+    "pct": 8.64,
+    "individual": false,
+    "quoc": 0.78,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1111,
+    "fullName": "ARTHUR CESAR PEREIRA DE LIRA",
+    "urnaName": "ARTHUR LIRA",
+    "party": "PP",
+    "state": "AL",
+    "impeachment": true,
+    "votes": 98231,
+    "pct": 7.09,
+    "individual": false,
+    "quoc": 0.64,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1212,
+    "fullName": "RONALDO AUGUSTO LESSA SANTOS",
+    "urnaName": "RONALDO LESSA",
+    "party": "PDT",
+    "state": "AL",
+    "impeachment": false,
+    "votes": 88125,
+    "pct": 6.36,
+    "individual": false,
+    "quoc": 0.57,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 9090,
+    "fullName": "GIVALDO DE SÁ GOUVEIA CARIMBÃO",
+    "urnaName": "GIVALDO CARIMBAO",
+    "party": "PROS",
+    "state": "AL",
+    "impeachment": false,
+    "votes": 82582,
+    "pct": 5.96,
+    "individual": false,
+    "quoc": 0.54,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2266,
+    "fullName": "MAURÍCIO QUINTELLA MALTA LESSA",
+    "urnaName": "MAURICIO QUINTELLA",
+    "party": "PR",
+    "state": "AL",
+    "impeachment": true,
+    "votes": 76706,
+    "pct": 5.54,
+    "individual": false,
+    "quoc": 0.5,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4444,
+    "fullName": "NIVALDO FERREIRA DE ALBUQUERQUE NETO",
+    "urnaName": "NIVALDO ALBUQUERQUE",
+    "party": "PRP",
+    "state": "AL",
+    "votes": 66910,
+    "pct": 4.83,
+    "individual": false,
+    "quoc": 0.43,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 2800,
+    "fullName": "JOSE CICERO SOARES DE ALMEIDA",
+    "urnaName": "CICERO ALMEIDA",
+    "party": "PRTB",
+    "state": "AL",
+    "impeachment": true,
+    "votes": 64435,
+    "pct": 4.65,
+    "individual": false,
+    "quoc": 0.42,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2888,
+    "fullName": "AUDIVAL AMÉLIO DA SILVA NETO",
+    "urnaName": "VAL AMELIO",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 58095,
+    "pct": 4.2,
+    "individual": false,
+    "quoc": 0.38,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "PAULO FERNANDO DOS SANTOS",
+    "urnaName": "PAULAO",
+    "party": "PT",
+    "state": "AL",
+    "impeachment": false,
+    "votes": 53284,
+    "pct": 3.85,
+    "individual": false,
+    "quoc": 0.35,
+    "status": {
+      "geral": "winner"
+    }
+  },
+  {
+    "candidate": 4500,
+    "fullName": "ROGERIO AUTO TEOFILO",
+    "urnaName": "ROGERIO TEOFILO",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 47097,
+    "pct": 3.4,
+    "individual": false,
+    "quoc": 0.31,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 7000,
+    "fullName": "ROSEANE CAVALCANTE DE FREITAS",
+    "urnaName": "ROSINHA DA ADEFAL",
+    "party": "PTdoB",
+    "state": "AL",
+    "votes": 27116,
+    "pct": 1.96,
+    "individual": false,
+    "quoc": 0.18,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 2877,
+    "fullName": "ADERVAL ROCHA TENÓRIO",
+    "urnaName": "ADERVAL TENORIO",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 19392,
+    "pct": 1.4,
+    "individual": false,
+    "quoc": 0.13,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 14,
+    "party": "PTB",
+    "state": "AL",
+    "votes": 16898,
+    "pct": 1.22,
+    "individual": false,
+    "quoc": 0.11,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1178,
+    "fullName": "MARIA FATIMA GALINA FORTES FERREIRA SANTIAGO",
+    "urnaName": "FATIMA SANTIAGO",
+    "party": "PP",
+    "state": "AL",
+    "votes": 15384,
+    "pct": 1.11,
+    "individual": false,
+    "quoc": 0.1,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1510,
+    "fullName": "HEMERSON CASADO GAMA",
+    "urnaName": "HEMERSON CASADO",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 15102,
+    "pct": 1.09,
+    "individual": false,
+    "quoc": 0.1,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1599,
+    "fullName": "FERNANDO ANTÔNIO MACEDO HOLANDA",
+    "urnaName": "FERNANDO HOLLANDA",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 14553,
+    "pct": 1.05,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2323,
+    "fullName": "JOSÉ REGIS BARROS CAVALCANTE",
+    "urnaName": "REGIS CAVALCANTE",
+    "party": "PPS",
+    "state": "AL",
+    "votes": 13986,
+    "pct": 1.01,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 2812,
+    "fullName": "JOSE BARBOSA LIMEIRA",
+    "urnaName": "PASTOR BARBOZINHA",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 12194,
+    "pct": 0.88,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {}
+  },
+  {
+    "candidate": 45,
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 12169,
+    "pct": 0.88,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 13,
+    "party": "PT",
+    "state": "AL",
+    "votes": 11337,
+    "pct": 0.82,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 15,
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 10456,
+    "pct": 0.76,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1533,
+    "fullName": "CARLOS EUGÊNIO LESSA DE AZEVEDO SAMPAIO",
+    "urnaName": "GG SAMPAIO",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 10307,
+    "pct": 0.74,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1122,
+    "fullName": "JOSE JULIO DE ALMEIDA FILHO",
+    "urnaName": "JULIO HOULY",
+    "party": "PP",
+    "state": "AL",
+    "votes": 8596,
+    "pct": 0.62,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4566,
+    "fullName": "JORGE VI LAMENHA LINS",
+    "urnaName": "JORGE VI",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 8515,
+    "pct": 0.61,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 3333,
+    "fullName": "ANTONIO CARLOS AZEVEDO LESSA",
+    "urnaName": "DELEGADO LESSA",
+    "party": "PMN",
+    "state": "AL",
+    "votes": 7464,
+    "pct": 0.54,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {}
+  },
+  {
+    "candidate": 12,
+    "party": "PDT",
+    "state": "AL",
+    "votes": 7394,
+    "pct": 0.53,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2870,
+    "fullName": "JOSIVAL FERREIRA DE LIMA",
+    "urnaName": "DORGE DO QUEIJO",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 7188,
+    "pct": 0.52,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {}
+  },
+  {
+    "candidate": 11,
+    "party": "PP",
+    "state": "AL",
+    "votes": 7098,
+    "pct": 0.51,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1444,
+    "fullName": "IVON BERTO TIBURCIO DE LIMA",
+    "urnaName": "CORONEL IVON",
+    "party": "PTB",
+    "state": "AL",
+    "votes": 6366,
+    "pct": 0.46,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 50,
+    "party": "PSOL",
+    "state": "AL",
+    "votes": 6102,
+    "pct": 0.44,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 2311,
+    "fullName": "ANTONIO NELSON OLIVEIRA DE AZEVEDO",
+    "urnaName": "ANTONIO NELSON",
+    "party": "PPS",
+    "state": "AL",
+    "votes": 5836,
+    "pct": 0.42,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4555,
+    "fullName": "MARCOS ANTONIO FERREIRA NUNES",
+    "urnaName": "MARCOS FERREIRA",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 5280,
+    "pct": 0.38,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1414,
+    "fullName": "ANTONIO CARLOS RAMOS",
+    "urnaName": "CHAMARIZ",
+    "party": "PTB",
+    "state": "AL",
+    "votes": 5027,
+    "pct": 0.36,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 1556,
+    "fullName": "FRANCISCO DE SOUZA IRMÃO",
+    "urnaName": "CHICO DA CAPIAL",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 4798,
+    "pct": 0.35,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 2838,
+    "fullName": "LUIZ ALBERTO ALVES TEIXEIRA",
+    "urnaName": "CABO LUIZ ALVES",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 4568,
+    "pct": 0.33,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 2333,
+    "fullName": "LUCAS COSTA MOREIRA CESAR BARBOSA",
+    "urnaName": "LUCAS COSTTA",
+    "party": "PPS",
+    "state": "AL",
+    "votes": 4394,
+    "pct": 0.32,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 4599,
+    "fullName": "VANILDO RUFINO DOS SANTOS",
+    "urnaName": "RUFINO",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 4170,
+    "pct": 0.3,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1580,
+    "fullName": "PEDRO RODRIGUES GAIA NETO",
+    "urnaName": "PEDRO GAIA",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 3864,
+    "pct": 0.28,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 25,
+    "party": "DEM",
+    "state": "AL",
+    "votes": 3797,
+    "pct": 0.27,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1500,
+    "fullName": "ALEXANDRE MURTA DE ARAÚJO ROCHA",
+    "urnaName": "ALEXANDRE MURTA",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 3783,
+    "pct": 0.27,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 2855,
+    "fullName": "ILDO RAFAEL DE VASCONCELOS",
+    "urnaName": "ILDO RAFAEL",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 3782,
+    "pct": 0.27,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 40,
+    "party": "PSB",
+    "state": "AL",
+    "votes": 3715,
+    "pct": 0.27,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 22,
+    "party": "PR",
+    "state": "AL",
+    "votes": 3574,
+    "pct": 0.26,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1112,
+    "fullName": "WELLINGTON RODRIGUES FRAGOSO",
+    "urnaName": "MAJOR FRAGOSO",
+    "party": "PP",
+    "state": "AL",
+    "votes": 3517,
+    "pct": 0.25,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 4567,
+    "fullName": "VENANCIO DOS ANJOS TELES",
+    "urnaName": "PALHACO PIRULITO",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 3354,
+    "pct": 0.24,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 2880,
+    "fullName": "JAILTON SANTOS COSTA",
+    "urnaName": "DR JAILTON COSTA",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 3227,
+    "pct": 0.23,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1001,
+    "fullName": "ANTÔNIO LUIZ DA SILVA",
+    "urnaName": "PASTOR LUIZAO",
+    "party": "PRB",
+    "state": "AL",
+    "votes": 3194,
+    "pct": 0.23,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1077,
+    "fullName": "GESIEL ANTÔNIO DE OLIVEIRA",
+    "urnaName": "GESIEL AMIGO LEAL",
+    "party": "PRB",
+    "state": "AL",
+    "votes": 2776,
+    "pct": 0.2,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 5010,
+    "fullName": "VALBERTSON DE BRITO LYRA SANTOS",
+    "urnaName": "BETO BRITO",
+    "party": "PSOL",
+    "state": "AL",
+    "votes": 2573,
+    "pct": 0.19,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 90,
+    "party": "PROS",
+    "state": "AL",
+    "votes": 2424,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2828,
+    "fullName": "JOSE SALUSTIANO DOS SANTOS FILHO",
+    "urnaName": "SALUSTIANO",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 2349,
+    "pct": 0.17,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 2500,
+    "fullName": "JOSÉ FRANCISCO DE LIMA",
+    "urnaName": "CHICO LIMA",
+    "party": "DEM",
+    "state": "AL",
+    "votes": 2273,
+    "pct": 0.16,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 44,
+    "party": "PRP",
+    "state": "AL",
+    "votes": 2194,
+    "pct": 0.16,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1555,
+    "fullName": "JULIO CESAR MARTINS DE CERQUEIRA",
+    "urnaName": "JULIO CERQUEIRA",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 2190,
+    "pct": 0.16,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 20,
+    "party": "PSC",
+    "state": "AL",
+    "votes": 1924,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2505,
+    "fullName": "EDSON MAIA NOBRE DE ABREU",
+    "urnaName": "DR. EDSON",
+    "party": "DEM",
+    "state": "AL",
+    "votes": 1901,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 55,
+    "party": "PSD",
+    "state": "AL",
+    "votes": 1894,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 23,
+    "party": "PPS",
+    "state": "AL",
+    "votes": 1853,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 28,
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 1815,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3633,
+    "fullName": "SEVERINO CORREIA CAVALCANTE",
+    "urnaName": "SEVERINO DO CHAPEU",
+    "party": "PTC",
+    "state": "AL",
+    "votes": 1769,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1011,
+    "fullName": "ZEDEQUIAS ALVES RIBEIRO",
+    "urnaName": "ZEDEQUIAS",
+    "party": "PRB",
+    "state": "AL",
+    "votes": 1768,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5000,
+    "fullName": "PAULO ROBERTO CHAGAS SANTOS",
+    "urnaName": "PROFESSOR PAULO ROBERTO",
+    "party": "PSOL",
+    "state": "AL",
+    "votes": 1755,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1616,
+    "fullName": "PAULO SÉRGIO DA SILVA FALCÃO",
+    "urnaName": "PAULO FALCAO",
+    "party": "PSTU",
+    "state": "AL",
+    "votes": 1752,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5500,
+    "fullName": "ROBERTO CARLOS TEIXEIRA GOMES",
+    "urnaName": "ROBERTO TEIXEIRA",
+    "party": "PSD",
+    "state": "AL",
+    "votes": 1685,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3131,
+    "fullName": "JAMISON RODRIGUES DA SILVA",
+    "urnaName": "JAMINHO",
+    "party": "PHS",
+    "state": "AL",
+    "votes": 1577,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2525,
+    "fullName": "MARCOS ANTÔNIO VIEIRA DA SILVA",
+    "urnaName": "MARCOS VIEIRA",
+    "party": "DEM",
+    "state": "AL",
+    "votes": 1519,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 77,
+    "party": "SD",
+    "state": "AL",
+    "votes": 1473,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2777,
+    "fullName": "ODILON TENORIO DA SILVA",
+    "urnaName": "ODILON TENORIO",
+    "party": "PSDC",
+    "state": "AL",
+    "votes": 1159,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4512,
+    "fullName": "MARIA DE FATIMA BRASILEIRO DANYLO",
+    "urnaName": "FATIMA BRASILEIRO",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 1093,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1000,
+    "fullName": "THALES CAVALCANTE NOVAIS DE CASTRO",
+    "urnaName": "THALES NOVAES",
+    "party": "PRB",
+    "state": "AL",
+    "votes": 1070,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5444,
+    "fullName": "SERGIO CABRAL BARBOSA",
+    "urnaName": "SERGIO CABRAL",
+    "party": "PPL",
+    "state": "AL",
+    "votes": 1045,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5050,
+    "fullName": "JOSÉ JÚNIOR NASCIMENTO SILVA",
+    "urnaName": "JUNIOR",
+    "party": "PSOL",
+    "state": "AL",
+    "votes": 997,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2811,
+    "fullName": "ANTONIO JORGE GOMES",
+    "urnaName": "JORGE DA SORTE",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 978,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4377,
+    "fullName": "ROSIETE GOIS RAMOS",
+    "urnaName": "TIA ROSA",
+    "party": "PV",
+    "state": "AL",
+    "votes": 857,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2727,
+    "fullName": "ALISSON CARDOSO DA SILVA",
+    "urnaName": "ALISSON CARDOSO",
+    "party": "PSDC",
+    "state": "AL",
+    "votes": 839,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2014,
+    "fullName": "JOSÉ JERÔNIMO DE FARIAS NETO",
+    "urnaName": "IRMAO JOTA JEO",
+    "party": "PSC",
+    "state": "AL",
+    "votes": 758,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4550,
+    "fullName": "ADISSON FLORENCIO DA SILVA CORREA",
+    "urnaName": "ADISSON MALTA",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 740,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4000,
+    "fullName": "ALVARO FERREIRA GUIMARÃES FILHO",
+    "urnaName": "ALVARO GUIMARAES",
+    "party": "PSB",
+    "state": "AL",
+    "votes": 734,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2555,
+    "fullName": "FLAVIO HENRIQUE CATÃO NOGUEIRA",
+    "urnaName": "FLAVIO CATAO",
+    "party": "DEM",
+    "state": "AL",
+    "votes": 709,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 54,
+    "party": "PPL",
+    "state": "AL",
+    "votes": 701,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4312,
+    "fullName": "MARIA APARECIDA GERMANO DOS SANTOS",
+    "urnaName": "CIDA DO POVAO",
+    "party": "PV",
+    "state": "AL",
+    "votes": 680,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4099,
+    "fullName": "MARIA LIGIA MININ DE LINS",
+    "urnaName": "LIGIA DO PONTAL",
+    "party": "PSB",
+    "state": "AL",
+    "votes": 662,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 31,
+    "party": "PHS",
+    "state": "AL",
+    "votes": 660,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 10,
+    "party": "PRB",
+    "state": "AL",
+    "votes": 590,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 65,
+    "party": "PCdoB",
+    "state": "AL",
+    "votes": 585,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 17,
+    "party": "PSL",
+    "state": "AL",
+    "votes": 553,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3311,
+    "fullName": "MARCELO ALVES DA SILVA",
+    "urnaName": "MARCELO ALVES",
+    "party": "PMN",
+    "state": "AL",
+    "votes": 508,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 70,
+    "party": "PTdoB",
+    "state": "AL",
+    "votes": 491,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4040,
+    "fullName": "PAULO ROBERTO NUNES CALAÇA",
+    "urnaName": "MAJOR PAULO NUNES",
+    "party": "PSB",
+    "state": "AL",
+    "votes": 483,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 33,
+    "party": "PMN",
+    "state": "AL",
+    "votes": 455,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2850,
+    "fullName": "ROBERTO FREIRES DE ARAUJO",
+    "urnaName": "ROBERTO FREIRES",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 427,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1022,
+    "fullName": "CLIUTON SANTOS",
+    "urnaName": "CLIUTON SANTOS",
+    "party": "PRB",
+    "state": "AL",
+    "votes": 425,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 36,
+    "party": "PTC",
+    "state": "AL",
+    "votes": 422,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 43,
+    "party": "PV",
+    "state": "AL",
+    "votes": 400,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4044,
+    "fullName": "IRIS DOS SANTOS MELO",
+    "urnaName": "IRIS FAUSTINO",
+    "party": "PSB",
+    "state": "AL",
+    "votes": 341,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2899,
+    "fullName": "CICERA MARIA DE OLIVEIRA",
+    "urnaName": "CICERA PSICOLOGA",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 333,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 16,
+    "party": "PSTU",
+    "state": "AL",
+    "votes": 294,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1512,
+    "fullName": "MARIA DE FÁTIMA DOS SANTOS",
+    "urnaName": "FATIMA CANTORA",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 281,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4333,
+    "fullName": "CARLOS ALBERTO DA SILVA",
+    "urnaName": "CARLOS ALBERTO",
+    "party": "PV",
+    "state": "AL",
+    "votes": 271,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1551,
+    "fullName": "MÁRCIA CRISTINA MARCOLINO",
+    "urnaName": "MARCIA MARCOLINO",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 261,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3644,
+    "fullName": "LUANDA ROSA COSTA LINS",
+    "urnaName": "LUANDA COSTA",
+    "party": "PTC",
+    "state": "AL",
+    "votes": 211,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1033,
+    "fullName": "MALBA TENORIO CAVANCANTE",
+    "urnaName": "MALBA TENORIO",
+    "party": "PRB",
+    "state": "AL",
+    "votes": 206,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 27,
+    "party": "PSDC",
+    "state": "AL",
+    "votes": 196,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3300,
+    "fullName": "TACIANA CORREIA SILVA",
+    "urnaName": "TACIANA CORREIA",
+    "party": "PMN",
+    "state": "AL",
+    "votes": 186,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2833,
+    "fullName": "JOSE MARCOS DAS CHAGAS",
+    "urnaName": "MARCOS CHAGAS",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 181,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7070,
+    "fullName": "CRISTIANE MARQUES SAMPAIO",
+    "urnaName": "SHAKTI SAMPAIO - A INDIA",
+    "party": "PTdoB",
+    "state": "AL",
+    "votes": 173,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3656,
+    "fullName": "EDIERSON GOMES DA SILVA",
+    "urnaName": "GOMES",
+    "party": "PTC",
+    "state": "AL",
+    "votes": 149,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5001,
+    "fullName": "IRACI BATISTA DA SILVA",
+    "urnaName": "IRACI BATISTA",
+    "party": "PSOL",
+    "state": "AL",
+    "votes": 145,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1516,
+    "fullName": "VANIA LUCIA SOUZA DA SILVA",
+    "urnaName": "VANIA LUCIA",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 119,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2845,
+    "fullName": "MARIA SILVANA RODRIGUES SOARES",
+    "urnaName": "SILVANA SOARES",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 116,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5005,
+    "fullName": "MARIA DA GLÓRIA SANTOS OLIVEIRA",
+    "urnaName": "MARIA DA GLORIA",
+    "party": "PSOL",
+    "state": "AL",
+    "votes": 109,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5578,
+    "fullName": "JOÃO JOSÉ PEREIRA DE LYRA",
+    "urnaName": "JOAO LYRA",
+    "party": "PSD",
+    "state": "AL",
+    "votes": 102,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1052,
+    "fullName": "TEODORO CAVALCANTI DE MELO",
+    "urnaName": "PROFESSOR TEODORO",
+    "party": "PRB",
+    "state": "AL",
+    "votes": 85,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2299,
+    "fullName": "MEIRE ROSE NUNES ALVES",
+    "urnaName": "MEIRE ROSE",
+    "party": "PR",
+    "state": "AL",
+    "votes": 80,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4595,
+    "fullName": "VIVIANE JULIANE RAMOS DA SILVA",
+    "urnaName": "VIVIANE RAMOS",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 72,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4589,
+    "fullName": "ANDREIA CHRISTINA DOS SANTOS VITAL",
+    "urnaName": "ANDREIA VITAL",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 63,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4553,
+    "fullName": "JOAO BATISTA DA SILVA",
+    "urnaName": "JOAO BATISTA",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 61,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4505,
+    "fullName": "JESSYCA BEATRIZ PINTO FERREIRA",
+    "urnaName": "JESSYCA FERREIRA",
+    "party": "PSDB",
+    "state": "AL",
+    "votes": 54,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2356,
+    "fullName": "MARILIA DA SILVA SANTOS",
+    "urnaName": "MARILIA",
+    "party": "PPS",
+    "state": "AL",
+    "votes": 52,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3312,
+    "fullName": "SONIA MARIA TEIXEIRA SOARES",
+    "urnaName": "SONIA MARIA",
+    "party": "PMN",
+    "state": "AL",
+    "votes": 44,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1166,
+    "fullName": "AUDINEIDE SILVA CAVALCANTE",
+    "urnaName": "AUDI CAVALCANTE",
+    "party": "PP",
+    "state": "AL",
+    "votes": 38,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2820,
+    "fullName": "JULIANA DOS SANTOS LIMA",
+    "urnaName": "JULIANA",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 35,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3636,
+    "fullName": "POLYANA NOBRE DE LIMA",
+    "urnaName": "POLYANA NOBRE",
+    "party": "PTC",
+    "state": "AL",
+    "votes": 23,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2835,
+    "fullName": "PAULA CAVALCANTE AMELIO SILVA",
+    "urnaName": "PAULA",
+    "party": "PRTB",
+    "state": "AL",
+    "votes": 20,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2344,
+    "fullName": "POLYANNA KAROLYNE HONORATO TEIXEIRA",
+    "urnaName": "POLYANNA TEIXEIRA",
+    "party": "PPS",
+    "state": "AL",
+    "votes": 18,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1560,
+    "fullName": "YONARA TENÓRIO TOLEDO",
+    "urnaName": "YONARA TENORIO",
+    "party": "PMDB",
+    "state": "AL",
+    "votes": 13,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  }
+]

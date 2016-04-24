@@ -1,0 +1,226 @@
+[
+  {
+    "name": "CORAGEM E ATITUDE PRA MUDAR I",
+    "parties": [
+      "PDT",
+      "PP",
+      "DEM",
+      "PSDB",
+      "PSB",
+      "PPS",
+      "PTB",
+      "PSC",
+      "PSL",
+      "PRB"
+    ],
+    "votes": 709439,
+    "quoc": 3.8752970224016345,
+    "positions": 4,
+    "countNeeds": 5,
+    "totalNeedVotes": 471088,
+    "countExtra": 29,
+    "totalExtraVotes": 265192,
+    "hasMore": false,
+    "pctLess": 0.4370648371429542
+  },
+  {
+    "name": "AMOR A NOSSA GENTE I",
+    "parties": [
+      "PT",
+      "PMDB",
+      "PROS",
+      "PR"
+    ],
+    "votes": 462912,
+    "quoc": 2.528647981340165,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 292681,
+    "countExtra": 22,
+    "totalExtraVotes": 206392,
+    "hasMore": false,
+    "pctLess": 0.2948226909160485
+  },
+  {
+    "name": "55 - PSD",
+    "parties": [
+      "PSD"
+    ],
+    "votes": 155329,
+    "quoc": 0.8484817034200594,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 16,
+    "totalExtraVotes": 155329
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 88500,
+    "quoc": 0.4834295640393954,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 7,
+    "totalExtraVotes": 88500
+  },
+  {
+    "name": "77 - SD",
+    "parties": [
+      "SD"
+    ],
+    "votes": 11971,
+    "quoc": 0.06539135944763393,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 11971
+  },
+  {
+    "name": "51 - PEN",
+    "parties": [
+      "PEN"
+    ],
+    "votes": 6913,
+    "quoc": 0.03776213080456882,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 6913
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 6269,
+    "quoc": 0.034244293073027905,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 6269
+  },
+  {
+    "name": "36 - PTC",
+    "parties": [
+      "PTC"
+    ],
+    "votes": 5013,
+    "quoc": 0.027383417000333213,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 5013
+  },
+  {
+    "name": "31 - PHS",
+    "parties": [
+      "PHS"
+    ],
+    "votes": 4078,
+    "quoc": 0.022275997312459373,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 7,
+    "totalExtraVotes": 4078
+  },
+  {
+    "name": "65 - PCdoB",
+    "parties": [
+      "PCdoB"
+    ],
+    "votes": 3508,
+    "quoc": 0.01916238317118869,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 3508
+  },
+  {
+    "name": "70 - PTdoB",
+    "parties": [
+      "PTdoB"
+    ],
+    "votes": 3229,
+    "quoc": 0.017638350986250936,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 3229
+  },
+  {
+    "name": "43 - PV",
+    "parties": [
+      "PV"
+    ],
+    "votes": 2398,
+    "quoc": 0.013099029317135257,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 2398
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 2182,
+    "quoc": 0.011919133432022156,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 2182
+  },
+  {
+    "name": "27 - PSDC",
+    "parties": [
+      "PSDC"
+    ],
+    "votes": 1961,
+    "quoc": 0.010711925142161067,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1961
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 619,
+    "quoc": 0.003381275707800969,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 619
+  },
+  {
+    "name": "19 - PTN",
+    "parties": [
+      "PTN"
+    ],
+    "votes": 213,
+    "quoc": 0.0011635084422643076,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 213
+  }
+]

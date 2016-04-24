@@ -1,0 +1,184 @@
+[
+  {
+    "name": "UNIÃO PELO PARÁ",
+    "parties": [
+      "PSDB",
+      "PSD",
+      "PSB",
+      "PP",
+      "PSC",
+      "PTB",
+      "PPS",
+      "PTdoB",
+      "PTC"
+    ],
+    "votes": 1416400,
+    "quoc": 6.405368860428623,
+    "positions": 6,
+    "countNeeds": 4,
+    "totalNeedVotes": 404843,
+    "countExtra": 44,
+    "totalExtraVotes": 715608,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "TODOS PELO PARÁ II",
+    "parties": [
+      "PMDB",
+      "PT"
+    ],
+    "votes": 1056259,
+    "quoc": 4.776707502928182,
+    "positions": 5,
+    "countNeeds": 3,
+    "totalNeedVotes": 338750,
+    "countExtra": 18,
+    "totalExtraVotes": 731628,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "DEFENDENDO O PARÁ",
+    "parties": [
+      "PR",
+      "DEM",
+      "PHS",
+      "PROS",
+      "PCdoB",
+      "PSL",
+      "PDT",
+      "PPL"
+    ],
+    "votes": 668804,
+    "quoc": 3.02452436834941,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 336500,
+    "countExtra": 46,
+    "totalExtraVotes": 341923,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "A FORÇA DA NOSSA GENTE",
+    "parties": [
+      "PRB",
+      "SD"
+    ],
+    "votes": 347324,
+    "quoc": 1.5706991909626595,
+    "positions": 2,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 15,
+    "totalExtraVotes": 347324
+  },
+  {
+    "name": "FRENTE DE ESQUERDA - MUDANÇA PRA VALER",
+    "parties": [
+      "PSOL",
+      "PSTU"
+    ],
+    "votes": 231767,
+    "quoc": 1.0481171453508618,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 50523,
+    "countExtra": 26,
+    "totalExtraVotes": 61163,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "43 - PV",
+    "parties": [
+      "PV"
+    ],
+    "votes": 8749,
+    "quoc": 0.03956549855965124,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 8749
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 8233,
+    "quoc": 0.03723199790165832,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 8233
+  },
+  {
+    "name": "51 - PEN",
+    "parties": [
+      "PEN"
+    ],
+    "votes": 8113,
+    "quoc": 0.03668932333003206,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 8113
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 7538,
+    "quoc": 0.0340890076743229,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 7538
+  },
+  {
+    "name": "19 - PTN",
+    "parties": [
+      "PTN"
+    ],
+    "votes": 3293,
+    "quoc": 0.014891894703043952,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 10,
+    "totalExtraVotes": 3293
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 1669,
+    "quoc": 0.0075476988337018994,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1669
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 1010,
+    "quoc": 0.004567510977854355,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1010
+  }
+]

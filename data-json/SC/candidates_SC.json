@@ -1,0 +1,2017 @@
+[
+  {
+    "candidate": 1133,
+    "fullName": "ESPERIDIÃO AMIN HELOU FILHO",
+    "urnaName": "ESPERIDIAO AMIN",
+    "party": "PP",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 229668,
+    "pct": 6.76,
+    "individual": true,
+    "quoc": 1.08,
+    "status": {
+      "individual": "winner",
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5555,
+    "fullName": "JOÃO RODRIGUES",
+    "urnaName": "JOAO RODRIGUES",
+    "party": "PSD",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 221409,
+    "pct": 6.51,
+    "individual": true,
+    "quoc": 1.04,
+    "status": {
+      "individual": "winner",
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1570,
+    "fullName": "MAURO MARIANI",
+    "urnaName": "MAURO MARIANI",
+    "party": "PMDB",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 195942,
+    "pct": 5.76,
+    "individual": false,
+    "quoc": 0.92,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2223,
+    "fullName": "JORGINHO DOS SANTOS MELLO",
+    "urnaName": "JORGINHO MELLO",
+    "party": "PR",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 140839,
+    "pct": 4.14,
+    "individual": false,
+    "quoc": 0.66,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1510,
+    "fullName": "ROGERIO MENDONÇA",
+    "urnaName": "PENINHA",
+    "party": "PMDB",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 137784,
+    "pct": 4.05,
+    "individual": false,
+    "quoc": 0.65,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1350,
+    "fullName": "PEDRO FRANCISCO UCZAI",
+    "urnaName": "PEDRO UCZAI",
+    "party": "PT",
+    "state": "SC",
+    "impeachment": false,
+    "votes": 135439,
+    "pct": 3.98,
+    "individual": false,
+    "quoc": 0.64,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4545,
+    "fullName": "MARCO ANTONIO TEBALDI",
+    "urnaName": "MARCO TEBALDI",
+    "party": "PSDB",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 135042,
+    "pct": 3.97,
+    "individual": false,
+    "quoc": 0.64,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5588,
+    "fullName": "JOÃO PAULO KARAM KLEINUBING",
+    "urnaName": "JOAO PAULO KLEINUBING",
+    "party": "PSD",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 132349,
+    "pct": 3.89,
+    "individual": false,
+    "quoc": 0.62,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1105,
+    "fullName": "JORGE CATARINO LEONARDELI BOEIRA",
+    "urnaName": "JORGE BOEIRA",
+    "party": "PP",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 123770,
+    "pct": 3.64,
+    "individual": false,
+    "quoc": 0.58,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1516,
+    "fullName": "VALDIR COLATTO",
+    "urnaName": "VALDIR COLATTO",
+    "party": "PMDB",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 115431,
+    "pct": 3.4,
+    "individual": false,
+    "quoc": 0.54,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "DÉCIO NERY DE LIMA",
+    "urnaName": "DECIO LIMA",
+    "party": "PT",
+    "state": "SC",
+    "impeachment": false,
+    "votes": 112366,
+    "pct": 3.31,
+    "individual": false,
+    "quoc": 0.53,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5510,
+    "fullName": "CESAR ANTONIO DE SOUZA",
+    "urnaName": "CESAR SOUZA",
+    "party": "PSD",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 110777,
+    "pct": 3.26,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1560,
+    "fullName": "CELSO MALDANER",
+    "urnaName": "CELSO MALDANER",
+    "party": "PMDB",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 110436,
+    "pct": 3.25,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1509,
+    "fullName": "RONALDO JOSÉ BENEDET",
+    "urnaName": "RONALDO BENEDET",
+    "party": "PMDB",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 105303,
+    "pct": 3.1,
+    "individual": false,
+    "quoc": 0.5,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "EDSON BEZ DE OLIVEIRA",
+    "urnaName": "EDINHO BEZ",
+    "party": "PMDB",
+    "state": "SC",
+    "votes": 102633,
+    "pct": 3.02,
+    "individual": false,
+    "quoc": 0.48,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 6565,
+    "fullName": "ANGELA ALBINO",
+    "urnaName": "ANGELA",
+    "party": "PCdoB",
+    "state": "SC",
+    "votes": 87954,
+    "pct": 2.59,
+    "individual": false,
+    "quoc": 0.41,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 2323,
+    "fullName": "CARMEN EMÍLIA BONFÁ ZANOTTO",
+    "urnaName": "CARMEN ZANOTTO",
+    "party": "PPS",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 78607,
+    "pct": 2.31,
+    "individual": false,
+    "quoc": 0.37,
+    "status": {
+      "geral": "winner"
+    }
+  },
+  {
+    "candidate": 2577,
+    "fullName": "JOVINO CARDOSO NETO",
+    "urnaName": "JOVINO CARDOSO",
+    "party": "DEM",
+    "state": "SC",
+    "votes": 69645,
+    "pct": 2.05,
+    "individual": false,
+    "quoc": 0.33,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5599,
+    "fullName": "JOSÉ ALUÍSIO VIEIRA",
+    "urnaName": "DR. XUXO",
+    "party": "PSD",
+    "state": "SC",
+    "votes": 63964,
+    "pct": 1.88,
+    "individual": false,
+    "quoc": 0.3,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4577,
+    "fullName": "GEOVANIA DE SA RODRIGUES",
+    "urnaName": "GEOVANIA DE SA",
+    "party": "PSDB",
+    "state": "SC",
+    "impeachment": true,
+    "votes": 52757,
+    "pct": 1.55,
+    "individual": false,
+    "quoc": 0.25,
+    "status": {
+      "geral": "winner",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "FABRICIO JOSE SATIRO DE OLIVEIRA",
+    "urnaName": "FABRICIO OLIVEIRA",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 51494,
+    "pct": 1.51,
+    "individual": false,
+    "quoc": 0.24,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4045,
+    "fullName": "ODACIR ZONTA",
+    "urnaName": "ZONTA",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 50790,
+    "pct": 1.49,
+    "individual": false,
+    "quoc": 0.24,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2510,
+    "fullName": "JAIR ANTONIO MIOTTO",
+    "urnaName": "JAIR MIOTTO",
+    "party": "DEM",
+    "state": "SC",
+    "votes": 46518,
+    "pct": 1.37,
+    "individual": false,
+    "quoc": 0.22,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 13,
+    "party": "PT",
+    "state": "SC",
+    "votes": 46445,
+    "pct": 1.37,
+    "individual": false,
+    "quoc": 0.22,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 45,
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 41888,
+    "pct": 1.23,
+    "individual": false,
+    "quoc": 0.2,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 15,
+    "party": "PMDB",
+    "state": "SC",
+    "votes": 39033,
+    "pct": 1.15,
+    "individual": false,
+    "quoc": 0.18,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1312,
+    "fullName": "CARLITO MERSS",
+    "urnaName": "CARLITO MERSS",
+    "party": "PT",
+    "state": "SC",
+    "votes": 37167,
+    "pct": 1.09,
+    "individual": false,
+    "quoc": 0.17,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 7777,
+    "fullName": "OSVALDO OLAVIO MAFRA",
+    "urnaName": "OSVALDO MAFRA",
+    "party": "SD",
+    "state": "SC",
+    "votes": 36343,
+    "pct": 1.07,
+    "individual": false,
+    "quoc": 0.17,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1333,
+    "fullName": "LUCI TERESINHA KOSWOSKI CHOINACKI",
+    "urnaName": "LUCI",
+    "party": "PT",
+    "state": "SC",
+    "votes": 35455,
+    "pct": 1.04,
+    "individual": false,
+    "quoc": 0.17,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 40,
+    "party": "PSB",
+    "state": "SC",
+    "votes": 28207,
+    "pct": 0.83,
+    "individual": false,
+    "quoc": 0.13,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 55,
+    "party": "PSD",
+    "state": "SC",
+    "votes": 25182,
+    "pct": 0.74,
+    "individual": false,
+    "quoc": 0.12,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1010,
+    "fullName": "RIDEVALDO BEZERRA GOMES",
+    "urnaName": "PASTOR GOMES",
+    "party": "PRB",
+    "state": "SC",
+    "votes": 24884,
+    "pct": 0.73,
+    "individual": false,
+    "quoc": 0.12,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1300,
+    "fullName": "JOSÉ PAULO SERAFIM",
+    "urnaName": "JOSE PAULO SERAFIM",
+    "party": "PT",
+    "state": "SC",
+    "votes": 22675,
+    "pct": 0.67,
+    "individual": false,
+    "quoc": 0.11,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1301,
+    "fullName": "MARLI LEANDRO",
+    "urnaName": "MARLI LEANDRO",
+    "party": "PT",
+    "state": "SC",
+    "votes": 16035,
+    "pct": 0.47,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {}
+  },
+  {
+    "candidate": 1314,
+    "fullName": "JEAN PIER XAVIER DE LIZ",
+    "urnaName": "JEAN DE LIZ",
+    "party": "PT",
+    "state": "SC",
+    "votes": 15939,
+    "pct": 0.47,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {}
+  },
+  {
+    "candidate": 1370,
+    "fullName": "ADILSON MARIANO",
+    "urnaName": "ADILSON MARIANO",
+    "party": "PT",
+    "state": "SC",
+    "votes": 15928,
+    "pct": 0.47,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {}
+  },
+  {
+    "candidate": 7000,
+    "fullName": "MOACIR GIRALDI",
+    "urnaName": "MOACIR DA ACAPRA (GIRALDI)",
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 15864,
+    "pct": 0.47,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {}
+  },
+  {
+    "candidate": 1505,
+    "fullName": "JOAO OLINDINO KOEDDERMANN",
+    "urnaName": "DAO KOEDDERMANN",
+    "party": "PMDB",
+    "state": "SC",
+    "votes": 15730,
+    "pct": 0.46,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2020,
+    "fullName": "ARIEL VIEIRA",
+    "urnaName": "ARIEL VIEIRA",
+    "party": "PSC",
+    "state": "SC",
+    "votes": 15308,
+    "pct": 0.45,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4522,
+    "fullName": "SAULO SPEROTTO",
+    "urnaName": "SAULO SPEROTTO",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 15084,
+    "pct": 0.44,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 5076,
+    "fullName": "FLAVIO DA SILVA DAMIANI",
+    "urnaName": "CABO DAMIANI",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 14371,
+    "pct": 0.42,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {}
+  },
+  {
+    "candidate": 1234,
+    "fullName": "CARLOS ALBERTO CAMPOS",
+    "urnaName": "BETO COAN",
+    "party": "PDT",
+    "state": "SC",
+    "votes": 13561,
+    "pct": 0.4,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4520,
+    "fullName": "LUCAS DE OLIVEIRA",
+    "urnaName": "LUCAS PRESIDENTE THC",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 13191,
+    "pct": 0.39,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1320,
+    "fullName": "ALTEMIR GREGOLIN",
+    "urnaName": "ALTEMIR GREGOLIN",
+    "party": "PT",
+    "state": "SC",
+    "votes": 12336,
+    "pct": 0.36,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {}
+  },
+  {
+    "candidate": 11,
+    "party": "PP",
+    "state": "SC",
+    "votes": 12043,
+    "pct": 0.35,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 22,
+    "party": "PR",
+    "state": "SC",
+    "votes": 10350,
+    "pct": 0.3,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1330,
+    "fullName": "JOÃO JOSÉ DOS SANTOS",
+    "urnaName": "JOAO JOSE",
+    "party": "PT",
+    "state": "SC",
+    "votes": 10192,
+    "pct": 0.3,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {}
+  },
+  {
+    "candidate": 1212,
+    "fullName": "MARCELO NASCENTES PIRES",
+    "urnaName": "BISPO MARCELO PIRES",
+    "party": "PDT",
+    "state": "SC",
+    "votes": 10120,
+    "pct": 0.3,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4515,
+    "fullName": "JOAO BATISTA NUNES",
+    "urnaName": "JOAO BATISTA",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 9890,
+    "pct": 0.29,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4018,
+    "fullName": "ALEXEY VILELA SACHWEH",
+    "urnaName": "ALEXEY PORCAO",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 9401,
+    "pct": 0.28,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 50,
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 9306,
+    "pct": 0.27,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 12,
+    "party": "PDT",
+    "state": "SC",
+    "votes": 8303,
+    "pct": 0.24,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1111,
+    "fullName": "JOÃO ALBERTO PIZZOLATTI JÚNIOR",
+    "urnaName": "PIZZOLATTI",
+    "party": "PP",
+    "state": "SC",
+    "votes": 6859,
+    "pct": 0.2,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1367,
+    "fullName": "PAULO HENRIQUE LÚCIO",
+    "urnaName": "PROFESSOR PAULAO",
+    "party": "PT",
+    "state": "SC",
+    "votes": 6820,
+    "pct": 0.2,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 4343,
+    "fullName": "GUARACI EDSON FAGUNDES",
+    "urnaName": "GUARACI FAGUNDES",
+    "party": "PV",
+    "state": "SC",
+    "votes": 6315,
+    "pct": 0.19,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4523,
+    "fullName": "ALEXANDRE LUIZ DANIELLI",
+    "urnaName": "ALEXANDRE DANIELLI",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 6236,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 5005,
+    "fullName": "MARCELO BORRET CORTEZ",
+    "urnaName": "PROFESSOR BORRET",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 6155,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 1315,
+    "fullName": "SEBASTIÃO DA SILVA CAMARGO",
+    "urnaName": "CAMARGO",
+    "party": "PT",
+    "state": "SC",
+    "votes": 6110,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 1310,
+    "fullName": "MARIA TEREZA ZANELLA CAPRA",
+    "urnaName": "MARIA TEREZA CAPRA",
+    "party": "PT",
+    "state": "SC",
+    "votes": 5931,
+    "pct": 0.17,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 2525,
+    "fullName": "JULIETHE PEREIRA NITZ",
+    "urnaName": "JULIETHE NITZ",
+    "party": "DEM",
+    "state": "SC",
+    "votes": 5815,
+    "pct": 0.17,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4020,
+    "fullName": "CASSIANO GONÇALVES UCKER",
+    "urnaName": "DR. CASSIANO UCKER",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 4932,
+    "pct": 0.15,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 4555,
+    "fullName": "SERGIO BOEBEL",
+    "urnaName": "SERGIO BOEBEL",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 4900,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 7799,
+    "fullName": "EVALDINO LEITE",
+    "urnaName": "EVALDINO LEITE",
+    "party": "SD",
+    "state": "SC",
+    "votes": 4783,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1331,
+    "fullName": "CLAUDIA MARIA BUS",
+    "urnaName": "CLAUDIA BUS",
+    "party": "PT",
+    "state": "SC",
+    "votes": 4631,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 7077,
+    "fullName": "AERCI ARREAL OLM",
+    "urnaName": "AERCI",
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 4465,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 10,
+    "party": "PRB",
+    "state": "SC",
+    "votes": 4326,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 43,
+    "party": "PV",
+    "state": "SC",
+    "votes": 4120,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 20,
+    "party": "PSC",
+    "state": "SC",
+    "votes": 3968,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1616,
+    "fullName": "GABRIELA SANTETTI CELESTINO",
+    "urnaName": "GABRIELA SANTETTI",
+    "party": "PSTU",
+    "state": "SC",
+    "votes": 3908,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1322,
+    "fullName": "VALBERTO WIGGERS MICHELS",
+    "urnaName": "VALBERTO WIGGERS MICHELS",
+    "party": "PT",
+    "state": "SC",
+    "votes": 3893,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1190,
+    "fullName": "REINALDO BOLDORI",
+    "urnaName": "CORONEL REINALDO BOLDORI",
+    "party": "PP",
+    "state": "SC",
+    "votes": 3809,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4510,
+    "fullName": "EVERALDO DI BERTI",
+    "urnaName": "DI BERTI",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 3769,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 25,
+    "party": "DEM",
+    "state": "SC",
+    "votes": 3590,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1501,
+    "fullName": "RENATA VIEIRA",
+    "urnaName": "RENATA VIEIRA",
+    "party": "PMDB",
+    "state": "SC",
+    "votes": 3342,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1606,
+    "fullName": "JONAS ORBEN",
+    "urnaName": "JONAS ORBEN",
+    "party": "PSTU",
+    "state": "SC",
+    "votes": 2974,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4599,
+    "fullName": "FERNANDO ROBERTO WALMÓRBIDA",
+    "urnaName": "DR. BETAO",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 2939,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3333,
+    "fullName": "HODZNEY NOGUEIRA",
+    "urnaName": "BOMBEIRO NOGUEIRA",
+    "party": "PMN",
+    "state": "SC",
+    "votes": 2785,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1414,
+    "fullName": "ROBERTO ROCHA RECKZIEGEL",
+    "urnaName": "ROBERTO RECKZIEGEL",
+    "party": "PTB",
+    "state": "SC",
+    "votes": 2763,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1001,
+    "fullName": "GUSTAVO HENRIQUE MACHADO",
+    "urnaName": "GUSTAVO MACHADO",
+    "party": "PRB",
+    "state": "SC",
+    "votes": 2705,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5020,
+    "fullName": "JULIANA COSTA TORRALBA",
+    "urnaName": "JULIANA TORRALBA",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 2673,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3131,
+    "fullName": "CARLOS ALBERTO ROSA KAMINSKI",
+    "urnaName": "CARLOS KAMINSKI",
+    "party": "PHS",
+    "state": "SC",
+    "votes": 2596,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1055,
+    "fullName": "MARILISE BARBARA BEERLI KIRSTEN",
+    "urnaName": "BARBARA KIRSTEN",
+    "party": "PRB",
+    "state": "SC",
+    "votes": 2583,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 14,
+    "party": "PTB",
+    "state": "SC",
+    "votes": 2526,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5571,
+    "fullName": "JOSÉ CARLOS VARGAS MARIANO",
+    "urnaName": "ZE",
+    "party": "PSD",
+    "state": "SC",
+    "votes": 2474,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4000,
+    "fullName": "HERBERT ETGES ZANDOMENECO",
+    "urnaName": "HERBERT ZANDOMENICO",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 2449,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1919,
+    "fullName": "JOSÉ BISPO DE SOUZA FILHO",
+    "urnaName": "PASTOR BISPO",
+    "party": "PTN",
+    "state": "SC",
+    "votes": 2439,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5000,
+    "fullName": "ALESSANDRA CUNHACO",
+    "urnaName": "ALESSANDRA CUNHACO",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 2432,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1130,
+    "fullName": "GERY ANTÔNIO DARTORA",
+    "urnaName": "GERY DARTORA",
+    "party": "PP",
+    "state": "SC",
+    "votes": 2401,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4404,
+    "fullName": "MARIA SALETE HONORATO",
+    "urnaName": "MARIA SALETE",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 2377,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4566,
+    "fullName": "EDERSON ROGERIO ANTONINI",
+    "urnaName": "ENGENHEIRO EDERSON ANTONINI",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 2359,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 23,
+    "party": "PPS",
+    "state": "SC",
+    "votes": 2175,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2345,
+    "fullName": "HUMBERTO GROSSL",
+    "urnaName": "HUMBERTO GROSSL",
+    "party": "PPS",
+    "state": "SC",
+    "votes": 2164,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1567,
+    "fullName": "ANALTO ROMALINO DA CUNHA",
+    "urnaName": "ANALTO ROMALINO DA CUNHA",
+    "party": "PMDB",
+    "state": "SC",
+    "votes": 2042,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 5010,
+    "fullName": "IVAN ROCHA DE OLIVEIRA",
+    "urnaName": "IVAN ROCHA",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 1996,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 65,
+    "party": "PCdoB",
+    "state": "SC",
+    "votes": 1872,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2733,
+    "fullName": "VANDERLEI ROBERTO CARDOSO",
+    "urnaName": "VANDERLEI CARDOSO",
+    "party": "PSDC",
+    "state": "SC",
+    "votes": 1777,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4444,
+    "fullName": "SIDNEI MARCOS PETRY",
+    "urnaName": "SIDNEI PETRY",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 1669,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3636,
+    "fullName": "LUCY SANTOS PINTO",
+    "urnaName": "LUCY SANTOS",
+    "party": "PTC",
+    "state": "SC",
+    "votes": 1668,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4500,
+    "fullName": "ROSELY ROSANA FERRARI DALLABONA",
+    "urnaName": "ROSANA (URSA)",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 1657,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 16,
+    "party": "PSTU",
+    "state": "SC",
+    "votes": 1648,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4410,
+    "fullName": "ANACLETO OLEGÁRIO",
+    "urnaName": "ANACLETO OLEGARIO",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 1625,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5500,
+    "fullName": "MARA REGINA NUNES HONORIO",
+    "urnaName": "MARA REGINA NUNES HONORIO",
+    "party": "PSD",
+    "state": "SC",
+    "votes": 1557,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 44,
+    "party": "PRP",
+    "state": "SC",
+    "votes": 1492,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 54,
+    "party": "PPL",
+    "state": "SC",
+    "votes": 1456,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4007,
+    "fullName": "REJANE VARELA",
+    "urnaName": "REJANE VARELA",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 1436,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4533,
+    "fullName": "MICHÉL CÉLIO DA SILVA PINHEIRO",
+    "urnaName": "MICHEL PINHEIRO",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 1359,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4015,
+    "fullName": "JORGE GONÇALVES DA SILVA",
+    "urnaName": "JORGE GONCALVES  / JORGINHO",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 1349,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4077,
+    "fullName": "MARIA MARGARETE PHILIPPI CECCONI",
+    "urnaName": "MARGARETE PHILIPPI CECCONI",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 1301,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4407,
+    "fullName": "EDSON LUIZ PINHEIRO",
+    "urnaName": "EDSON PINHEIRO",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 1233,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1131,
+    "fullName": "MAYRA FERNANDA DOS PRAZERES MENEZES",
+    "urnaName": "MAYRA MENEZES",
+    "party": "PP",
+    "state": "SC",
+    "votes": 1228,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1144,
+    "fullName": "CLAUDINEY DE PAULO IRMÃO",
+    "urnaName": "CLAUDINEY IRMAO",
+    "party": "PP",
+    "state": "SC",
+    "votes": 1110,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 77,
+    "party": "SD",
+    "state": "SC",
+    "votes": 985,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1102,
+    "fullName": "FERNANDO ROBERTO GOMES",
+    "urnaName": "FERNANDO ROBERTO GOMES",
+    "party": "PP",
+    "state": "SC",
+    "votes": 980,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 33,
+    "party": "PMN",
+    "state": "SC",
+    "votes": 957,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5050,
+    "fullName": "JOÃO OTÁVIO CARDOSO AMANTE",
+    "urnaName": "JOAO OTAVIO",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 937,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 51,
+    "party": "PEN",
+    "state": "SC",
+    "votes": 892,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3355,
+    "fullName": "ANTÔNIO CESAR DA SILVA CHAVES",
+    "urnaName": "PROFESSOR CHAVES",
+    "party": "PMN",
+    "state": "SC",
+    "votes": 885,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 21,
+    "party": "PCB",
+    "state": "SC",
+    "votes": 882,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2121,
+    "fullName": "CAROLINE BELLAGUARDA DE AZEVEDO",
+    "urnaName": "CAROL BELLAGUARDA",
+    "party": "PCB",
+    "state": "SC",
+    "votes": 858,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 17,
+    "party": "PSL",
+    "state": "SC",
+    "votes": 824,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4022,
+    "fullName": "ROSA MARIA TESSER",
+    "urnaName": "ROSA MARIA/ROSE",
+    "party": "PSB",
+    "state": "SC",
+    "votes": 791,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3380,
+    "fullName": "MANOEL ROBERTO SOARES",
+    "urnaName": "PASTOR MANOEL",
+    "party": "PMN",
+    "state": "SC",
+    "votes": 790,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7013,
+    "fullName": "NELSON MERRWELVELSON FERREIRA E SOUZA",
+    "urnaName": "CORONEL NELSON",
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 782,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 90,
+    "party": "PROS",
+    "state": "SC",
+    "votes": 775,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 19,
+    "party": "PTN",
+    "state": "SC",
+    "votes": 772,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4513,
+    "fullName": "AUGUSTO LUIZ SOUZA DOS SANTOS",
+    "urnaName": "AUGUSTO SANTOS",
+    "party": "PSDB",
+    "state": "SC",
+    "votes": 695,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7070,
+    "fullName": "MARISA RICARDO DO NASCIMENTO AFONSO",
+    "urnaName": "MARISA DA COCADA",
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 651,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5412,
+    "fullName": "HILÁRIO CARLOS SCHERNER",
+    "urnaName": "HILARIO SCHERNER",
+    "party": "PPL",
+    "state": "SC",
+    "votes": 605,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3312,
+    "fullName": "DENISE PIMPÃO AMARAL",
+    "urnaName": "PROFESSORA DENISE PIMPAO",
+    "party": "PMN",
+    "state": "SC",
+    "votes": 589,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 36,
+    "party": "PTC",
+    "state": "SC",
+    "votes": 547,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1377,
+    "fullName": "LOURDES SUZANE DA ROSA LIMA",
+    "urnaName": "SUZANE LIMA",
+    "party": "PT",
+    "state": "SC",
+    "votes": 517,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 31,
+    "party": "PHS",
+    "state": "SC",
+    "votes": 486,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 27,
+    "party": "PSDC",
+    "state": "SC",
+    "votes": 473,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1545,
+    "fullName": "TANIA HERONDINA DE ANDRADE",
+    "urnaName": "TANIA HEIDERSCHEIDT",
+    "party": "PMDB",
+    "state": "SC",
+    "votes": 472,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1356,
+    "fullName": "LAURA JULICI DREHER DE ANDRADE",
+    "urnaName": "LAURA",
+    "party": "PT",
+    "state": "SC",
+    "votes": 468,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4411,
+    "fullName": "RICARDO LUIZ AOKI",
+    "urnaName": "RICARDO AOKI",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 457,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5030,
+    "fullName": "LARISSA VIANNA NEVEU",
+    "urnaName": "LARI",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 401,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 28,
+    "party": "PRTB",
+    "state": "SC",
+    "votes": 394,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1444,
+    "fullName": "NAIR CARVALHO DOS SANTOS",
+    "urnaName": "NAIR DOS SANTOS",
+    "party": "PTB",
+    "state": "SC",
+    "votes": 392,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2828,
+    "fullName": "MARIA DE LOURDES ZITKOSKI ROLON",
+    "urnaName": "LOURDES ZITKOSKI",
+    "party": "PRTB",
+    "state": "SC",
+    "votes": 362,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7060,
+    "fullName": "ANTONIO WALTER HOEPPERS",
+    "urnaName": "TONY HOEPPERS",
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 355,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4456,
+    "fullName": "OSMAR PICKLER",
+    "urnaName": "OSMAR PICKLER",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 339,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4466,
+    "fullName": "ANTONIO VILMAR GRAVUNI",
+    "urnaName": "GRAVUNI",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 329,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 70,
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 321,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1978,
+    "fullName": "JOSÉ NAPOLEÃO BONAPARTE MAIA RODRIGUES",
+    "urnaName": "PASTOR NAPOLEAO BONAPARTE",
+    "party": "PTN",
+    "state": "SC",
+    "votes": 319,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4400,
+    "fullName": "JOSÉ MÁRIO FAGUNDES BADO",
+    "urnaName": "JOSE BADO",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 300,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5515,
+    "fullName": "DIRLEI SIQUEIRA",
+    "urnaName": "DIRLEI SIQUEIRA",
+    "party": "PSD",
+    "state": "SC",
+    "votes": 288,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4488,
+    "fullName": "CLARICE SPOHR",
+    "urnaName": "PROFESSORA CLARICE SPOHR",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 249,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4474,
+    "fullName": "MARIA BEATRIZ SOARES DE OLIVEIRA VAZ",
+    "urnaName": "BEATRIZ VAZ",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 227,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3354,
+    "fullName": "DIANA STERFAN DA SILVA PEREIRA FELIZARDO",
+    "urnaName": "DIANA PEREIRA",
+    "party": "PMN",
+    "state": "SC",
+    "votes": 227,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5544,
+    "fullName": "SOLANGE GARCIA ROCHA",
+    "urnaName": "SOLANGE GARCIA",
+    "party": "PSD",
+    "state": "SC",
+    "votes": 209,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4433,
+    "fullName": "ÁURIO JOSÉ SOARES",
+    "urnaName": "AURIO SOARES",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 204,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4450,
+    "fullName": "SEBASTIÃO RIBEIRO",
+    "urnaName": "ENGº SEBASTIAO RIBEIRO",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 194,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4412,
+    "fullName": "JOAO EVANGELISTA DA COSTA JUNIOR",
+    "urnaName": "JOAO EVANGELISTA",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 192,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7040,
+    "fullName": "EVA NASCIMENTO DA CONCEIÇÃO",
+    "urnaName": "EVA",
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 147,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5085,
+    "fullName": "GUILHERME AUGUSTO GAERTNER WEBER",
+    "urnaName": "GUILHERME GALEGO",
+    "party": "PSOL",
+    "state": "SC",
+    "votes": 119,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7002,
+    "fullName": "LILIAN CRISTINA MOREIRA",
+    "urnaName": "LILIAN MOREIRA",
+    "party": "PTdoB",
+    "state": "SC",
+    "votes": 103,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4424,
+    "fullName": "MAGDA HORST",
+    "urnaName": "MAGDA HORST",
+    "party": "PRP",
+    "state": "SC",
+    "votes": 90,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1583,
+    "fullName": "MAIRI CAVALHERI",
+    "urnaName": "MAIRI CAVALHERI",
+    "party": "PMDB",
+    "state": "SC",
+    "votes": 53,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  }
+]

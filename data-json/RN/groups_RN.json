@@ -1,0 +1,167 @@
+[
+  {
+    "name": "UNIÃO PELA MUDANÇA I",
+    "parties": [
+      "PMDB",
+      "PR",
+      "PSB",
+      "PROS",
+      "PDT",
+      "SD",
+      "PSC",
+      "DEM",
+      "PV",
+      "PMN",
+      "PRP",
+      "PSDB",
+      "PSDC",
+      "PRB"
+    ],
+    "votes": 1085296,
+    "quoc": 5.48525450198881,
+    "positions": 6,
+    "countNeeds": 6,
+    "totalNeedVotes": 418440,
+    "countExtra": 29,
+    "totalExtraVotes": 316594,
+    "hasMore": false,
+    "pctLess": 0.24339451295287257
+  },
+  {
+    "name": "LIDERADOS PELO POVO I",
+    "parties": [
+      "PSD",
+      "PT",
+      "PCdoB",
+      "PTdoB",
+      "PP",
+      "PEN"
+    ],
+    "votes": 422591,
+    "quoc": 2.135840531292802,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 164842,
+    "countExtra": 25,
+    "totalExtraVotes": 191719,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "31 - PHS",
+    "parties": [
+      "PHS"
+    ],
+    "votes": 27753,
+    "quoc": 0.14026797131261468,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 10,
+    "totalExtraVotes": 27753
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 12551,
+    "quoc": 0.06343470284094067,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 12551
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 12321,
+    "quoc": 0.062272247127976264,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 12321
+  },
+  {
+    "name": "17 - PSL",
+    "parties": [
+      "PSL"
+    ],
+    "votes": 7619,
+    "quoc": 0.038507609030764646,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 7619
+  },
+  {
+    "name": "36 - PTC",
+    "parties": [
+      "PTC"
+    ],
+    "votes": 4537,
+    "quoc": 0.0229307024770415,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 10,
+    "totalExtraVotes": 4537
+  },
+  {
+    "name": "23 - PPS",
+    "parties": [
+      "PPS"
+    ],
+    "votes": 3579,
+    "quoc": 0.01808882172478103,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 3579
+  },
+  {
+    "name": "14 - PTB",
+    "parties": [
+      "PTB"
+    ],
+    "votes": 3326,
+    "quoc": 0.016810120440520174,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 3326
+  },
+  {
+    "name": "19 - PTN",
+    "parties": [
+      "PTN"
+    ],
+    "votes": 1940,
+    "quoc": 0.009805061231091141,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1940
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 1340,
+    "quoc": 0.006772568066836149,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1340
+  }
+]

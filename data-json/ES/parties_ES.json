@@ -1,0 +1,1064 @@
+[
+  {
+    "party": 40,
+    "abbr": "PSB",
+    "group": 2,
+    "candidates": {
+      "40": {
+        "candidate": 40,
+        "votes": 12346
+      },
+      "4000": {
+        "candidate": 4000,
+        "votes": 3020
+      },
+      "4001": {
+        "candidate": 4001,
+        "votes": 700
+      },
+      "4004": {
+        "candidate": 4004,
+        "votes": 4802
+      },
+      "4005": {
+        "candidate": 4005,
+        "votes": 236
+      },
+      "4010": {
+        "candidate": 4010,
+        "votes": 86506
+      },
+      "4013": {
+        "candidate": 4013,
+        "votes": 456
+      },
+      "4020": {
+        "candidate": 4020,
+        "votes": 2488
+      },
+      "4023": {
+        "candidate": 4023,
+        "votes": 2705
+      },
+      "4038": {
+        "candidate": 4038,
+        "votes": 262
+      },
+      "4040": {
+        "candidate": 4040,
+        "votes": 88110
+      },
+      "4043": {
+        "candidate": 4043,
+        "votes": 1993
+      },
+      "4045": {
+        "candidate": 4045,
+        "votes": 31113
+      },
+      "4050": {
+        "candidate": 4050,
+        "votes": 15196
+      },
+      "4060": {
+        "candidate": 4060,
+        "votes": 17075
+      }
+    },
+    "votes": 267008,
+    "quoc": 1.4386749500250549,
+    "positions": 2
+  },
+  {
+    "party": 13,
+    "abbr": "PT",
+    "group": 0,
+    "candidates": {
+      "13": {
+        "candidate": 13,
+        "votes": 20336
+      },
+      "1300": {
+        "candidate": 1300,
+        "votes": 14446
+      },
+      "1305": {
+        "candidate": 1305,
+        "votes": 1815
+      },
+      "1311": {
+        "candidate": 1311,
+        "votes": 627
+      },
+      "1313": {
+        "candidate": 1313,
+        "votes": 1986
+      },
+      "1320": {
+        "candidate": 1320,
+        "votes": 50928
+      },
+      "1330": {
+        "candidate": 1330,
+        "votes": 1036
+      },
+      "1333": {
+        "candidate": 1333,
+        "votes": 43858
+      },
+      "1350": {
+        "candidate": 1350,
+        "votes": 83967
+      },
+      "1377": {
+        "candidate": 1377,
+        "votes": 1113
+      }
+    },
+    "votes": 220112,
+    "quoc": 1.1859930062017425,
+    "positions": 2
+  },
+  {
+    "party": 12,
+    "abbr": "PDT",
+    "group": 0,
+    "candidates": {
+      "12": {
+        "candidate": 12,
+        "votes": 5601
+      },
+      "1200": {
+        "candidate": 1200,
+        "votes": 8195
+      },
+      "1210": {
+        "candidate": 1210,
+        "votes": 324
+      },
+      "1211": {
+        "candidate": 1211,
+        "votes": 4706
+      },
+      "1212": {
+        "candidate": 1212,
+        "votes": 161744
+      },
+      "1213": {
+        "candidate": 1213,
+        "votes": 2222
+      },
+      "1222": {
+        "candidate": 1222,
+        "votes": 790
+      },
+      "1234": {
+        "candidate": 1234,
+        "votes": 6559
+      },
+      "1236": {
+        "candidate": 1236,
+        "votes": 6404
+      },
+      "1245": {
+        "candidate": 1245,
+        "votes": 1536
+      },
+      "1255": {
+        "candidate": 1255,
+        "votes": 10372
+      },
+      "1256": {
+        "candidate": 1256,
+        "votes": 1526
+      }
+    },
+    "votes": 209979,
+    "quoc": 1.1313950418388625,
+    "positions": 2
+  },
+  {
+    "party": 45,
+    "abbr": "PSDB",
+    "group": 1,
+    "candidates": {
+      "45": {
+        "candidate": 45,
+        "votes": 10929
+      },
+      "4500": {
+        "candidate": 4500,
+        "votes": 91210
+      },
+      "4510": {
+        "candidate": 4510,
+        "votes": 596
+      },
+      "4515": {
+        "candidate": 4515,
+        "votes": 2515
+      },
+      "4533": {
+        "candidate": 4533,
+        "votes": 112
+      },
+      "4545": {
+        "candidate": 4545,
+        "votes": 6763
+      },
+      "4555": {
+        "candidate": 4555,
+        "votes": 42848
+      },
+      "4567": {
+        "candidate": 4567,
+        "votes": 49729
+      },
+      "4599": {
+        "candidate": 4599,
+        "votes": 364
+      }
+    },
+    "votes": 205066,
+    "quoc": 1.104923138264913,
+    "positions": 2
+  },
+  {
+    "party": 15,
+    "abbr": "PMDB",
+    "group": 1,
+    "candidates": {
+      "15": {
+        "candidate": 15,
+        "votes": 32824
+      },
+      "1515": {
+        "candidate": 1515,
+        "votes": 94759
+      },
+      "1544": {
+        "candidate": 1544,
+        "votes": 42668
+      },
+      "1555": {
+        "candidate": 1555,
+        "votes": 16009
+      },
+      "1577": {
+        "candidate": 1577,
+        "votes": 201
+      }
+    },
+    "votes": 186461,
+    "quoc": 1.0046769005296536,
+    "positions": 1
+  },
+  {
+    "party": 25,
+    "abbr": "DEM",
+    "group": 1,
+    "candidates": {
+      "25": {
+        "candidate": 25,
+        "votes": 3111
+      },
+      "2500": {
+        "candidate": 2500,
+        "votes": 64969
+      },
+      "2512": {
+        "candidate": 2512,
+        "votes": 2119
+      },
+      "2522": {
+        "candidate": 2522,
+        "votes": 34092
+      },
+      "2525": {
+        "candidate": 2525,
+        "votes": 24229
+      },
+      "2533": {
+        "candidate": 2533,
+        "votes": 206
+      },
+      "2544": {
+        "candidate": 2544,
+        "votes": 278
+      },
+      "2545": {
+        "candidate": 2545,
+        "votes": 2157
+      },
+      "2552": {
+        "candidate": 2552,
+        "votes": 23565
+      },
+      "2555": {
+        "candidate": 2555,
+        "votes": 722
+      },
+      "2556": {
+        "candidate": 2556,
+        "votes": 697
+      },
+      "2577": {
+        "candidate": 2577,
+        "votes": 1645
+      },
+      "2580": {
+        "candidate": 2580,
+        "votes": 449
+      },
+      "2588": {
+        "candidate": 2588,
+        "votes": 194
+      }
+    },
+    "votes": 158433,
+    "quoc": 0.8536582737495487,
+    "positions": 1
+  },
+  {
+    "party": 43,
+    "abbr": "PV",
+    "group": 3,
+    "candidates": {
+      "43": {
+        "candidate": 43,
+        "votes": 13285
+      },
+      "4300": {
+        "candidate": 4300,
+        "votes": 2462
+      },
+      "4310": {
+        "candidate": 4310,
+        "votes": 383
+      },
+      "4311": {
+        "candidate": 4311,
+        "votes": 1504
+      },
+      "4321": {
+        "candidate": 4321,
+        "votes": 11963
+      },
+      "4343": {
+        "candidate": 4343,
+        "votes": 48829
+      },
+      "4399": {
+        "candidate": 4399,
+        "votes": 11218
+      }
+    },
+    "votes": 89644,
+    "quoc": 0.4830139067745012,
+    "positions": 0
+  },
+  {
+    "party": 10,
+    "abbr": "PRB",
+    "group": 3,
+    "candidates": {
+      "10": {
+        "candidate": 10,
+        "votes": 1769
+      },
+      "1000": {
+        "candidate": 1000,
+        "votes": 949
+      },
+      "1010": {
+        "candidate": 1010,
+        "votes": 36174
+      },
+      "1012": {
+        "candidate": 1012,
+        "votes": 36032
+      },
+      "1023": {
+        "candidate": 1023,
+        "votes": 8126
+      }
+    },
+    "votes": 83050,
+    "quoc": 0.44748454952503597,
+    "positions": 0
+  },
+  {
+    "party": 77,
+    "abbr": "SD",
+    "group": 1,
+    "candidates": {
+      "77": {
+        "candidate": 77,
+        "votes": 1549
+      },
+      "7711": {
+        "candidate": 7711,
+        "votes": 34
+      },
+      "7777": {
+        "candidate": 7777,
+        "votes": 67631
+      },
+      "7788": {
+        "candidate": 7788,
+        "votes": 1716
+      }
+    },
+    "votes": 70930,
+    "quoc": 0.3821803624059097,
+    "positions": 0
+  },
+  {
+    "party": 90,
+    "abbr": "PROS",
+    "group": 1,
+    "candidates": {
+      "90": {
+        "candidate": 90,
+        "votes": 788
+      },
+      "9090": {
+        "candidate": 9090,
+        "votes": 69880
+      }
+    },
+    "votes": 70668,
+    "quoc": 0.3807686712322124,
+    "positions": 0
+  },
+  {
+    "party": 11,
+    "abbr": "PP",
+    "group": 3,
+    "candidates": {
+      "11": {
+        "candidate": 11,
+        "votes": 5175
+      },
+      "1100": {
+        "candidate": 1100,
+        "votes": 840
+      },
+      "1115": {
+        "candidate": 1115,
+        "votes": 351
+      },
+      "1122": {
+        "candidate": 1122,
+        "votes": 1109
+      },
+      "1140": {
+        "candidate": 1140,
+        "votes": 8564
+      },
+      "1145": {
+        "candidate": 1145,
+        "votes": 45525
+      }
+    },
+    "votes": 61564,
+    "quoc": 0.33171509701335716,
+    "positions": 0
+  },
+  {
+    "party": 44,
+    "abbr": "PRP",
+    "group": 8,
+    "candidates": {
+      "44": {
+        "candidate": 44,
+        "votes": 2036
+      },
+      "4403": {
+        "candidate": 4403,
+        "votes": 123
+      },
+      "4404": {
+        "candidate": 4404,
+        "votes": 87
+      },
+      "4410": {
+        "candidate": 4410,
+        "votes": 307
+      },
+      "4412": {
+        "candidate": 4412,
+        "votes": 801
+      },
+      "4413": {
+        "candidate": 4413,
+        "votes": 665
+      },
+      "4414": {
+        "candidate": 4414,
+        "votes": 29
+      },
+      "4415": {
+        "candidate": 4415,
+        "votes": 1038
+      },
+      "4419": {
+        "candidate": 4419,
+        "votes": 188
+      },
+      "4421": {
+        "candidate": 4421,
+        "votes": 758
+      },
+      "4422": {
+        "candidate": 4422,
+        "votes": 11635
+      },
+      "4427": {
+        "candidate": 4427,
+        "votes": 18
+      },
+      "4433": {
+        "candidate": 4433,
+        "votes": 2259
+      },
+      "4440": {
+        "candidate": 4440,
+        "votes": 1512
+      },
+      "4444": {
+        "candidate": 4444,
+        "votes": 512
+      },
+      "4445": {
+        "candidate": 4445,
+        "votes": 337
+      },
+      "4447": {
+        "candidate": 4447,
+        "votes": 1125
+      },
+      "4450": {
+        "candidate": 4450,
+        "votes": 138
+      },
+      "4455": {
+        "candidate": 4455,
+        "votes": 2583
+      },
+      "4456": {
+        "candidate": 4456,
+        "votes": 1958
+      },
+      "4469": {
+        "candidate": 4469,
+        "votes": 15505
+      },
+      "4470": {
+        "candidate": 4470,
+        "votes": 1961
+      },
+      "4476": {
+        "candidate": 4476,
+        "votes": 168
+      },
+      "4488": {
+        "candidate": 4488,
+        "votes": 2096
+      }
+    },
+    "votes": 47839,
+    "quoc": 0.2577629544217724,
+    "positions": 0
+  },
+  {
+    "party": 22,
+    "abbr": "PR",
+    "group": 4,
+    "candidates": {
+      "22": {
+        "candidate": 22,
+        "votes": 1643
+      },
+      "2200": {
+        "candidate": 2200,
+        "votes": 1227
+      },
+      "2210": {
+        "candidate": 2210,
+        "votes": 3744
+      },
+      "2212": {
+        "candidate": 2212,
+        "votes": 1612
+      },
+      "2220": {
+        "candidate": 2220,
+        "votes": 15735
+      },
+      "2221": {
+        "candidate": 2221,
+        "votes": 6988
+      },
+      "2222": {
+        "candidate": 2222,
+        "votes": 4477
+      },
+      "2233": {
+        "candidate": 2233,
+        "votes": 4493
+      },
+      "2270": {
+        "candidate": 2270,
+        "votes": 641
+      }
+    },
+    "votes": 40560,
+    "quoc": 0.21854272521054136,
+    "positions": 0
+  },
+  {
+    "party": 14,
+    "abbr": "PTB",
+    "group": 3,
+    "candidates": {
+      "14": {
+        "candidate": 14,
+        "votes": 1756
+      },
+      "1400": {
+        "candidate": 1400,
+        "votes": 2167
+      },
+      "1414": {
+        "candidate": 1414,
+        "votes": 27083
+      },
+      "1422": {
+        "candidate": 1422,
+        "votes": 999
+      },
+      "1444": {
+        "candidate": 1444,
+        "votes": 250
+      }
+    },
+    "votes": 32255,
+    "quoc": 0.17379427025803776,
+    "positions": 0
+  },
+  {
+    "party": 23,
+    "abbr": "PPS",
+    "group": 3,
+    "candidates": {
+      "23": {
+        "candidate": 23,
+        "votes": 2954
+      },
+      "2323": {
+        "candidate": 2323,
+        "votes": 24279
+      },
+      "2345": {
+        "candidate": 2345,
+        "votes": 1891
+      }
+    },
+    "votes": 29124,
+    "quoc": 0.15692402191893012,
+    "positions": 0
+  },
+  {
+    "party": 31,
+    "abbr": "PHS",
+    "group": 3,
+    "candidates": {
+      "31": {
+        "candidate": 31,
+        "votes": 644
+      },
+      "3131": {
+        "candidate": 3131,
+        "votes": 38
+      },
+      "3144": {
+        "candidate": 3144,
+        "votes": 16300
+      }
+    },
+    "votes": 16982,
+    "quoc": 0.0915012958462873,
+    "positions": 0
+  },
+  {
+    "party": 55,
+    "abbr": "PSD",
+    "group": 3,
+    "candidates": {
+      "55": {
+        "candidate": 55,
+        "votes": 1346
+      },
+      "5540": {
+        "candidate": 5540,
+        "votes": 4633
+      },
+      "5555": {
+        "candidate": 5555,
+        "votes": 6497
+      },
+      "5599": {
+        "candidate": 5599,
+        "votes": 2711
+      }
+    },
+    "votes": 15187,
+    "quoc": 0.08182959486618568,
+    "positions": 0
+  },
+  {
+    "party": 50,
+    "abbr": "PSOL",
+    "group": 11,
+    "candidates": {
+      "50": {
+        "candidate": 50,
+        "votes": 2651
+      },
+      "5000": {
+        "candidate": 5000,
+        "votes": 940
+      },
+      "5010": {
+        "candidate": 5010,
+        "votes": 396
+      },
+      "5011": {
+        "candidate": 5011,
+        "votes": 1735
+      },
+      "5030": {
+        "candidate": 5030,
+        "votes": 4264
+      },
+      "5070": {
+        "candidate": 5070,
+        "votes": 903
+      }
+    },
+    "votes": 10889,
+    "quoc": 0.05867139385644933,
+    "positions": 0
+  },
+  {
+    "party": 36,
+    "abbr": "PTC",
+    "group": 6,
+    "candidates": {
+      "36": {
+        "candidate": 36,
+        "votes": 708
+      },
+      "3600": {
+        "candidate": 3600,
+        "votes": 672
+      },
+      "3636": {
+        "candidate": 3636,
+        "votes": 1095
+      },
+      "3677": {
+        "candidate": 3677,
+        "votes": 4344
+      }
+    },
+    "votes": 6819,
+    "quoc": 0.03674168745588465,
+    "positions": 0
+  },
+  {
+    "party": 20,
+    "abbr": "PSC",
+    "group": 10,
+    "candidates": {
+      "20": {
+        "candidate": 20,
+        "votes": 2081
+      },
+      "2020": {
+        "candidate": 2020,
+        "votes": 3616
+      },
+      "2055": {
+        "candidate": 2055,
+        "votes": 237
+      }
+    },
+    "votes": 5934,
+    "quoc": 0.03197318864396825,
+    "positions": 0
+  },
+  {
+    "party": 51,
+    "abbr": "PEN",
+    "group": 7,
+    "candidates": {
+      "51": {
+        "candidate": 51,
+        "votes": 338
+      },
+      "5115": {
+        "candidate": 5115,
+        "votes": 578
+      },
+      "5122": {
+        "candidate": 5122,
+        "votes": 411
+      },
+      "5151": {
+        "candidate": 5151,
+        "votes": 3880
+      }
+    },
+    "votes": 5207,
+    "quoc": 0.028056015043670827,
+    "positions": 0
+  },
+  {
+    "party": 70,
+    "abbr": "PTdoB",
+    "group": 14,
+    "candidates": {
+      "70": {
+        "candidate": 70,
+        "votes": 492
+      },
+      "7000": {
+        "candidate": 7000,
+        "votes": 617
+      },
+      "7011": {
+        "candidate": 7011,
+        "votes": 593
+      },
+      "7012": {
+        "candidate": 7012,
+        "votes": 907
+      },
+      "7070": {
+        "candidate": 7070,
+        "votes": 1921
+      }
+    },
+    "votes": 4530,
+    "quoc": 0.024408248155911052,
+    "positions": 0
+  },
+  {
+    "party": 17,
+    "abbr": "PSL",
+    "group": 2,
+    "candidates": {
+      "17": {
+        "candidate": 17,
+        "votes": 499
+      },
+      "1700": {
+        "candidate": 1700,
+        "votes": 269
+      },
+      "1717": {
+        "candidate": 1717,
+        "votes": 738
+      },
+      "1733": {
+        "candidate": 1733,
+        "votes": 563
+      },
+      "1745": {
+        "candidate": 1745,
+        "votes": 217
+      },
+      "1788": {
+        "candidate": 1788,
+        "votes": 1232
+      }
+    },
+    "votes": 3518,
+    "quoc": 0.018955456294149024,
+    "positions": 0
+  },
+  {
+    "party": 27,
+    "abbr": "PSDC",
+    "group": 13,
+    "candidates": {
+      "27": {
+        "candidate": 27,
+        "votes": 224
+      },
+      "2700": {
+        "candidate": 2700,
+        "votes": 72
+      },
+      "2712": {
+        "candidate": 2712,
+        "votes": 636
+      },
+      "2727": {
+        "candidate": 2727,
+        "votes": 1132
+      },
+      "2733": {
+        "candidate": 2733,
+        "votes": 1119
+      }
+    },
+    "votes": 3183,
+    "quoc": 0.017150431320146774,
+    "positions": 0
+  },
+  {
+    "party": 28,
+    "abbr": "PRTB",
+    "group": 2,
+    "candidates": {
+      "28": {
+        "candidate": 28,
+        "votes": 272
+      },
+      "2800": {
+        "candidate": 2800,
+        "votes": 1867
+      },
+      "2813": {
+        "candidate": 2813,
+        "votes": 555
+      },
+      "2866": {
+        "candidate": 2866,
+        "votes": 80
+      }
+    },
+    "votes": 2774,
+    "quoc": 0.0149466844115888,
+    "positions": 0
+  },
+  {
+    "party": 65,
+    "abbr": "PCdoB",
+    "group": 12,
+    "candidates": {
+      "65": {
+        "candidate": 65,
+        "votes": 892
+      },
+      "6500": {
+        "candidate": 6500,
+        "votes": 1006
+      },
+      "6577": {
+        "candidate": 6577,
+        "votes": 370
+      }
+    },
+    "votes": 2268,
+    "quoc": 0.012220288480707785,
+    "positions": 0
+  },
+  {
+    "party": 33,
+    "abbr": "PMN",
+    "group": 5,
+    "candidates": {
+      "33": {
+        "candidate": 33,
+        "votes": 776
+      },
+      "3333": {
+        "candidate": 3333,
+        "votes": 446
+      },
+      "3370": {
+        "candidate": 3370,
+        "votes": 428
+      }
+    },
+    "votes": 1650,
+    "quoc": 0.008890421513742437,
+    "positions": 0
+  },
+  {
+    "party": 54,
+    "abbr": "PPL",
+    "group": 9,
+    "candidates": {
+      "54": {
+        "candidate": 54,
+        "votes": 496
+      },
+      "5454": {
+        "candidate": 5454,
+        "votes": 897
+      }
+    },
+    "votes": 1393,
+    "quoc": 0.007505671011298918,
+    "positions": 0
+  },
+  {
+    "party": 19,
+    "abbr": "PTN",
+    "group": 2,
+    "candidates": {
+      "19": {
+        "candidate": 19,
+        "votes": 593
+      },
+      "1919": {
+        "candidate": 1919,
+        "votes": 680
+      }
+    },
+    "votes": 1273,
+    "quoc": 0.006859094901208559,
+    "positions": 0
+  },
+  {
+    "party": 21,
+    "abbr": "PCB",
+    "group": 15,
+    "candidates": {
+      "21": {
+        "candidate": 21,
+        "votes": 557
+      },
+      "2100": {
+        "candidate": 2100,
+        "votes": 212
+      },
+      "2121": {
+        "candidate": 2121,
+        "votes": 340
+      }
+    },
+    "votes": 1109,
+    "quoc": 0.005975440884085068,
+    "positions": 0
+  },
+  {
+    "party": 16,
+    "abbr": "PSTU",
+    "group": 16,
+    "candidates": {
+      "16": {
+        "candidate": 16,
+        "votes": 522
+      }
+    },
+    "votes": 522,
+    "quoc": 0.002812606078893062,
+    "positions": 0
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "name": "RONDONIA NO CAMINHO CERTO 1",
+    "parties": [
+      "PMDB",
+      "PRTB",
+      "PCdoB",
+      "PDT",
+      "PRP",
+      "PSB",
+      "PTB",
+      "PSL",
+      "PTN"
+    ],
+    "votes": 404643,
+    "quoc": 4.054173471330241,
+    "positions": 4,
+    "countNeeds": 5,
+    "totalNeedVotes": 269752,
+    "countExtra": 28,
+    "totalExtraVotes": 175350,
+    "hasMore": false,
+    "pctLess": 0.34995848038198046
+  },
+  {
+    "name": "FRENTE MUDA RONDÔNIA II",
+    "parties": [
+      "PSDB",
+      "PSDC",
+      "PSD",
+      "PEN",
+      "SD",
+      "PHS",
+      "PSC",
+      "PMN",
+      "PTdoB",
+      "PRB",
+      "DEM"
+    ],
+    "votes": 184062,
+    "quoc": 1.8441423118155678,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 113603,
+    "countExtra": 30,
+    "totalExtraVotes": 98047,
+    "hasMore": false,
+    "pctLess": 0.13693300352983637
+  },
+  {
+    "name": "RONDÔNIA NO RUMO CERTO, DE NOVO",
+    "parties": [
+      "PP",
+      "PR",
+      "PPS",
+      "PTC",
+      "PV",
+      "PROS"
+    ],
+    "votes": 111726,
+    "quoc": 1.1193980502760272,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 66072,
+    "countExtra": 26,
+    "totalExtraVotes": 77989,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "13 - PT",
+    "parties": [
+      "PT"
+    ],
+    "votes": 90970,
+    "quoc": 0.9114408520273722,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 90970
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 6830,
+    "quoc": 0.06843070264204631,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 6830
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 244,
+    "quoc": 0.0024446693183981403,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 244
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "name": "União Pelo Paraná",
+    "parties": [
+      "PSDB",
+      "DEM",
+      "PR",
+      "PSC",
+      "PTdoB",
+      "PP",
+      "SD",
+      "PSD",
+      "PPS"
+    ],
+    "votes": 2615171,
+    "quoc": 13.751102908312696,
+    "positions": 14,
+    "countNeeds": 14,
+    "totalNeedVotes": 1124502,
+    "countExtra": 51,
+    "totalExtraVotes": 1077167,
+    "hasMore": false,
+    "pctLess": 0.04209418924999689
+  },
+  {
+    "name": "Paraná Sempre em Frente",
+    "parties": [
+      "PT",
+      "PDT",
+      "PRB",
+      "PTN",
+      "PCdoB"
+    ],
+    "votes": 1134829,
+    "quoc": 5.967162515314519,
+    "positions": 6,
+    "countNeeds": 5,
+    "totalNeedVotes": 456980,
+    "countExtra": 52,
+    "totalExtraVotes": 450735,
+    "hasMore": false,
+    "pctLess": 0.013665805943367325
+  },
+  {
+    "name": "15 - PMDB",
+    "parties": [
+      "PMDB"
+    ],
+    "votes": 747306,
+    "quoc": 3.929487482845109,
+    "positions": 4,
+    "countNeeds": 3,
+    "totalNeedVotes": 199420,
+    "countExtra": 15,
+    "totalExtraVotes": 376189,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "Educação e Trabalho com Sustentabilidade",
+    "parties": [
+      "PSDC",
+      "PEN",
+      "PTB",
+      "PHS",
+      "PMN",
+      "PROS"
+    ],
+    "votes": 501281,
+    "quoc": 2.6358378159523395,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 131820,
+    "countExtra": 52,
+    "totalExtraVotes": 252743,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "40 - PSB",
+    "parties": [
+      "PSB"
+    ],
+    "votes": 354244,
+    "quoc": 1.862687257793973,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 164121,
+    "countExtra": 34,
+    "totalExtraVotes": 138007,
+    "hasMore": false,
+    "pctLess": 0.15911431200151108
+  },
+  {
+    "name": "Paraná por Você",
+    "parties": [
+      "PV",
+      "PPL"
+    ],
+    "votes": 282174,
+    "quoc": 1.4837284873724228,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 108998,
+    "countExtra": 39,
+    "totalExtraVotes": 200993,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 27320,
+    "quoc": 0.14365413636626548,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 16,
+    "totalExtraVotes": 27320
+  },
+  {
+    "name": "36 - PTC",
+    "parties": [
+      "PTC"
+    ],
+    "votes": 12042,
+    "quoc": 0.06331929392835171,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 17,
+    "totalExtraVotes": 12042
+  },
+  {
+    "name": "17 - PSL",
+    "parties": [
+      "PSL"
+    ],
+    "votes": 9792,
+    "quoc": 0.05148833467417538,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 9792
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 7031,
+    "quoc": 0.036970433118272784,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 7031
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 5713,
+    "quoc": 0.03004012009738194,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 5713
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 4590,
+    "quoc": 0.02413515687851971,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 4590
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 3873,
+    "quoc": 0.020365024529522185,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 10,
+    "totalExtraVotes": 3873
+  },
+  {
+    "name": "Paraná Sempre em Frente",
+    "parties": [
+      "PT",
+      "PDT",
+      "PRB",
+      "PTN",
+      "PCdoB"
+    ],
+    "votes": 0,
+    "quoc": 0,
+    "positions": 0
+  }
+]

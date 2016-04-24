@@ -1,0 +1,146 @@
+[
+  {
+    "name": "A FORÇA DO POVO",
+    "parties": [
+      "PP",
+      "PDT",
+      "PMDB"
+    ],
+    "votes": 96182,
+    "quoc": 1.9887928538935529,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 55881,
+    "countExtra": 20,
+    "totalExtraVotes": 55339,
+    "hasMore": false,
+    "pctLess": 0.009699182190726723
+  },
+  {
+    "name": "Avança Amapá",
+    "parties": [
+      "PR",
+      "PRB",
+      "PHS",
+      "PROS",
+      "PSDC",
+      "PEN",
+      "PV",
+      "PTdoB"
+    ],
+    "votes": 95051,
+    "quoc": 1.9654067242876638,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 64265,
+    "countExtra": 30,
+    "totalExtraVotes": 62592,
+    "hasMore": false,
+    "pctLess": 0.02603283280168054
+  },
+  {
+    "name": "FRENTE POPULAR A FAVOR DO AMAPA",
+    "parties": [
+      "PSB",
+      "PT",
+      "PSOL",
+      "PCdoB"
+    ],
+    "votes": 84072,
+    "quoc": 1.7383896447624168,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 59454,
+    "countExtra": 20,
+    "totalExtraVotes": 46802,
+    "hasMore": false,
+    "pctLess": 0.2128031755643018
+  },
+  {
+    "name": "O AMAPÁ QUE QUEREMOS",
+    "parties": [
+      "PTB",
+      "PSC",
+      "PPS",
+      "PRTB",
+      "PMN",
+      "PTC",
+      "PRP",
+      "PPL"
+    ],
+    "votes": 66486,
+    "quoc": 1.3747570406517513,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 74232,
+    "countExtra": 29,
+    "totalExtraVotes": 43994,
+    "hasMore": false,
+    "pctLess": 0.4073445414376549
+  },
+  {
+    "name": "55 - PSD",
+    "parties": [
+      "PSD"
+    ],
+    "votes": 15627,
+    "quoc": 0.32312559447500105,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 15627
+  },
+  {
+    "name": "45 - PSDB",
+    "parties": [
+      "PSDB"
+    ],
+    "votes": 10738,
+    "quoc": 0.22203382821223275,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 10738
+  },
+  {
+    "name": "77 - SD",
+    "parties": [
+      "SD"
+    ],
+    "votes": 9837,
+    "quoc": 0.2034034986146148,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 9837
+  },
+  {
+    "name": "25 - DEM",
+    "parties": [
+      "DEM"
+    ],
+    "votes": 6733,
+    "quoc": 0.13922087589429719,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 6733
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 2173,
+    "quoc": 0.04493197138249039,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 2173
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "name": "PRB /PP /PDT /PT /PTB /PSL /PHS /PSD /PC DO B /SD /PROS ",
+    "parties": [
+      "PRB",
+      "PP",
+      "PDT",
+      "PT",
+      "PTB",
+      "PSL",
+      "PHS",
+      "PSD",
+      "PCdoB",
+      "SD",
+      "PROS"
+    ],
+    "votes": 2451007,
+    "quoc": 12.340368649209282,
+    "positions": 14,
+    "countNeeds": 10,
+    "totalNeedVotes": 943104,
+    "countExtra": 44,
+    "totalExtraVotes": 1010707,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "PMDB/PSC/PR/PRP/PSDB",
+    "parties": [
+      "PMDB",
+      "PSC",
+      "PR",
+      "PRP",
+      "PSDB"
+    ],
+    "votes": 1152398,
+    "quoc": 5.802111601725935,
+    "positions": 6,
+    "countNeeds": 4,
+    "totalNeedVotes": 270344,
+    "countExtra": 38,
+    "totalExtraVotes": 628274,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "EM DEFESA DO CEARÁ",
+    "parties": [
+      "DEM",
+      "PPS",
+      "PSDC",
+      "PTN"
+    ],
+    "votes": 490205,
+    "quoc": 2.46809185517856,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 51573,
+    "countExtra": 29,
+    "totalExtraVotes": 343161,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "70 - PTdoB",
+    "parties": [
+      "PTdoB"
+    ],
+    "votes": 55900,
+    "quoc": 0.2814462004762936,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 55900
+  },
+  {
+    "name": "43 - PV",
+    "parties": [
+      "PV"
+    ],
+    "votes": 53727,
+    "quoc": 0.2705055458495496,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 10,
+    "totalExtraVotes": 53727
+  },
+  {
+    "name": "40 - PSB",
+    "parties": [
+      "PSB"
+    ],
+    "votes": 48274,
+    "quoc": 0.243050695559796,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 25,
+    "totalExtraVotes": 48274
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 36747,
+    "quoc": 0.18501437439896887,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 15,
+    "totalExtraVotes": 36747
+  },
+  {
+    "name": "36 - PTC",
+    "parties": [
+      "PTC"
+    ],
+    "votes": 21830,
+    "quoc": 0.10991002784253111,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 21830
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 16242,
+    "quoc": 0.08177547742640358,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 16242
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 11804,
+    "quoc": 0.059430965123831295,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 11804
+  },
+  {
+    "name": "51 - PEN",
+    "parties": [
+      "PEN"
+    ],
+    "votes": 11722,
+    "quoc": 0.05901811023225605,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 11722
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 7437,
+    "quoc": 0.037443924739574155,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 7437
+  },
+  {
+    "name": "54 - PPL",
+    "parties": [
+      "PPL"
+    ],
+    "votes": 6427,
+    "quoc": 0.03235876083114739,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 6427
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 5852,
+    "quoc": 0.029463741774369768,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 5852
+  }
+]

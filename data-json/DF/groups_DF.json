@@ -1,0 +1,152 @@
+[
+  {
+    "name": "RESPEITO POR BRASÍLIA -2",
+    "parties": [
+      "PT",
+      "PRB",
+      "PCdoB",
+      "PP",
+      "PSC",
+      "PROS"
+    ],
+    "votes": 391055,
+    "quoc": 2.1481817183036696,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 186939,
+    "countExtra": 22,
+    "totalExtraVotes": 213914,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "SOMOS TODOS BRASÍLIA",
+    "parties": [
+      "PSB",
+      "SD",
+      "PDT",
+      "PSD"
+    ],
+    "votes": 277599,
+    "quoc": 1.5249340804218854,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 230966,
+    "countExtra": 26,
+    "totalExtraVotes": 144485,
+    "hasMore": false,
+    "pctLess": 0.3744317345410147
+  },
+  {
+    "name": "UNIÃO E FORÇA I",
+    "parties": [
+      "PR",
+      "PTB",
+      "PRTB",
+      "PMN",
+      "DEM"
+    ],
+    "votes": 272576,
+    "quoc": 1.4973412436827072,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 149197,
+    "countExtra": 25,
+    "totalExtraVotes": 239733,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "RESPEITO POR BRASÍLIA 1",
+    "parties": [
+      "PMDB",
+      "PTdoB",
+      "PRP",
+      "PHS",
+      "PEN",
+      "PV",
+      "PTN",
+      "PPL",
+      "PSL",
+      "PTC"
+    ],
+    "votes": 257638,
+    "quoc": 1.415282355526258,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 99446,
+    "countExtra": 33,
+    "totalExtraVotes": 175044,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "POR UM FUTURO MELHOR II",
+    "parties": [
+      "PSDB",
+      "PPS",
+      "PSDC"
+    ],
+    "votes": 231287,
+    "quoc": 1.2705284552845528,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 110103,
+    "countExtra": 26,
+    "totalExtraVotes": 159350,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 19853,
+    "quoc": 0.10905844869259504,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 14,
+    "totalExtraVotes": 19853
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 4735,
+    "quoc": 0.0260107668644254,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 4735
+  },
+  {
+    "name": "29 - PCO",
+    "parties": [
+      "PCO"
+    ],
+    "votes": 918,
+    "quoc": 0.005042847725774555,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 918
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 656,
+    "quoc": 0.0036036036036036037,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 656
+  }
+]

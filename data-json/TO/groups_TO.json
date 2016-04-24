@@ -1,0 +1,168 @@
+[
+  {
+    "name": "A MUDANÇA QUE A GENTE VE",
+    "parties": [
+      "PRB",
+      "PP",
+      "PDT",
+      "PTB",
+      "PSL",
+      "PSC",
+      "PR",
+      "PPS",
+      "DEM",
+      "PRTB",
+      "PHS",
+      "PTC",
+      "PSB",
+      "PRP",
+      "PSDB",
+      "PEN",
+      "SD"
+    ],
+    "votes": 385378,
+    "quoc": 4.202366283190666,
+    "positions": 4,
+    "countNeeds": 4,
+    "totalNeedVotes": 184895,
+    "countExtra": 37,
+    "totalExtraVotes": 203453,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "A EXPERIÊNCIA FAZ A MUDANÇA 1",
+    "parties": [
+      "PMDB",
+      "PV",
+      "PT",
+      "PSD"
+    ],
+    "votes": 339391,
+    "quoc": 3.700899623793686,
+    "positions": 4,
+    "countNeeds": 3,
+    "totalNeedVotes": 82870,
+    "countExtra": 10,
+    "totalExtraVotes": 147146,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "90 - PROS",
+    "parties": [
+      "PROS"
+    ],
+    "votes": 2308,
+    "quoc": 0.025167657161550623,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 1,
+    "totalExtraVotes": 2308
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 1770,
+    "quoc": 0.019301019573632845,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 1770
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 1399,
+    "quoc": 0.01525543863475274,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1399
+  },
+  {
+    "name": "27 - PSDC",
+    "parties": [
+      "PSDC"
+    ],
+    "votes": 1298,
+    "quoc": 0.014154081020664086,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 1298
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 815,
+    "quoc": 0.008887192628537157,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 815
+  },
+  {
+    "name": "19 - PTN",
+    "parties": [
+      "PTN"
+    ],
+    "votes": 556,
+    "quoc": 0.006062919142903876,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 556
+  },
+  {
+    "name": "65 - PCdoB",
+    "parties": [
+      "PCdoB"
+    ],
+    "votes": 308,
+    "quoc": 0.003358595496428766,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 1,
+    "totalExtraVotes": 308
+  },
+  {
+    "name": "70 - PTdoB",
+    "parties": [
+      "PTdoB"
+    ],
+    "votes": 244,
+    "quoc": 0.0026607055231448666,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 1,
+    "totalExtraVotes": 244
+  },
+  {
+    "name": "54 - PPL",
+    "parties": [
+      "PPL"
+    ],
+    "votes": 169,
+    "quoc": 0.001842865710702797,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 1,
+    "totalExtraVotes": 169
+  }
+]

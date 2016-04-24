@@ -1,0 +1,3325 @@
+[
+  {
+    "candidate": 2323,
+    "fullName": "ELIZIANE PEREIRA GAMA FERREIRA",
+    "urnaName": "ELIZIANE GAMA",
+    "party": "PPS",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 133575,
+    "pct": 4.25,
+    "individual": false,
+    "quoc": 0.76,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1513,
+    "fullName": "HILDO AUGUSTO DA ROCHA NETO",
+    "urnaName": "HILDO ROCHA",
+    "party": "PMDB",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 125521,
+    "pct": 3.99,
+    "individual": false,
+    "quoc": 0.72,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 6565,
+    "fullName": "RUBENS PEREIRA E SILVA JUNIOR",
+    "urnaName": "RUBENS PEREIRA JUNIOR",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 118115,
+    "pct": 3.76,
+    "individual": false,
+    "quoc": 0.68,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1010,
+    "fullName": "CLEBER VERDE CORDEIRO MENDES",
+    "urnaName": "CLEBER VERDE",
+    "party": "PRB",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 105243,
+    "pct": 3.35,
+    "individual": false,
+    "quoc": 0.6,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4321,
+    "fullName": "JOSÉ SARNEY FILHO",
+    "urnaName": "SARNEY FILHO",
+    "party": "PV",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 91669,
+    "pct": 2.92,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1300,
+    "fullName": "JOSE  CARLOS NUNES JUNIOR",
+    "urnaName": "ZE CARLOS",
+    "party": "PT",
+    "state": "MA",
+    "impeachment": false,
+    "votes": 90531,
+    "pct": 2.88,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5510,
+    "fullName": "CLAUDIO JOSÉ TRINCHÃO SANTOS",
+    "urnaName": "TRINCHAO",
+    "party": "PSD",
+    "state": "MA",
+    "votes": 87793,
+    "pct": 2.79,
+    "individual": false,
+    "quoc": 0.5,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "JOSÉ REINALDO CARNEIRO TAVARES",
+    "urnaName": "ZE REINALDO",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 86728,
+    "pct": 2.76,
+    "individual": false,
+    "quoc": 0.5,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1414,
+    "fullName": "PEDRO FERNANDES RIBEIRO",
+    "urnaName": "PEDRO FERNANDES",
+    "party": "PTB",
+    "state": "MA",
+    "impeachment": false,
+    "votes": 85507,
+    "pct": 2.72,
+    "individual": false,
+    "quoc": 0.49,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4356,
+    "fullName": "CARLOS VICTOR GUTERRES MENDES",
+    "urnaName": "VICTOR MENDES",
+    "party": "PV",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 85034,
+    "pct": 2.7,
+    "individual": false,
+    "quoc": 0.49,
+    "status": {
+      "geral": "winner",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4410,
+    "fullName": "JOSE JUSCELINO DOS SANTOS REZENDE FILHO",
+    "urnaName": "JUSCELINO FILHO",
+    "party": "PRP",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 83955,
+    "pct": 2.67,
+    "individual": false,
+    "quoc": 0.48,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1555,
+    "fullName": "JOÃO MARCELO SANTOS SOUZA",
+    "urnaName": "JOAO MARCELO",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 83847,
+    "pct": 2.67,
+    "individual": false,
+    "quoc": 0.48,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1212,
+    "fullName": "WEVERTON ROCHA MARQUES DE SOUSA",
+    "urnaName": "WEVERTON ROCHA",
+    "party": "PDT",
+    "state": "MA",
+    "impeachment": false,
+    "votes": 81161,
+    "pct": 2.58,
+    "individual": false,
+    "quoc": 0.46,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1522,
+    "fullName": "JOSÉ ALBERTO OLIVEIRA VELOSO FILHO",
+    "urnaName": "ALBERTO FILHO",
+    "party": "PMDB",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 67885,
+    "pct": 2.16,
+    "individual": false,
+    "quoc": 0.39,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1111,
+    "fullName": "WALDIR MARANHÃO CARDOSO",
+    "urnaName": "WALDIR MARANHAO",
+    "party": "PP",
+    "state": "MA",
+    "impeachment": false,
+    "votes": 66274,
+    "pct": 2.11,
+    "individual": false,
+    "quoc": 0.38,
+    "status": {
+      "geral": "winner"
+    }
+  },
+  {
+    "candidate": 1211,
+    "fullName": "JULIÃO AMIN CASTRO",
+    "urnaName": "JULIAO AMIN",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 64896,
+    "pct": 2.06,
+    "individual": false,
+    "quoc": 0.37,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2211,
+    "fullName": "DAVI ALVES SILVA JÚNIOR",
+    "urnaName": "DAVI ALVES SILVA JUNIOR",
+    "party": "PR",
+    "state": "MA",
+    "votes": 63706,
+    "pct": 2.03,
+    "individual": false,
+    "quoc": 0.36,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "FRANCISCO LUIZ ESCORCIO LIMA",
+    "urnaName": "CHIQUINHO ESCORCIO",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 56983,
+    "pct": 1.81,
+    "individual": false,
+    "quoc": 0.33,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 5151,
+    "fullName": "ANDRÉ LUIS CARVALHO RIBEIRO",
+    "urnaName": "ANDRE FUFUCA",
+    "party": "PEN",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 56879,
+    "pct": 1.81,
+    "individual": false,
+    "quoc": 0.33,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1233,
+    "fullName": "DEOCLIDES ANTONIO SANTOS NETO MACEDO",
+    "urnaName": "DEOCLIDES MACEDO",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 56171,
+    "pct": 1.79,
+    "individual": false,
+    "quoc": 0.32,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 15,
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 53146,
+    "pct": 1.69,
+    "individual": false,
+    "quoc": 0.3,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4555,
+    "fullName": "JOÃO CASTELO RIBEIRO GONÇALVES",
+    "urnaName": "JOAO CASTELO",
+    "party": "PSDB",
+    "state": "MA",
+    "impeachment": true,
+    "votes": 52783,
+    "pct": 1.68,
+    "individual": false,
+    "quoc": 0.3,
+    "status": {
+      "geral": "winner"
+    }
+  },
+  {
+    "candidate": 4030,
+    "fullName": "LUANA MARIA DA SILVA COSTA",
+    "urnaName": "LUANA ALVES",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 51418,
+    "pct": 1.64,
+    "individual": false,
+    "quoc": 0.29,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1523,
+    "fullName": "PAULO CELSO FONSECA MARINHO JUNIOR",
+    "urnaName": "PAULO MARINHO JR",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 51011,
+    "pct": 1.62,
+    "individual": false,
+    "quoc": 0.29,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 5122,
+    "fullName": "ANTONIO DA CRUZ FILGUEIRA JUNIOR",
+    "urnaName": "JUNIOR MARRECA",
+    "party": "PEN",
+    "state": "MA",
+    "impeachment": false,
+    "votes": 50962,
+    "pct": 1.62,
+    "individual": false,
+    "quoc": 0.29,
+    "status": {
+      "geral": "winner",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2727,
+    "fullName": "ALUISIO GUIMARÃES MENDES FILHO",
+    "urnaName": "ALUISIO MENDES",
+    "party": "PSDC",
+    "state": "MA",
+    "impeachment": false,
+    "votes": 50658,
+    "pct": 1.61,
+    "individual": false,
+    "quoc": 0.29,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1789,
+    "fullName": "RICARDO CEPPAS ARCHER",
+    "urnaName": "RICARDO ARCHER",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 49797,
+    "pct": 1.58,
+    "individual": false,
+    "quoc": 0.29,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1710,
+    "fullName": "FRANCISCO DE ASSIS MILHOMEM COELHO",
+    "urnaName": "CHICO COELHO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 44897,
+    "pct": 1.43,
+    "individual": false,
+    "quoc": 0.26,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 7713,
+    "fullName": "DOMINGOS FRANCISCO DUTRA FILHO",
+    "urnaName": "DUTRA",
+    "party": "SD",
+    "state": "MA",
+    "votes": 40424,
+    "pct": 1.29,
+    "individual": false,
+    "quoc": 0.23,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 7777,
+    "fullName": "JOSÉ SIMPLÍCIO ALVES DE ARAÚJO",
+    "urnaName": "SIMPLICIO ARAUJO",
+    "party": "SD",
+    "state": "MA",
+    "votes": 38991,
+    "pct": 1.24,
+    "individual": false,
+    "quoc": 0.22,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1733,
+    "fullName": "ANTONIO ISAIAS PEREIRA FILHO",
+    "urnaName": "PEREIRINHA",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 38744,
+    "pct": 1.23,
+    "individual": false,
+    "quoc": 0.22,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1225,
+    "fullName": "ROSANGELA APARECIDA DA SILVA BARROS",
+    "urnaName": "ROSANGELA CURADO",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 37726,
+    "pct": 1.2,
+    "individual": false,
+    "quoc": 0.22,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1023,
+    "fullName": "PAULO LUIZ DA SILVA PEREIRA",
+    "urnaName": "PAULO LUIZ",
+    "party": "PRB",
+    "state": "MA",
+    "votes": 35292,
+    "pct": 1.12,
+    "individual": false,
+    "quoc": 0.2,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1577,
+    "fullName": "SETIMO WAQUIM",
+    "urnaName": "PROFESSOR SETIMO",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 35282,
+    "pct": 1.12,
+    "individual": false,
+    "quoc": 0.2,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 6512,
+    "fullName": "ROSEANE SALES DA SILVA MOREIRA",
+    "urnaName": "ROSE SALES",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 33929,
+    "pct": 1.08,
+    "individual": false,
+    "quoc": 0.19,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 3331,
+    "fullName": "ILDON MARQUES DE SOUZA",
+    "urnaName": "ILDON MARQUES",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 31370,
+    "pct": 1,
+    "individual": false,
+    "quoc": 0.18,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 40,
+    "party": "PSB",
+    "state": "MA",
+    "votes": 29601,
+    "pct": 0.94,
+    "individual": false,
+    "quoc": 0.17,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 7070,
+    "fullName": "LOURIVAL MENDES DA FONSECA FILHO",
+    "urnaName": "LOURIVAL MENDES",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 27277,
+    "pct": 0.87,
+    "individual": false,
+    "quoc": 0.16,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2365,
+    "fullName": "LUIZ CARLOS PORTO",
+    "urnaName": "PASTOR PORTO",
+    "party": "PPS",
+    "state": "MA",
+    "votes": 25946,
+    "pct": 0.83,
+    "individual": false,
+    "quoc": 0.15,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 7077,
+    "fullName": "TALVANE RIBEIRO HORTEGAL",
+    "urnaName": "DR. TALVANE HORTEGAL",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 23262,
+    "pct": 0.74,
+    "individual": false,
+    "quoc": 0.13,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2014,
+    "fullName": "ANTONIO DA CONCEIÇÃO COSTA FERREIRA",
+    "urnaName": "COSTA FERREIRA",
+    "party": "PSC",
+    "state": "MA",
+    "votes": 22862,
+    "pct": 0.73,
+    "individual": false,
+    "quoc": 0.13,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 13,
+    "party": "PT",
+    "state": "MA",
+    "votes": 22161,
+    "pct": 0.7,
+    "individual": false,
+    "quoc": 0.13,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 7000,
+    "fullName": "PENALDON JORGE RIBEIRO MOREIRA",
+    "urnaName": "DR. PENALDON",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 20647,
+    "pct": 0.66,
+    "individual": false,
+    "quoc": 0.12,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 65,
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 20510,
+    "pct": 0.65,
+    "individual": false,
+    "quoc": 0.12,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 7088,
+    "fullName": "DALTON HUGOLINO ARRUDA DE SOUSA",
+    "urnaName": "DALTON ARRUDA",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 20470,
+    "pct": 0.65,
+    "individual": false,
+    "quoc": 0.12,
+    "status": {}
+  },
+  {
+    "candidate": 45,
+    "party": "PSDB",
+    "state": "MA",
+    "votes": 17103,
+    "pct": 0.54,
+    "individual": false,
+    "quoc": 0.1,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 5115,
+    "fullName": "HEBER WALDO SILVA COSTA",
+    "urnaName": "PASTOR BEL",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 16791,
+    "pct": 0.53,
+    "individual": false,
+    "quoc": 0.1,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 6541,
+    "fullName": "PEDRO FERREIRA OLIVEIRA",
+    "urnaName": "PEDRO BELO",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 16208,
+    "pct": 0.52,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1265,
+    "fullName": "LEONARDO SARMENTO PIRES DE SÁ",
+    "urnaName": "DR LEONARDO SA",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 15947,
+    "pct": 0.51,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 6500,
+    "fullName": "CLÁUDIO ANTONIO LIMA FURTADO",
+    "urnaName": "CLAUDIO FURTADO",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 15601,
+    "pct": 0.5,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "FABIO GONDIM PEREIRA DA COSTA",
+    "urnaName": "FABIO GONDIM",
+    "party": "PT",
+    "state": "MA",
+    "votes": 15293,
+    "pct": 0.49,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2723,
+    "fullName": "JOSE MARIO ALVES DE SOUZA",
+    "urnaName": "ZE MARIO",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 15162,
+    "pct": 0.48,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1323,
+    "fullName": "ORLANDO SOUSA PINTO FILHO",
+    "urnaName": "DR. ORLANDO",
+    "party": "PT",
+    "state": "MA",
+    "votes": 14866,
+    "pct": 0.47,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 2789,
+    "fullName": "JOSUÉ GOMES PINHEIRO",
+    "urnaName": "JOSUE PINHEIRO",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 14283,
+    "pct": 0.45,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1322,
+    "fullName": "JOSE RIBAMAR RODRIGUES FLHO",
+    "urnaName": "RODRIGO COMERCIARIO",
+    "party": "PT",
+    "state": "MA",
+    "votes": 13375,
+    "pct": 0.43,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1415,
+    "fullName": "RAIMUNDO MOURA CARVALHO",
+    "urnaName": "RAIMUNDO CARVALHO",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 12179,
+    "pct": 0.39,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 3131,
+    "fullName": "RAIMUNDO FLORENCIO MONTEIRO NETO",
+    "urnaName": "FLORENCIO NETO",
+    "party": "PHS",
+    "state": "MA",
+    "votes": 11550,
+    "pct": 0.37,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {}
+  },
+  {
+    "candidate": 12,
+    "party": "PDT",
+    "state": "MA",
+    "votes": 11237,
+    "pct": 0.36,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1744,
+    "fullName": "JEOVA ALVES DE SOUSA",
+    "urnaName": "JEOVA ALVES",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 10755,
+    "pct": 0.34,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {}
+  },
+  {
+    "candidate": 2707,
+    "fullName": "MICAL SILVA DAMASCENO",
+    "urnaName": "MICAL DAMASCENO",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 10209,
+    "pct": 0.32,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {}
+  },
+  {
+    "candidate": 2345,
+    "fullName": "IGOR MATOS LAGO",
+    "urnaName": "IGOR LAGO",
+    "party": "PPS",
+    "state": "MA",
+    "votes": 9432,
+    "pct": 0.3,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 43,
+    "party": "PV",
+    "state": "MA",
+    "votes": 8410,
+    "pct": 0.27,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4000,
+    "fullName": "ALAN FIALHO GANDRA",
+    "urnaName": "ALAN GANDRA",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 7879,
+    "pct": 0.25,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {}
+  },
+  {
+    "candidate": 10,
+    "party": "PRB",
+    "state": "MA",
+    "votes": 7556,
+    "pct": 0.24,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 3665,
+    "fullName": "MARIA LÚCIA MARINHO LIMA",
+    "urnaName": "LUCIA MARINHO",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 7446,
+    "pct": 0.24,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 4545,
+    "fullName": "JAMILLE DE LUCENA SUZART",
+    "urnaName": "JAMILLE SUZART",
+    "party": "PSDB",
+    "state": "MA",
+    "votes": 7274,
+    "pct": 0.23,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 1222,
+    "fullName": "MANOEL RAIMUNDO FERREIRA DA SILVA",
+    "urnaName": "MANOEL  DA PASTORAL",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 6949,
+    "pct": 0.22,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 3622,
+    "fullName": "ILTON ALVES VIANA",
+    "urnaName": "ILTON ALVES VIANA",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 6740,
+    "pct": 0.21,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 1315,
+    "fullName": "NEY JEFFERSON PEREIRA TEIXEIRA",
+    "urnaName": "NEY JEFFERSON",
+    "party": "PT",
+    "state": "MA",
+    "votes": 6713,
+    "pct": 0.21,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 11,
+    "party": "PP",
+    "state": "MA",
+    "votes": 6660,
+    "pct": 0.21,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {}
+  },
+  {
+    "candidate": 1410,
+    "fullName": "IVAN BATISTA DA SILVA",
+    "urnaName": "IVAN DO SABOREAR",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 6520,
+    "pct": 0.21,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1616,
+    "fullName": "CLAUDICEA ALVES DURANS",
+    "urnaName": "CLAUDICEA DURANS",
+    "party": "PSTU",
+    "state": "MA",
+    "votes": 5997,
+    "pct": 0.19,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 1365,
+    "fullName": "MARCIO BATALHA JARDIM",
+    "urnaName": "MARCIO JARDIM",
+    "party": "PT",
+    "state": "MA",
+    "votes": 5755,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 1234,
+    "fullName": "RAIMUNDO NONATO SILVA",
+    "urnaName": "NONATO BALECO",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 5600,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 7024,
+    "fullName": "DANIEL VAZ ABREU",
+    "urnaName": "FOCA",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 5161,
+    "pct": 0.16,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 44,
+    "party": "PRP",
+    "state": "MA",
+    "votes": 5081,
+    "pct": 0.16,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 3333,
+    "fullName": "JANILSON DOUGLAS JANSEN FRANÇA",
+    "urnaName": "JANSEN FRANCA",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 4894,
+    "pct": 0.16,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 22,
+    "party": "PR",
+    "state": "MA",
+    "votes": 4703,
+    "pct": 0.15,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 20,
+    "party": "PSC",
+    "state": "MA",
+    "votes": 4526,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 4090,
+    "fullName": "JOSÉ CARLOS REIS FILHO",
+    "urnaName": "DR. ZE CARLOS",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 4472,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 4500,
+    "fullName": "RAIMUNDO FREIRE CUTRIM",
+    "urnaName": "DES. CUTRIM",
+    "party": "PSDB",
+    "state": "MA",
+    "votes": 4396,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 25,
+    "party": "DEM",
+    "state": "MA",
+    "votes": 4297,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 2808,
+    "fullName": "GARDENIA SABOIA ALMEIDA AIRES",
+    "urnaName": "GARDENIA",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 4120,
+    "pct": 0.13,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 2222,
+    "fullName": "LUIS SANTOS MACIEL",
+    "urnaName": "LUIZINHO DA CASA DOS PADEIROS",
+    "party": "PR",
+    "state": "MA",
+    "votes": 3889,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 23,
+    "party": "PPS",
+    "state": "MA",
+    "votes": 3829,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 9090,
+    "fullName": "RAIMUNDO NONATO DA SILVA FILHO",
+    "urnaName": "RAIMUNDO FILHO",
+    "party": "PROS",
+    "state": "MA",
+    "votes": 3722,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 51,
+    "party": "PEN",
+    "state": "MA",
+    "votes": 3662,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 4444,
+    "fullName": "MANOEL PEREIRA MACHADO NETO",
+    "urnaName": "IRMAO MACHADO",
+    "party": "PRP",
+    "state": "MA",
+    "votes": 3653,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 77,
+    "party": "SD",
+    "state": "MA",
+    "votes": 3529,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 14,
+    "party": "PTB",
+    "state": "MA",
+    "votes": 3495,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1455,
+    "fullName": "ANTÔNIO FELICIANO DA SILVA",
+    "urnaName": "FELICIANO DO BOMBOM",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 3394,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1311,
+    "fullName": "FRANCISCO ROGÉRIO SOUSA",
+    "urnaName": "ROGERIO DO PT",
+    "party": "PT",
+    "state": "MA",
+    "votes": 3389,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 3633,
+    "fullName": "MARCO CANTANHEDE DO LAGO",
+    "urnaName": "MARCO LAGO",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 3360,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 5050,
+    "fullName": "FRANCISCO DAS CHAGAS SOUSA",
+    "urnaName": "PROF FRANCISCO",
+    "party": "PSOL",
+    "state": "MA",
+    "votes": 3319,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 55,
+    "party": "PSD",
+    "state": "MA",
+    "votes": 3310,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2555,
+    "fullName": "SERGIO MURILO DE PAULA BARROS MUNIZ",
+    "urnaName": "SERGIO MUNIZ",
+    "party": "DEM",
+    "state": "MA",
+    "votes": 3278,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1777,
+    "fullName": "JOSE RENATO  SANTOS COSTA",
+    "urnaName": "JOSE RENATO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 3273,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1714,
+    "fullName": "FERNANDA MARIA DE MATOS CORREA DE OLIVEIRA",
+    "urnaName": "FERNANDA MARIA",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 3157,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 3610,
+    "fullName": "NEY MARCOS NASCIMENTO DE SOUZA",
+    "urnaName": "PASTOR MARCOS NASCIMENTO",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 3110,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 2712,
+    "fullName": "ADILTON SOUZA SILVA",
+    "urnaName": "DR. ADILTON SOUZA SILVA",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 3089,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 3600,
+    "fullName": "RAFAEL VERNER HERINGER",
+    "urnaName": "RAFAEL HERINGER",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 3070,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 6515,
+    "fullName": "EDMILSON SANCHES",
+    "urnaName": "SANCHES",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 2829,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 5400,
+    "fullName": "INALDO ALVES PEREIRA",
+    "urnaName": "INALDO PEREIRA",
+    "party": "PPL",
+    "state": "MA",
+    "votes": 2829,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 27,
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 2788,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 17,
+    "party": "PSL",
+    "state": "MA",
+    "votes": 2754,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 3612,
+    "fullName": "JORGE HENRIQUE ROCHA CAMPOS",
+    "urnaName": "JORGE CAMPOS",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 2748,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 2877,
+    "fullName": "JURIOSMAR DE JESUS LINDOSO AIRES",
+    "urnaName": "JULIO OSMAR",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 2745,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 7789,
+    "fullName": "LEONILDE SANTOS CHAVES",
+    "urnaName": "PROFª LEONILDE CHAVES",
+    "party": "SD",
+    "state": "MA",
+    "votes": 2643,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 33,
+    "party": "PMN",
+    "state": "MA",
+    "votes": 2613,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2888,
+    "fullName": "MARIO NOGUEIRA BRAGA NETO",
+    "urnaName": "DR. MARIO BRAGA",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 2596,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1771,
+    "fullName": "JOSE MAGNO SOUSA MAGALHAES",
+    "urnaName": "DR MAGNO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 2527,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3388,
+    "fullName": "HANS JOSEPH NINA HOHN",
+    "urnaName": "HANS NINA",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 2513,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 31,
+    "party": "PHS",
+    "state": "MA",
+    "votes": 2479,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 16,
+    "party": "PSTU",
+    "state": "MA",
+    "votes": 2364,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 6545,
+    "fullName": "WILTON CARLOS REGO RIBEIRO",
+    "urnaName": "WILTON RIBEIRO",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 2244,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4050,
+    "fullName": "JOSÉ CAMPOS DE MEDEIROS",
+    "urnaName": "ZECA MEDEIROS",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 2065,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1331,
+    "fullName": "LUIZ EDUARDO ELIAS BRAGA",
+    "urnaName": "EDUARDO BRAGA",
+    "party": "PT",
+    "state": "MA",
+    "votes": 1951,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 19,
+    "party": "PTN",
+    "state": "MA",
+    "votes": 1924,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3677,
+    "fullName": "ARI ROGÉRIO FERREIRA DA SILVA",
+    "urnaName": "ARI ROGERIO",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 1859,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 50,
+    "party": "PSOL",
+    "state": "MA",
+    "votes": 1820,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3653,
+    "fullName": "LINDENBERG CUNHA BRAGA",
+    "urnaName": "LINDENBERG BRAGA",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 1792,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 21,
+    "party": "PCB",
+    "state": "MA",
+    "votes": 1779,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4010,
+    "fullName": "JOMANIR ABRAO SILVA JUNIOR",
+    "urnaName": "PROFESSOR JOMANIR JUNIOR",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 1769,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5454,
+    "fullName": "LUIZA LEAL FERREIRA DO LAGO",
+    "urnaName": "LUIZA LAGO",
+    "party": "PPL",
+    "state": "MA",
+    "votes": 1742,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3322,
+    "fullName": "DILMAR SOUSA ARAÚJO",
+    "urnaName": "DILMAR ARAUJO",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 1728,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 70,
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 1695,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 7012,
+    "fullName": "MARIA APARECIDA GOMES CARDOSO",
+    "urnaName": "APARECIDA CARDOSO",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 1581,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1256,
+    "fullName": "JOSE DE RIBAMAR JANSEN PENHA",
+    "urnaName": "JANSEN PENHA",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 1521,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 36,
+    "party": "PTC",
+    "state": "MA",
+    "votes": 1521,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1700,
+    "fullName": "HENRIQUE JORGE REIS DE ALMEIDA",
+    "urnaName": "PIRRITA",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 1486,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5199,
+    "fullName": "FABIO OLIVEIRA MOREIRA",
+    "urnaName": "DR. FABIO MOREIRA",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 1451,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 28,
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 1433,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3100,
+    "fullName": "ANTONIO FERREIRA MARTINS",
+    "urnaName": "TOTO MARTINS",
+    "party": "PHS",
+    "state": "MA",
+    "votes": 1395,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1788,
+    "fullName": "WOLMER DE AZEVEDO ARAUJO",
+    "urnaName": "WOLMER ARAUJO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 1372,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2213,
+    "fullName": "JOSE LOPES CARVALHO",
+    "urnaName": "JOSE LOPES CARVALHO",
+    "party": "PR",
+    "state": "MA",
+    "votes": 1321,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4020,
+    "fullName": "CARLOS AUGUSTO PINTO DINIZ",
+    "urnaName": "CARLOS PEIXEIRO",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 1308,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1100,
+    "fullName": "JANIEL FERREIRA LIMA",
+    "urnaName": "FIDEL CASTRO",
+    "party": "PP",
+    "state": "MA",
+    "votes": 1268,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1717,
+    "fullName": "AGEMIRO MEDEIROS DE SOUSA",
+    "urnaName": "AGEMIRO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 1248,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1712,
+    "fullName": "JOAO BATISTA CARVALHAL MIRANDA",
+    "urnaName": "BATISTA CARVALHAL",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 1229,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1325,
+    "fullName": "JOSE ANTONIO MONTE LIMA",
+    "urnaName": "DR. TOM DO PT",
+    "party": "PT",
+    "state": "MA",
+    "votes": 1201,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5190,
+    "fullName": "PAULO ALFREDO DONJIE DE OLIVEIRA",
+    "urnaName": "MAJOR DONJIE",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 1198,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3696,
+    "fullName": "EDMUNDO RODRIGUES BELFORT",
+    "urnaName": "PROF. EDMUNDO BELFORT",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 1178,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1200,
+    "fullName": "MARIO JACKSON SIQUEIRA BAYMA",
+    "urnaName": "MARIO JACKSON",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 1166,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3611,
+    "fullName": "FRANCISCO PEREIRA DE SOUSA",
+    "urnaName": "DEDE LOCUTOR",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 1143,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5188,
+    "fullName": "RAIMUNDO FRANCISCO ARAÚJO BEZERRA",
+    "urnaName": "PILA",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 1075,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1600,
+    "fullName": "RONILSON FLAVIO SILVA PEREIRA",
+    "urnaName": "PROFESSOR RONILSON FLAVIO",
+    "party": "PSTU",
+    "state": "MA",
+    "votes": 1067,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1310,
+    "fullName": "ALMIR BRUNO JACINTO TAVARES",
+    "urnaName": "ALMIR BRUNO",
+    "party": "PT",
+    "state": "MA",
+    "votes": 1063,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5051,
+    "fullName": "ALINE MARIA DOS SANTOS PEREIRA",
+    "urnaName": "ALINE MARIA",
+    "party": "PSOL",
+    "state": "MA",
+    "votes": 1043,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1545,
+    "fullName": "LINDALVA SEREJO CARDOSO",
+    "urnaName": "IRMA LINDALVA",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 1038,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1350,
+    "fullName": "ALEXANDRE BRITO ARAUJO",
+    "urnaName": "ALEXANDRE ARAUJO",
+    "party": "PT",
+    "state": "MA",
+    "votes": 1026,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3621,
+    "fullName": "MARCELLO SOARES SANTOS",
+    "urnaName": "MARCELLO",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 1016,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1755,
+    "fullName": "LUIZ ANTONIO GUTERRES FILHO",
+    "urnaName": "PROFESSOR LUIS GUTERRES",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 972,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5555,
+    "fullName": "FRANCISCO CLEBER SILVA ARAUJO",
+    "urnaName": "PROFESSOR CLEBER MEIRELES",
+    "party": "PSD",
+    "state": "MA",
+    "votes": 971,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 5155,
+    "fullName": "LOURIVAL DE LIMA SILVA",
+    "urnaName": "DR. LOURIVAL LIMA",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 916,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1312,
+    "fullName": "FRANCISCA DAS CHAGAS DINIZ GOMES",
+    "urnaName": "CHAGUINHA DINIZ",
+    "party": "PT",
+    "state": "MA",
+    "votes": 895,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 54,
+    "party": "PPL",
+    "state": "MA",
+    "votes": 885,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1900,
+    "fullName": "RAIMUNDO DE OLIVEIRA SOBRINHO",
+    "urnaName": "SOBRINHO",
+    "party": "PTN",
+    "state": "MA",
+    "votes": 869,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4510,
+    "fullName": "JOANICE DO NASCIMENTO SOARES FRAZÃO",
+    "urnaName": "JOANICE FRAZAO",
+    "party": "PSDB",
+    "state": "MA",
+    "votes": 864,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 6555,
+    "fullName": "GENIVAL ALVES DA SILVA",
+    "urnaName": "GENIVAL ALVES",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 862,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3613,
+    "fullName": "VALDENIR ARAUJO LIMA",
+    "urnaName": "VALDENIR ARAUJO LIMA",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 860,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1388,
+    "fullName": "MARIA JOSÉ DOS RAMOS SOARES DOURADO",
+    "urnaName": "JO SOARES DOURADO",
+    "party": "PT",
+    "state": "MA",
+    "votes": 858,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2833,
+    "fullName": "LEONIDAS COUTINHO DE OLIVEIRA",
+    "urnaName": "LAMPARINA",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 838,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1372,
+    "fullName": "FRANCISMAR FERREIRA",
+    "urnaName": "PROFESSOR FRANCISMAR",
+    "party": "PT",
+    "state": "MA",
+    "votes": 834,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2815,
+    "fullName": "JULIETE LIMA ANDRADE",
+    "urnaName": "JULIETE ANDRADE",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 824,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4343,
+    "fullName": "WASHINGTON LUIS CAMPOS RIO BRANCO",
+    "urnaName": "WASHINGTON RIO BRANCO",
+    "party": "PV",
+    "state": "MA",
+    "votes": 804,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 9000,
+    "fullName": "JADSON WELDER DA SILVA MELO",
+    "urnaName": "JADSON MELO",
+    "party": "PROS",
+    "state": "MA",
+    "votes": 794,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3616,
+    "fullName": "ÉZIO ROGERIO SANTOS CORREIA",
+    "urnaName": "EZIO ROGERIO",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 793,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1500,
+    "fullName": "MARCIA CRISTIANE SILVA OLIVEIRA",
+    "urnaName": "MARCIA POETA",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 773,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1122,
+    "fullName": "CLAUDIO MARCOS BASTOS COSTA",
+    "urnaName": "BASTOS O ABESTADO",
+    "party": "PP",
+    "state": "MA",
+    "votes": 753,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1731,
+    "fullName": "GABRIELLE ANDRESSA FREITAS MARANHAO",
+    "urnaName": "GABRIELLE MARANHAO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 723,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1611,
+    "fullName": "ANTONIO NONATO SANTOS VIANA",
+    "urnaName": "ANTONIO MOQUIBOM",
+    "party": "PSTU",
+    "state": "MA",
+    "votes": 687,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2121,
+    "fullName": "FELIX LIMA E SILVA",
+    "urnaName": "GATO FELIX",
+    "party": "PCB",
+    "state": "MA",
+    "votes": 684,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1015,
+    "fullName": "JOSE RAMALHO DE CASTRO  RODRIGUES",
+    "urnaName": "RAMALHO",
+    "party": "PRB",
+    "state": "MA",
+    "votes": 670,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1770,
+    "fullName": "CARLOS ANTONIO ARAUJO LOUREIRO",
+    "urnaName": "CARLOS LOUREIRO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 661,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5154,
+    "fullName": "JOSE DE RIBAMAR DE JESUS SEIXAS",
+    "urnaName": "FEIO",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 650,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1978,
+    "fullName": "JOSE RICARDO SILVA DOS SANTOS",
+    "urnaName": "RICARDINHO",
+    "party": "PTN",
+    "state": "MA",
+    "votes": 636,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5020,
+    "fullName": "RAIMUNDO SILVA",
+    "urnaName": "ARU SANFONEIRO",
+    "party": "PSOL",
+    "state": "MA",
+    "votes": 607,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1366,
+    "fullName": "ROMENO BARROS DA SILVA",
+    "urnaName": "ROMENO BARROS",
+    "party": "PT",
+    "state": "MA",
+    "votes": 597,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2717,
+    "fullName": "NATANIEL CANTANHEDE RODRIGUES",
+    "urnaName": "NATAN RODRIGUES",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 594,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1790,
+    "fullName": "ELBER MONTEIRO DOS SANTOS",
+    "urnaName": "ELBER CONSTRUCAO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 588,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1412,
+    "fullName": "JULIO RHOMELL FERNANDES GONDIM",
+    "urnaName": "JULIO GONDIM",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 581,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1413,
+    "fullName": "ANTÔNIO CÍCERO LOPES ASSUNÇÃO",
+    "urnaName": "PASTOR ANTONIO CICERO",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 565,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5055,
+    "fullName": "ISAC FERREIRA DE SOUSA",
+    "urnaName": "ISAC FERREIRA",
+    "party": "PSOL",
+    "state": "MA",
+    "votes": 548,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3636,
+    "fullName": "RAIMUNDO NONATO COELHO LOPES",
+    "urnaName": "IRMAO RAIMUNDO",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 538,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1711,
+    "fullName": "MARIA DAS NEVES CARDIAS SOUSA",
+    "urnaName": "PROFESSORA NEVES",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 513,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5511,
+    "fullName": "SAMUEL SANTOS PEREIRA",
+    "urnaName": "PROFESSOR MAX",
+    "party": "PSD",
+    "state": "MA",
+    "votes": 513,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4045,
+    "fullName": "JOSÉ ALVES DOS SANTOS",
+    "urnaName": "ZE COBAL",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 493,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3310,
+    "fullName": "IZIANNA DA SILVA PEREIRA",
+    "urnaName": "IZIANNA PEREIRA",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 487,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3300,
+    "fullName": "NALDIA MORENO RODRIGUES",
+    "urnaName": "NALDIA MORENO",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 485,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2777,
+    "fullName": "TERESINHA DE JESUS MESQUITA MATOS",
+    "urnaName": "TERESINHA DE JESUS",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 471,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 90,
+    "party": "PROS",
+    "state": "MA",
+    "votes": 470,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2828,
+    "fullName": "LUIS FERNANDO COSTA ALVES",
+    "urnaName": "FERNANDO ALVES",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 448,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1720,
+    "fullName": "ANTONIO DE JESUS FRAZÃO ABREU",
+    "urnaName": "ANTONIO FRAZAO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 445,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1456,
+    "fullName": "TEREZINHA DE OLIVEIRA AMARO",
+    "urnaName": "TEREZINHA DO GUARANA",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 444,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1357,
+    "fullName": "RAFAEL BARROS ALMEIDA",
+    "urnaName": "RAFAEL ALMEIDA",
+    "party": "PT",
+    "state": "MA",
+    "votes": 444,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2277,
+    "fullName": "ANA LUCIA RIBEIRO SERRA DA SILVA",
+    "urnaName": "ANA SERRA",
+    "party": "PR",
+    "state": "MA",
+    "votes": 443,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2123,
+    "fullName": "SILDEANE SALES COUTINHO",
+    "urnaName": "SILDEANE",
+    "party": "PCB",
+    "state": "MA",
+    "votes": 431,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1145,
+    "fullName": "RONALDO ALMEIDA DE FREITAS",
+    "urnaName": "DAL DE TIMON MARANHAO",
+    "party": "PP",
+    "state": "MA",
+    "votes": 422,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5412,
+    "fullName": "GILDASIO ARRAIS PEREIRA",
+    "urnaName": "GILDASIO ARRAIS",
+    "party": "PPL",
+    "state": "MA",
+    "votes": 419,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2177,
+    "fullName": "JOSÉ MOREIRA DA SILVA",
+    "urnaName": "MOREIRA DO MARWEL",
+    "party": "PCB",
+    "state": "MA",
+    "votes": 397,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1133,
+    "fullName": "RAIMUNDO LOPES MORENO E SILVA",
+    "urnaName": "CAMBUDE",
+    "party": "PP",
+    "state": "MA",
+    "votes": 376,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1722,
+    "fullName": "MARIA JOANA SERRAO PEREIRA",
+    "urnaName": "JOANA SERRAO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 372,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3678,
+    "fullName": "MIDIÃ ARAUJO VERAS SODRÉ",
+    "urnaName": "MIDIA SODRE",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 371,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4065,
+    "fullName": "LUCIANA MARÃO FELIX",
+    "urnaName": "LUCIANA TRINTA",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 360,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2855,
+    "fullName": "FRANCISCO SOUZA CAITANO",
+    "urnaName": "CHICO CAITANO",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 356,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2147,
+    "fullName": "ALUIZIO BARROSO DE MELO",
+    "urnaName": "ALUISIO MELO",
+    "party": "PCB",
+    "state": "MA",
+    "votes": 346,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1773,
+    "fullName": "ESTER ALVES SOARES",
+    "urnaName": "ESTER SOARES",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 322,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5445,
+    "fullName": "REGINALDO PEREIRA SANTOS",
+    "urnaName": "REGINALDO SANTOS",
+    "party": "PPL",
+    "state": "MA",
+    "votes": 318,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1244,
+    "fullName": "DOMINGOS BARBOSA CAMPELO",
+    "urnaName": "DOMINGOS BARBOSA CAMPELO",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 302,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2212,
+    "fullName": "CESAR ROBERTO LESSA DE CARVALHO",
+    "urnaName": "ROBERTO LESSA O LUTADOR",
+    "party": "PR",
+    "state": "MA",
+    "votes": 297,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2713,
+    "fullName": "ORNELIA MARIA SILVA DE ARAUJO",
+    "urnaName": "ORNELIA",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 295,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2210,
+    "fullName": "EDILSON SOUSA RODRIGUES",
+    "urnaName": "EDILSON SOUSA",
+    "party": "PR",
+    "state": "MA",
+    "votes": 291,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2822,
+    "fullName": "SEBASTIÃO FERREIRA MARTINS",
+    "urnaName": "CECE",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 281,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1441,
+    "fullName": "EMILCE MARIA CAMPOS",
+    "urnaName": "CAMPOS",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 255,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 6536,
+    "fullName": "ZENI PEREIRA PINHEIRO",
+    "urnaName": "ZENI",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 250,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1444,
+    "fullName": "ASTROGILSON DOS SANTOS LEAL",
+    "urnaName": "ASTROGILSON DO MALUCAO",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 250,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1245,
+    "fullName": "KATIANE SANTOS ARAUJO",
+    "urnaName": "KATIANE SANTOS",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 246,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5100,
+    "fullName": "MARIDALVA LIMA LOPES",
+    "urnaName": "DALVA LOPES",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 244,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3334,
+    "fullName": "EDVAN FERREIRA MATOS",
+    "urnaName": "EDVAN MATOS",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 232,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5123,
+    "fullName": "CONCEIÇÃO COSTA PINTO",
+    "urnaName": "CONCITA PINTO",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 214,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2810,
+    "fullName": "PAULO DE JESUS PESSOA SOARES",
+    "urnaName": "PAULO PESSOA",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 206,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4433,
+    "fullName": "AUXILIADORA RODRIGUES",
+    "urnaName": "AUXILIADORA",
+    "party": "PRP",
+    "state": "MA",
+    "votes": 202,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1277,
+    "fullName": "LAYDIANNE CASTRO DE OLIVEIRA COSTA",
+    "urnaName": "LAYDIANNE COSTA",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 202,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4415,
+    "fullName": "ARTUR EDUARDO MONTEIRO",
+    "urnaName": "ARTUR MONTEIRO",
+    "party": "PRP",
+    "state": "MA",
+    "votes": 199,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7081,
+    "fullName": "JOSADAIQUE SANTIAGO SOUSA",
+    "urnaName": "PASTOR SANTIAGO",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 192,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3663,
+    "fullName": "MARIA DA PURIFICAÇÃO RODRIGUES VERAS",
+    "urnaName": "VERA RODRIGUES",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 187,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1113,
+    "fullName": "ALANE KELLY FERREIRA CARDOSO",
+    "urnaName": "ALANE KELLY",
+    "party": "PP",
+    "state": "MA",
+    "votes": 183,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 9009,
+    "fullName": "DANIEL AUGUSTO SILVA GONÇALVES DE JESUS",
+    "urnaName": "DANIEL DE JESUS",
+    "party": "PROS",
+    "state": "MA",
+    "votes": 181,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5044,
+    "fullName": "MARIA ANTONIA BARROS FELIX",
+    "urnaName": "MARIA ANTONIA",
+    "party": "PSOL",
+    "state": "MA",
+    "votes": 164,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1301,
+    "fullName": "EVANDRO NONATO DE SOUSA FILHO",
+    "urnaName": "EVANDRO SOUSA",
+    "party": "PT",
+    "state": "MA",
+    "votes": 157,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2788,
+    "fullName": "JANDY WARLLY DAS CHAGAS PEREIRA",
+    "urnaName": "WARLLY",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 155,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2800,
+    "fullName": "RAIMUNDO NONATO LISBOA",
+    "urnaName": "DR. LISBOA",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 151,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3650,
+    "fullName": "SAMIA SALES SANTIAGO",
+    "urnaName": "SAMIA",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 151,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3380,
+    "fullName": "JOSE FERNANDO GONÇALVES DE SÁ",
+    "urnaName": "FERNANDO SA",
+    "party": "PMN",
+    "state": "MA",
+    "votes": 137,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1780,
+    "fullName": "HAMIN RACHID TRABULSI",
+    "urnaName": "AMIN TRABULSE",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 132,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1238,
+    "fullName": "THALIA COSTA SOUSA",
+    "urnaName": "THALIA COSTA",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 132,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2710,
+    "fullName": "ALDAMIR GARCIA SPINDOLA",
+    "urnaName": "ZE DO NORDESTE",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 127,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1320,
+    "fullName": "ANTONIO MARTINS",
+    "urnaName": "MARTINS TETEU",
+    "party": "PT",
+    "state": "MA",
+    "votes": 125,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7015,
+    "fullName": "ALEX LIMA SILVA",
+    "urnaName": "ALEX GOMES",
+    "party": "PTdoB",
+    "state": "MA",
+    "votes": 123,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1598,
+    "fullName": "JUCICLEIA PEREIRA DA PAZ",
+    "urnaName": "DA PAZ",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 117,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3644,
+    "fullName": "WALLAS SANTANA DE OLIVEIRA",
+    "urnaName": "WALLAS CASANOVA",
+    "party": "PTC",
+    "state": "MA",
+    "votes": 98,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5423,
+    "fullName": "GASPAR MORAES",
+    "urnaName": "GASPAR MORAES",
+    "party": "PPL",
+    "state": "MA",
+    "votes": 94,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1217,
+    "fullName": "VENINA DA COSTA BEZERRA",
+    "urnaName": "VENINA COSTA",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 93,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1610,
+    "fullName": "LOURDIMAR DOS SANTOS E SILVA",
+    "urnaName": "LOURDIMAR SILVA",
+    "party": "PSTU",
+    "state": "MA",
+    "votes": 88,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1730,
+    "fullName": "JOSE DOS SANTOS CONCEIÇÃO",
+    "urnaName": "ZEQUINHA DE SANTA BARBARA",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 78,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1597,
+    "fullName": "AURILENE DE JESUS SOUSA DA SILVA",
+    "urnaName": "AURILENE DE JESUS",
+    "party": "PMDB",
+    "state": "MA",
+    "votes": 73,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1340,
+    "fullName": "ANA DELCITA SANTOS JACINTO TAVARES",
+    "urnaName": "ANA SANTOS",
+    "party": "PT",
+    "state": "MA",
+    "votes": 71,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1303,
+    "fullName": "VILSON DE JESUS SILVA",
+    "urnaName": "VILSON",
+    "party": "PT",
+    "state": "MA",
+    "votes": 66,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1422,
+    "fullName": "MARIA EUNICE DA SILVA CRUZ",
+    "urnaName": "PROFESSORA EUNICE",
+    "party": "PTB",
+    "state": "MA",
+    "votes": 63,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1314,
+    "fullName": "LIANA MARA FURTADO GOMES",
+    "urnaName": "LIANA",
+    "party": "PT",
+    "state": "MA",
+    "votes": 60,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2899,
+    "fullName": "GECILDA MENDES FREITAS",
+    "urnaName": "IRMA GECILDA",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 59,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1263,
+    "fullName": "LUCIANA FERREIRA CALDAS",
+    "urnaName": "LUCIANA CALDAS",
+    "party": "PDT",
+    "state": "MA",
+    "votes": 53,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1399,
+    "fullName": "JUCIARA NEGREIROS FONTINELE FERREIRA",
+    "urnaName": "JUCIARA NEGREIROS",
+    "party": "PT",
+    "state": "MA",
+    "votes": 43,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1753,
+    "fullName": "TATIANA SANTOS PORTELA CARVALHO",
+    "urnaName": "TATIANA CARVALHO",
+    "party": "PSL",
+    "state": "MA",
+    "votes": 39,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2728,
+    "fullName": "JOSE DE RIBAMAR RIOS CAMPELO",
+    "urnaName": "JOSE CAMPELO",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 39,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2501,
+    "fullName": "MERCIAL LIMA DE ARRUDA",
+    "urnaName": "MERCIAL ARRUDA",
+    "party": "DEM",
+    "state": "MA",
+    "votes": 36,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1316,
+    "fullName": "FRANCISCO COELHO DE SOUSA",
+    "urnaName": "FRANCISCO COELHO",
+    "party": "PT",
+    "state": "MA",
+    "votes": 30,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 6520,
+    "fullName": "LAYSE SANTANA RODRIGUES",
+    "urnaName": "LAYSE RODRIGUES",
+    "party": "PCdoB",
+    "state": "MA",
+    "votes": 26,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4024,
+    "fullName": "MARIA DE FATIMA BRAGA GUIMARAES",
+    "urnaName": "FATIMA GUIMARAES",
+    "party": "PSB",
+    "state": "MA",
+    "votes": 26,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2844,
+    "fullName": "EVALDO DA SILVA LEAL",
+    "urnaName": "EVALDO LEAL",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 25,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2811,
+    "fullName": "FRANCISCO LOPES DA SILVA",
+    "urnaName": "F. SILVA",
+    "party": "PRTB",
+    "state": "MA",
+    "votes": 22,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2019,
+    "fullName": "ELIJANE CELIA CUTRIM BARROS",
+    "urnaName": "ELIJANE CUTRIM",
+    "party": "PSC",
+    "state": "MA",
+    "votes": 20,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5144,
+    "fullName": "KARLA TYARA COSTA PINTO",
+    "urnaName": "KARLA PINTO",
+    "party": "PEN",
+    "state": "MA",
+    "votes": 15,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5537,
+    "fullName": "ALDILENE SILVA FERREIRA",
+    "urnaName": "LENNY",
+    "party": "PSD",
+    "state": "MA",
+    "votes": 5,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5538,
+    "fullName": "MARIA DE FÁTIMA TEIXEIRA DE SOUSA",
+    "urnaName": "FATIMA",
+    "party": "PSD",
+    "state": "MA",
+    "votes": 4,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2730,
+    "fullName": "HENRIQUE FURTADO PERLMUTTER",
+    "urnaName": "HENRIQUE PERLMUTTER",
+    "party": "PSDC",
+    "state": "MA",
+    "votes": 2,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  }
+]

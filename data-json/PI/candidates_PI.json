@@ -1,0 +1,1455 @@
+[
+  {
+    "candidate": 1311,
+    "fullName": "REJANE RIBEIRO SOUSA DIAS",
+    "urnaName": "REJANE DIAS",
+    "party": "PT",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 134157,
+    "pct": 7.73,
+    "individual": false,
+    "quoc": 0.77,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "ATILA FREITAS LIRA",
+    "urnaName": "ATILA LIRA",
+    "party": "PSB",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 129276,
+    "pct": 7.45,
+    "individual": false,
+    "quoc": 0.74,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1111,
+    "fullName": "IRACEMA MARIA PORTELLA NUNES NOGUEIRA LIMA",
+    "urnaName": "IRACEMA PORTELLA",
+    "party": "PP",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 121121,
+    "pct": 6.98,
+    "individual": false,
+    "quoc": 0.7,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "MARCELO COSTA E CASTRO",
+    "urnaName": "MARCELO CASTRO",
+    "party": "PMDB",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 111132,
+    "pct": 6.4,
+    "individual": false,
+    "quoc": 0.64,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5555,
+    "fullName": "JULIO CESAR DE CARVALHO LIMA",
+    "urnaName": "JULIO CESAR",
+    "party": "PSD",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 99750,
+    "pct": 5.75,
+    "individual": false,
+    "quoc": 0.57,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "FRANCISCO DE ASSIS CARVALHO GONÇALVES",
+    "urnaName": "ASSIS CARVALHO",
+    "party": "PT",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 94093,
+    "pct": 5.42,
+    "individual": false,
+    "quoc": 0.54,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4041,
+    "fullName": "RODRIGO RODRIGUES DE SOUZA MARTINS",
+    "urnaName": "RODRIGO",
+    "party": "PSB",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 92349,
+    "pct": 5.32,
+    "individual": false,
+    "quoc": 0.53,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 4036,
+    "fullName": "HERACLITO DE SOUSA FORTES",
+    "urnaName": "HERACLITO",
+    "party": "PSB",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 90898,
+    "pct": 5.24,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1212,
+    "fullName": "FLAVIO RODRIGUES NOGUEIRA",
+    "urnaName": "FLAVIO NOGUEIRA",
+    "party": "PDT",
+    "state": "PI",
+    "votes": 88765,
+    "pct": 5.11,
+    "individual": false,
+    "quoc": 0.51,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1410,
+    "fullName": "JOSÉ FRANCISCO PAES LANDIM",
+    "urnaName": "PAES LANDIM",
+    "party": "PTB",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 82549,
+    "pct": 4.75,
+    "individual": false,
+    "quoc": 0.48,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1490,
+    "fullName": "FÁBIO ABREU COSTA",
+    "urnaName": "CAPITAO FABIO ABREU",
+    "party": "PTB",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 80839,
+    "pct": 4.66,
+    "individual": false,
+    "quoc": 0.47,
+    "status": {
+      "geral": "winner",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1511,
+    "fullName": "MARLLOS ROSSANO RIBEIRO GONÇALVES DE SAMPAIO",
+    "urnaName": "MARLLOS SAMPAIO",
+    "party": "PMDB",
+    "state": "PI",
+    "votes": 77230,
+    "pct": 4.45,
+    "individual": false,
+    "quoc": 0.44,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2222,
+    "fullName": "SILAS FREIRE PEREIRA E SILVA",
+    "urnaName": "SILAS FREIRE",
+    "party": "PR",
+    "state": "PI",
+    "votes": 75596,
+    "pct": 4.35,
+    "individual": false,
+    "quoc": 0.44,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 6565,
+    "fullName": "OSMAR RIBEIRO DE ALMEIDA JÚNIOR",
+    "urnaName": "OSMAR JUNIOR",
+    "party": "PCdoB",
+    "state": "PI",
+    "votes": 69705,
+    "pct": 4.01,
+    "individual": false,
+    "quoc": 0.4,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 5500,
+    "fullName": "HUGO NAPOLEÃO DO REGO NETO",
+    "urnaName": "HUGO NAPOLEAO",
+    "party": "PSD",
+    "state": "PI",
+    "votes": 59977,
+    "pct": 3.45,
+    "individual": false,
+    "quoc": 0.35,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1333,
+    "fullName": "MERLONG SOLANO NOGUEIRA",
+    "urnaName": "MERLONG SOLANO",
+    "party": "PT",
+    "state": "PI",
+    "votes": 45824,
+    "pct": 2.64,
+    "individual": false,
+    "quoc": 0.26,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 7777,
+    "fullName": "JOSÉ DE ANDRADE MAIA FILHO",
+    "urnaName": "MAINHA",
+    "party": "SD",
+    "state": "PI",
+    "votes": 30419,
+    "pct": 1.75,
+    "individual": false,
+    "quoc": 0.18,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 13,
+    "party": "PT",
+    "state": "PI",
+    "votes": 28627,
+    "pct": 1.65,
+    "individual": false,
+    "quoc": 0.16,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 14,
+    "party": "PTB",
+    "state": "PI",
+    "votes": 28505,
+    "pct": 1.64,
+    "individual": false,
+    "quoc": 0.16,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 40,
+    "party": "PSB",
+    "state": "PI",
+    "votes": 23207,
+    "pct": 1.34,
+    "individual": false,
+    "quoc": 0.13,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1000,
+    "fullName": "IDONEIL SANTANA MESQUITA",
+    "urnaName": "IDONEIL MESQUITA",
+    "party": "PRB",
+    "state": "PI",
+    "votes": 21553,
+    "pct": 1.24,
+    "individual": false,
+    "quoc": 0.12,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1414,
+    "fullName": "JOVENILIA ALVES DE OLIVEIRA MONTEIRO",
+    "urnaName": "JOVE OLIVEIRA",
+    "party": "PTB",
+    "state": "PI",
+    "votes": 15664,
+    "pct": 0.9,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 45,
+    "party": "PSDB",
+    "state": "PI",
+    "votes": 12623,
+    "pct": 0.73,
+    "individual": false,
+    "quoc": 0.07,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 15,
+    "party": "PMDB",
+    "state": "PI",
+    "votes": 10723,
+    "pct": 0.62,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1300,
+    "fullName": "GILBERTO DA PAIXÃO FONSECA",
+    "urnaName": "PAIXAO",
+    "party": "PT",
+    "state": "PI",
+    "votes": 10464,
+    "pct": 0.6,
+    "individual": false,
+    "quoc": 0.06,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 12,
+    "party": "PDT",
+    "state": "PI",
+    "votes": 8727,
+    "pct": 0.5,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1345,
+    "fullName": "EDILBERTO BORGES DE OLIVEIRA",
+    "urnaName": "DUDU",
+    "party": "PT",
+    "state": "PI",
+    "votes": 7624,
+    "pct": 0.44,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 11,
+    "party": "PP",
+    "state": "PI",
+    "votes": 6600,
+    "pct": 0.38,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 55,
+    "party": "PSD",
+    "state": "PI",
+    "votes": 4792,
+    "pct": 0.28,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 3131,
+    "fullName": "GONÇALO MANOEL DA SILVA",
+    "urnaName": "GONCALINHO",
+    "party": "PHS",
+    "state": "PI",
+    "votes": 3340,
+    "pct": 0.19,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4000,
+    "fullName": "JOSE GERALDO ALENCAR FILHO",
+    "urnaName": "GERALDINHO",
+    "party": "PSB",
+    "state": "PI",
+    "votes": 2479,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 2323,
+    "fullName": "CELSO HENRIQUE BARBOSA LIMA",
+    "urnaName": "CELSO HENRIQUE",
+    "party": "PPS",
+    "state": "PI",
+    "votes": 2475,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3100,
+    "fullName": "SAMIO FALCAO MENDES",
+    "urnaName": "SAMIO FALCAO",
+    "party": "PHS",
+    "state": "PI",
+    "votes": 2455,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 65,
+    "party": "PCdoB",
+    "state": "PI",
+    "votes": 2417,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1234,
+    "fullName": "JOSE REINALDO DA SILVA",
+    "urnaName": "JOSE REINALDO",
+    "party": "PDT",
+    "state": "PI",
+    "votes": 2141,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 44,
+    "party": "PRP",
+    "state": "PI",
+    "votes": 2120,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4400,
+    "fullName": "HEITOR HUGO SANTOS DE ALMONDES",
+    "urnaName": "HEITOR ALMONDES",
+    "party": "PRP",
+    "state": "PI",
+    "votes": 1912,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 9090,
+    "fullName": "ROMILDO MACÊDO MAFRA",
+    "urnaName": "ROMILDO MAFRA",
+    "party": "PROS",
+    "state": "PI",
+    "votes": 1899,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 10,
+    "party": "PRB",
+    "state": "PI",
+    "votes": 1866,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3123,
+    "fullName": "EDILSON DA COSTA ARAUJO",
+    "urnaName": "EDILSON ARAUJO",
+    "party": "PHS",
+    "state": "PI",
+    "votes": 1752,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1555,
+    "fullName": "FRANCISCO TOMAZ TEIXEIRA",
+    "urnaName": "TOMAZ TEIXEIRA",
+    "party": "PMDB",
+    "state": "PI",
+    "votes": 1733,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1011,
+    "fullName": "JOSE HILMAR GOMES DA SILVA",
+    "urnaName": "HILMAR DO FRIGORIFICO",
+    "party": "PRB",
+    "state": "PI",
+    "votes": 1483,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1617,
+    "fullName": "VERÔNICA VIANA DE SOUSA",
+    "urnaName": "VERONICA VIANA",
+    "party": "PSTU",
+    "state": "PI",
+    "votes": 1447,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 50,
+    "party": "PSOL",
+    "state": "PI",
+    "votes": 1388,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5051,
+    "fullName": "MARIA MADALENA NUNES",
+    "urnaName": "MADALENA NUNES",
+    "party": "PSOL",
+    "state": "PI",
+    "votes": 1339,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3677,
+    "fullName": "ANTONIO ALMEIDA DE SOUSA",
+    "urnaName": "TOIM DUFRANGO",
+    "party": "PTC",
+    "state": "PI",
+    "votes": 1266,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 22,
+    "party": "PR",
+    "state": "PI",
+    "votes": 1180,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5444,
+    "fullName": "FRANCISCO OLIVEIRA DA SILVA",
+    "urnaName": "OLIVEIRA",
+    "party": "PPL",
+    "state": "PI",
+    "votes": 1167,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 31,
+    "party": "PHS",
+    "state": "PI",
+    "votes": 1160,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 36,
+    "party": "PTC",
+    "state": "PI",
+    "votes": 1159,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3122,
+    "fullName": "CARLOS HENRIQUE DE FREITAS ROCHA",
+    "urnaName": "CASIK ROCHA",
+    "party": "PHS",
+    "state": "PI",
+    "votes": 1141,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1616,
+    "fullName": "JULLYANE ALVES TEIXEIRA",
+    "urnaName": "JULLYANE TEIXEIRA",
+    "party": "PSTU",
+    "state": "PI",
+    "votes": 1129,
+    "pct": 0.07,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 43,
+    "party": "PV",
+    "state": "PI",
+    "votes": 1122,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1322,
+    "fullName": "ANA LETICIA LEMOS PEDREIRA ALVARENGA",
+    "urnaName": "ANA LETICIA",
+    "party": "PT",
+    "state": "PI",
+    "votes": 1075,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5010,
+    "fullName": "CARIOLANDO PEREIRA DE FRANÇA",
+    "urnaName": "MINAS DE FRANCA",
+    "party": "PSOL",
+    "state": "PI",
+    "votes": 1042,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1010,
+    "fullName": "CARLA SOARES SANTOS",
+    "urnaName": "CARLA SOARES",
+    "party": "PRB",
+    "state": "PI",
+    "votes": 1004,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4444,
+    "fullName": "LAECIO DE SOUSA BORGES",
+    "urnaName": "LAECIO BORGES",
+    "party": "PRP",
+    "state": "PI",
+    "votes": 979,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 23,
+    "party": "PPS",
+    "state": "PI",
+    "votes": 961,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 51,
+    "party": "PEN",
+    "state": "PI",
+    "votes": 947,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2345,
+    "fullName": "RAIMUNDA NONATA GOMES",
+    "urnaName": "RAIMUNDINHA RISOLETA",
+    "party": "PPS",
+    "state": "PI",
+    "votes": 934,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 20,
+    "party": "PSC",
+    "state": "PI",
+    "votes": 918,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2580,
+    "fullName": "JOSÉ MARIA DO NASCIMENTO",
+    "urnaName": "ZEZE",
+    "party": "DEM",
+    "state": "PI",
+    "votes": 894,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 33,
+    "party": "PMN",
+    "state": "PI",
+    "votes": 889,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4333,
+    "fullName": "ALICE LOPES DE ANDRADE E SILVA LEBRE",
+    "urnaName": "ALICE ANDRADE",
+    "party": "PV",
+    "state": "PI",
+    "votes": 885,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 77,
+    "party": "SD",
+    "state": "PI",
+    "votes": 856,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4311,
+    "fullName": "MARIA DE JESUS SILVA",
+    "urnaName": "JESUS SILVA",
+    "party": "PV",
+    "state": "PI",
+    "votes": 828,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 90,
+    "party": "PROS",
+    "state": "PI",
+    "votes": 764,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2010,
+    "fullName": "JULIA ALVES DE AQUINO",
+    "urnaName": "JULIA AQUINO",
+    "party": "PSC",
+    "state": "PI",
+    "votes": 755,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 16,
+    "party": "PSTU",
+    "state": "PI",
+    "votes": 733,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 25,
+    "party": "DEM",
+    "state": "PI",
+    "votes": 724,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1400,
+    "fullName": "ELIANE TEREZINHA QUEIROGA MOREIRA",
+    "urnaName": "ELIANE",
+    "party": "PTB",
+    "state": "PI",
+    "votes": 686,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5050,
+    "fullName": "FRANCISCO DAS CHAGAS MENDES DA SILVA",
+    "urnaName": "CHICO LEAO",
+    "party": "PSOL",
+    "state": "PI",
+    "votes": 662,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4345,
+    "fullName": "ROQUE CARVALHO LAGES",
+    "urnaName": "ROQUE LAGES",
+    "party": "PV",
+    "state": "PI",
+    "votes": 658,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5123,
+    "fullName": "ANTONIO FRANCISCO GOMES DE CASTRO",
+    "urnaName": "CHICO PANCA",
+    "party": "PEN",
+    "state": "PI",
+    "votes": 651,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 70,
+    "party": "PTdoB",
+    "state": "PI",
+    "votes": 628,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2727,
+    "fullName": "EDINA CRUZ DE SOUSA LIMA",
+    "urnaName": "EDINA CRUZ",
+    "party": "PSDC",
+    "state": "PI",
+    "votes": 625,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4343,
+    "fullName": "CLEOPLÍNIO DIAS DA SILVA",
+    "urnaName": "CLEOPLINIO DIAS",
+    "party": "PV",
+    "state": "PI",
+    "votes": 586,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3699,
+    "fullName": "JOSE MILTON DA SILVA",
+    "urnaName": "MILTON",
+    "party": "PTC",
+    "state": "PI",
+    "votes": 582,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 54,
+    "party": "PPL",
+    "state": "PI",
+    "votes": 557,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4321,
+    "fullName": "FRANCISCO ALEXANDRE BRANDÃO CARDOSO",
+    "urnaName": "CHIQUIM BRANDAO",
+    "party": "PV",
+    "state": "PI",
+    "votes": 533,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 19,
+    "party": "PTN",
+    "state": "PI",
+    "votes": 531,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 17,
+    "party": "PSL",
+    "state": "PI",
+    "votes": 499,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5122,
+    "fullName": "ALLAN KARDEK DE OLIVEIRA ARAÚJO",
+    "urnaName": "ALLAN KARDEK",
+    "party": "PEN",
+    "state": "PI",
+    "votes": 490,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7085,
+    "fullName": "CHEILA MARIA GOMES DA SILVA",
+    "urnaName": "PROFª CHEILA GOMES",
+    "party": "PTdoB",
+    "state": "PI",
+    "votes": 472,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 21,
+    "party": "PCB",
+    "state": "PI",
+    "votes": 464,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2121,
+    "fullName": "EDILSON NETE RODRIGUES SANTOS",
+    "urnaName": "EDILSON NETE",
+    "party": "PCB",
+    "state": "PI",
+    "votes": 461,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5400,
+    "fullName": "WILSON DAS CHAGAS SILVA",
+    "urnaName": "WILSON SILVA",
+    "party": "PPL",
+    "state": "PI",
+    "votes": 457,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4411,
+    "fullName": "NIXON DÁRIO LAGES TELES DE OLIVEIRA",
+    "urnaName": "NIXON DARIO",
+    "party": "PRP",
+    "state": "PI",
+    "votes": 453,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4377,
+    "fullName": "LINDOMAR GERVÁSIO DE SOUSA",
+    "urnaName": "LINDOMAR",
+    "party": "PV",
+    "state": "PI",
+    "votes": 420,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4300,
+    "fullName": "ALEXANDRE JOSÉ SÁ DE OLIVEIRA",
+    "urnaName": "ALEXANDRE SA",
+    "party": "PV",
+    "state": "PI",
+    "votes": 418,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7012,
+    "fullName": "BELIZÁRIO DE OLIVEIRA CASTRO",
+    "urnaName": "BELIZARIO NETO",
+    "party": "PTdoB",
+    "state": "PI",
+    "votes": 404,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4433,
+    "fullName": "ELIEZER DEVEZA MENDES",
+    "urnaName": "GALEGO",
+    "party": "PRP",
+    "state": "PI",
+    "votes": 339,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4413,
+    "fullName": "NAZAMARA BORGES RESENDE",
+    "urnaName": "NAZAMARA",
+    "party": "PRP",
+    "state": "PI",
+    "votes": 328,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5433,
+    "fullName": "BRENDA CECILIA QUEIROZ DE MELO",
+    "urnaName": "BRENDA MELO",
+    "party": "PPL",
+    "state": "PI",
+    "votes": 326,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4334,
+    "fullName": "JOSÉ DE RIBAMAR DE SOUSA ROCHA",
+    "urnaName": "JOSE RIBAMAR ROCHA",
+    "party": "PV",
+    "state": "PI",
+    "votes": 322,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1444,
+    "fullName": "VALMIR PAZ GIL",
+    "urnaName": "VALMIR PAZ",
+    "party": "PTB",
+    "state": "PI",
+    "votes": 320,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4455,
+    "fullName": "MARIA DO ROSARIO DE FATIMA VITORINO DA SILVA",
+    "urnaName": "ROSARIA VITORINO",
+    "party": "PRP",
+    "state": "PI",
+    "votes": 313,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2077,
+    "fullName": "AFRANIO GOMES DE SENA",
+    "urnaName": "AFRANIO GOMES",
+    "party": "PSC",
+    "state": "PI",
+    "votes": 312,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5445,
+    "fullName": "MARIA DA PURIFICAÇÃO CARVALHO LIMA DE ALENCAR",
+    "urnaName": "PROFESSORA PURIFICACAO",
+    "party": "PPL",
+    "state": "PI",
+    "votes": 305,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5522,
+    "fullName": "SEMIRAMES DE GUADALUPE MOTA SOUSA",
+    "urnaName": "MIRIAN DA AGENCIA",
+    "party": "PSD",
+    "state": "PI",
+    "votes": 300,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1416,
+    "fullName": "RAIMUNDO ALCEMIR DA SILVA",
+    "urnaName": "RAIMUNDO PAQUETA",
+    "party": "PTB",
+    "state": "PI",
+    "votes": 298,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 27,
+    "party": "PSDC",
+    "state": "PI",
+    "votes": 270,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2533,
+    "fullName": "FILINTRO LURA DE SÁ NETO",
+    "urnaName": "CABO FILINTRO NETO",
+    "party": "DEM",
+    "state": "PI",
+    "votes": 265,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4322,
+    "fullName": "RITA DE CÁSSIA FERREIRA DE SOUSA",
+    "urnaName": "RITA DE CASSIA",
+    "party": "PV",
+    "state": "PI",
+    "votes": 211,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3199,
+    "fullName": "FRANCISCO HILTON NASCIMENTO",
+    "urnaName": "HILTON NASCIMENTO",
+    "party": "PHS",
+    "state": "PI",
+    "votes": 209,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1600,
+    "fullName": "HALLYSSON FERREIRA DIAS MONTEIRO",
+    "urnaName": "HALLYSSON",
+    "party": "PSTU",
+    "state": "PI",
+    "votes": 183,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3301,
+    "fullName": "CRHISTIANE LOURDES DE OLIVEIRA MACÊDO",
+    "urnaName": "CRHISTIANE LOURDES",
+    "party": "PMN",
+    "state": "PI",
+    "votes": 172,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4340,
+    "fullName": "AURICELIA SOUSA OLIVEIRA",
+    "urnaName": "AURICELIA",
+    "party": "PV",
+    "state": "PI",
+    "votes": 166,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3134,
+    "fullName": "MARTA MARIA DE ARAÚJO DA SILVA",
+    "urnaName": "MARTA",
+    "party": "PHS",
+    "state": "PI",
+    "votes": 154,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3636,
+    "fullName": "THUYLA KAYNARA DE OLIVEIRA MARTINS",
+    "urnaName": "THUYLA MARTINS",
+    "party": "PTC",
+    "state": "PI",
+    "votes": 150,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2112,
+    "fullName": "FAUSTO LUIZ DUARTE RIPARDO",
+    "urnaName": "FAUSTO RIPARDO",
+    "party": "PCB",
+    "state": "PI",
+    "votes": 141,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3300,
+    "fullName": "ANTONIO DE PADUA DO REGO MONTEIRO",
+    "urnaName": "PADUA REGO",
+    "party": "PMN",
+    "state": "PI",
+    "votes": 96,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5021,
+    "fullName": "CLEIDE NÁLIA DE SOUSA LOPES",
+    "urnaName": "CLEIDE NALIA",
+    "party": "PSOL",
+    "state": "PI",
+    "votes": 91,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3311,
+    "fullName": "JOSÉ JOÃO DA SILVA",
+    "urnaName": "JOSE JOAO",
+    "party": "PMN",
+    "state": "PI",
+    "votes": 80,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1919,
+    "fullName": "DAVI DE SOUSA SILVA",
+    "urnaName": "DAVI SILVA",
+    "party": "PTN",
+    "state": "PI",
+    "votes": 46,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3135,
+    "fullName": "EVA GOMES DA SILVA",
+    "urnaName": "EVA",
+    "party": "PHS",
+    "state": "PI",
+    "votes": 32,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2532,
+    "fullName": "RAIMUNDA NASCIMENTO SANTOS",
+    "urnaName": "RAIMUNDA",
+    "party": "DEM",
+    "state": "PI",
+    "votes": 15,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 6578,
+    "fullName": "DIANA REIS LIMA DA CUNHA",
+    "urnaName": "DIANA REIS",
+    "party": "PCdoB",
+    "state": "PI",
+    "votes": 9,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  }
+]

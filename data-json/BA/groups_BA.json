@@ -1,0 +1,160 @@
+[
+  {
+    "name": "MAIS MUDANÇAS, NOVAS CONQUISTAS",
+    "parties": [
+      "PP",
+      "PDT",
+      "PT",
+      "PTB",
+      "PR",
+      "PSD",
+      "PCdoB"
+    ],
+    "votes": 3594897,
+    "quoc": 20.869502368567712,
+    "positions": 22,
+    "countNeeds": 21,
+    "totalNeedVotes": 1398944,
+    "countExtra": 45,
+    "totalExtraVotes": 1376465,
+    "hasMore": false,
+    "pctLess": 0.016068548848274126
+  },
+  {
+    "name": "UNIDOS POR UMA BAHIA MELHOR",
+    "parties": [
+      "DEM",
+      "PMDB",
+      "PSDB",
+      "PTN",
+      "SD",
+      "PROS",
+      "PRB",
+      "PSC"
+    ],
+    "votes": 2384861,
+    "quoc": 13.844864620100315,
+    "positions": 14,
+    "countNeeds": 8,
+    "totalNeedVotes": 494783,
+    "countExtra": 70,
+    "totalExtraVotes": 1329340,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "UM NOVO CAMINHO PARA A BAHIA",
+    "parties": [
+      "PSB",
+      "PSL",
+      "PPL"
+    ],
+    "votes": 301552,
+    "quoc": 1.7506037525543376,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 76122,
+    "countExtra": 29,
+    "totalExtraVotes": 205418,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "JUNTOS SOMOS FORTES",
+    "parties": [
+      "PPS",
+      "PSDC",
+      "PTC",
+      "PV",
+      "PRP",
+      "PTdoB"
+    ],
+    "votes": 257626,
+    "quoc": 1.4955995727289615,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 132352,
+    "countExtra": 71,
+    "totalExtraVotes": 217722,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "51 - PEN",
+    "parties": [
+      "PEN"
+    ],
+    "votes": 77857,
+    "quoc": 0.45198425599108305,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 24,
+    "totalExtraVotes": 77857
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 53609,
+    "quoc": 0.3112170258220323,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 33,
+    "totalExtraVotes": 53609
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 23392,
+    "quoc": 0.1357978822218094,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 25,
+    "totalExtraVotes": 23392
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 9991,
+    "quoc": 0.05800088240757942,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 9991
+  },
+  {
+    "name": "31 - PHS",
+    "parties": [
+      "PHS"
+    ],
+    "votes": 7268,
+    "quoc": 0.04219301504737136,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 7268
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 6918,
+    "quoc": 0.040161155489504,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 6918
+  }
+]

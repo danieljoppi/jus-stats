@@ -1,0 +1,165 @@
+[
+  {
+    "name": "PRA FRENTE MARANHÃO 1",
+    "parties": [
+      "PMDB",
+      "DEM",
+      "PTB",
+      "PV",
+      "PRB",
+      "PR"
+    ],
+    "votes": 1005868,
+    "quoc": 5.75897309645542,
+    "positions": 6,
+    "countNeeds": 6,
+    "totalNeedVotes": 487107,
+    "countExtra": 34,
+    "totalExtraVotes": 445009,
+    "hasMore": false,
+    "pctLess": 0.08642454327283328
+  },
+  {
+    "name": "TODOS PELO MARANHÃO 3",
+    "parties": [
+      "SD",
+      "PP",
+      "PCdoB",
+      "PPS",
+      "PSDB",
+      "PSB"
+    ],
+    "votes": 813418,
+    "quoc": 4.657124372355591,
+    "positions": 5,
+    "countNeeds": 3,
+    "totalNeedVotes": 271351,
+    "countExtra": 38,
+    "totalExtraVotes": 560786,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "DEMOCRATA TRABALHISTA",
+    "parties": [
+      "PSL",
+      "PSDC",
+      "PRP",
+      "PTN",
+      "PRTB"
+    ],
+    "votes": 374579,
+    "quoc": 2.1446058364488922,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 214709,
+    "countExtra": 56,
+    "totalExtraVotes": 239966,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "TODOS PELO MARANHÃO 2",
+    "parties": [
+      "PDT",
+      "PTC",
+      "PROS"
+    ],
+    "votes": 326550,
+    "quoc": 1.8696217243689204,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 93500,
+    "countExtra": 38,
+    "totalExtraVotes": 245389,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "POR UM MARANHÃO MAIS FORTE",
+    "parties": [
+      "PEN",
+      "PMN",
+      "PHS",
+      "PSC",
+      "PTdoB"
+    ],
+    "votes": 321756,
+    "quoc": 1.8421742690125442,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 241481,
+    "countExtra": 34,
+    "totalExtraVotes": 213915,
+    "hasMore": false,
+    "pctLess": 0.11415390858908155
+  },
+  {
+    "name": "PRA SEGUIR EM FRENTE COM MUITO MAIS MUDANÇA",
+    "parties": [
+      "PT",
+      "PSD"
+    ],
+    "votes": 274100,
+    "quoc": 1.5693257223993908,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 84130,
+    "countExtra": 29,
+    "totalExtraVotes": 183569,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 10203,
+    "quoc": 0.0584160173135388,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 10203
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 7501,
+    "quoc": 0.04294604977642404,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 7501
+  },
+  {
+    "name": "54 - PPL",
+    "parties": [
+      "PPL"
+    ],
+    "votes": 6287,
+    "quoc": 0.03599544260023703,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 6287
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 3637,
+    "quoc": 0.020823194645627815,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 3637
+  }
+]

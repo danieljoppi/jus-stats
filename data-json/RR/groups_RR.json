@@ -1,0 +1,132 @@
+[
+  {
+    "name": "RORAIMA SEMPRE",
+    "parties": [
+      "PSDB",
+      "PR",
+      "PRB",
+      "PSD",
+      "SD",
+      "PROS",
+      "PRP",
+      "PMDB",
+      "PSB",
+      "PTN"
+    ],
+    "votes": 135305,
+    "quoc": 4.38462037007032,
+    "positions": 4,
+    "countNeeds": 2,
+    "totalNeedVotes": 38947,
+    "countExtra": 31,
+    "totalExtraVotes": 81675,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "MAIS RORAIMA",
+    "parties": [
+      "PRTB",
+      "PHS",
+      "PPL",
+      "PMN",
+      "PEN",
+      "PSDC",
+      "PTdoB",
+      "PSC",
+      "PSL",
+      "PPS"
+    ],
+    "votes": 51987,
+    "quoc": 1.6846624971645225,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 24126,
+    "countExtra": 33,
+    "totalExtraVotes": 45254,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "RORAIMA LIVRE E FELIZ",
+    "parties": [
+      "PT",
+      "PDT",
+      "PV",
+      "PTC",
+      "PCdoB"
+    ],
+    "votes": 38564,
+    "quoc": 1.24968404679348,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 28,
+    "totalExtraVotes": 38564
+  },
+  {
+    "name": "11 - PP",
+    "parties": [
+      "PP"
+    ],
+    "votes": 18691,
+    "quoc": 0.6056903982630675,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 7,
+    "totalExtraVotes": 18691
+  },
+  {
+    "name": "14 - PTB",
+    "parties": [
+      "PTB"
+    ],
+    "votes": 1076,
+    "quoc": 0.03486827181697398,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1076
+  },
+  {
+    "name": "25 - DEM",
+    "parties": [
+      "DEM"
+    ],
+    "votes": 596,
+    "quoc": 0.01931365241906737,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 596
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 498,
+    "quoc": 0.016137917625328107,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 498
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 152,
+    "quoc": 0.004925629476003759,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 152
+  }
+]

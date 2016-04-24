@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Frente Popular do Acre II",
+    "parties": [
+      "PT",
+      "PEN",
+      "PROS",
+      "PDT",
+      "PTB",
+      "PSL",
+      "PTN",
+      "PSDC",
+      "PHS",
+      "PSB",
+      "PRP",
+      "PPL",
+      "PRB",
+      "PCdoB"
+    ],
+    "votes": 205333,
+    "quoc": 4.114889779559118,
+    "positions": 5,
+    "countNeeds": 5,
+    "totalNeedVotes": 126034,
+    "countExtra": 32,
+    "totalExtraVotes": 81867,
+    "hasMore": false,
+    "pctLess": 0.3504371836171192
+  },
+  {
+    "name": "Aliança Por Um Acre Melhor I - Federal",
+    "parties": [
+      "PP",
+      "PMDB",
+      "PSC",
+      "PR",
+      "PPS",
+      "PTC",
+      "PSDB",
+      "PSD",
+      "PTdoB",
+      "SD"
+    ],
+    "votes": 163800,
+    "quoc": 3.282565130260521,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 57962,
+    "countExtra": 31,
+    "totalExtraVotes": 121962,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "25 - DEM",
+    "parties": [
+      "DEM"
+    ],
+    "votes": 23727,
+    "quoc": 0.47549098196392786,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 9,
+    "totalExtraVotes": 23727
+  },
+  {
+    "name": "43 - PV",
+    "parties": [
+      "PV"
+    ],
+    "votes": 4358,
+    "quoc": 0.08733466933867735,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 4358
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 1346,
+    "quoc": 0.026973947895791585,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1346
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 637,
+    "quoc": 0.012765531062124249,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 637
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "name": "PIAUI NO CORAÇÃO II",
+    "parties": [
+      "PMDB",
+      "PTN",
+      "PTC",
+      "PDT",
+      "PSB",
+      "PSD",
+      "PRB",
+      "DEM",
+      "PSDC",
+      "PTdoB",
+      "PCdoB",
+      "PPS",
+      "PSDB"
+    ],
+    "votes": 926540,
+    "quoc": 5.336474220153896,
+    "positions": 5,
+    "countNeeds": 5,
+    "totalNeedVotes": 344715,
+    "countExtra": 37,
+    "totalExtraVotes": 403135,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "A VITÓRIA COM A FORÇA DO POVO",
+    "parties": [
+      "PT",
+      "PP",
+      "PTB",
+      "PHS",
+      "PR",
+      "PROS",
+      "PRP",
+      "SD"
+    ],
+    "votes": 785847,
+    "quoc": 4.526142699166014,
+    "positions": 5,
+    "countNeeds": 5,
+    "totalNeedVotes": 355361,
+    "countExtra": 32,
+    "totalExtraVotes": 273088,
+    "hasMore": false,
+    "pctLess": 0.23151949707480562
+  },
+  {
+    "name": "43 - PV",
+    "parties": [
+      "PV"
+    ],
+    "votes": 6149,
+    "quoc": 0.035415610745058286,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 6149
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 4522,
+    "quoc": 0.026044786435055062,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 4522
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 3492,
+    "quoc": 0.020112426853430402,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 3492
+  },
+  {
+    "name": "54 - PPL",
+    "parties": [
+      "PPL"
+    ],
+    "votes": 2812,
+    "quoc": 0.016195917615076258,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 2812
+  },
+  {
+    "name": "51 - PEN",
+    "parties": [
+      "PEN"
+    ],
+    "votes": 2088,
+    "quoc": 0.012025987190710961,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 2088
+  },
+  {
+    "name": "20 - PSC",
+    "parties": [
+      "PSC"
+    ],
+    "votes": 1985,
+    "quoc": 0.011432751232548496,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1985
+  },
+  {
+    "name": "33 - PMN",
+    "parties": [
+      "PMN"
+    ],
+    "votes": 1237,
+    "quoc": 0.007124591070358936,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 1237
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 1066,
+    "quoc": 0.006139704188361056,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1066
+  },
+  {
+    "name": "17 - PSL",
+    "parties": [
+      "PSL"
+    ],
+    "votes": 499,
+    "quoc": 0.0028740266322628207,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 1,
+    "totalExtraVotes": 499
+  }
+]

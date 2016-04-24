@@ -1,0 +1,268 @@
+[
+  {
+    "name": "PMDB - PP - PSC - PSD - PTB",
+    "parties": [
+      "PMDB",
+      "PP",
+      "PSC",
+      "PSD",
+      "PTB"
+    ],
+    "votes": 2760410,
+    "quoc": 16.2790738818645,
+    "positions": 17,
+    "countNeeds": 16,
+    "totalNeedVotes": 1424090,
+    "countExtra": 76,
+    "totalExtraVotes": 962708,
+    "hasMore": false,
+    "pctLess": 0.3239837369829154
+  },
+  {
+    "name": "PR E PROS",
+    "parties": [
+      "PR",
+      "PROS"
+    ],
+    "votes": 1240865,
+    "quoc": 7.3178017078694095,
+    "positions": 8,
+    "countNeeds": 6,
+    "totalNeedVotes": 693302,
+    "countExtra": 72,
+    "totalExtraVotes": 747191,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "FRENTE POPULAR I",
+    "parties": [
+      "PT",
+      "PSB",
+      "PCdoB"
+    ],
+    "votes": 990402,
+    "quoc": 5.840736459709379,
+    "positions": 6,
+    "countNeeds": 6,
+    "totalNeedVotes": 674185,
+    "countExtra": 71,
+    "totalExtraVotes": 647179,
+    "hasMore": false,
+    "pctLess": 0.040057254314468584
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 532803,
+    "quoc": 3.1421199754670694,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 144535,
+    "countExtra": 45,
+    "totalExtraVotes": 168634,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "PACTO PELO RIO DE JANEIRO E O BRASIL",
+    "parties": [
+      "PSDB",
+      "PPS",
+      "DEM"
+    ],
+    "votes": 418886,
+    "quoc": 2.470312794866956,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 179571,
+    "countExtra": 87,
+    "totalExtraVotes": 259321,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "10 - PRB",
+    "parties": [
+      "PRB"
+    ],
+    "votes": 396782,
+    "quoc": 2.339958010945461,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 113363,
+    "countExtra": 60,
+    "totalExtraVotes": 171009,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "RIO SOLIDÁRIO",
+    "parties": [
+      "SD",
+      "PSL"
+    ],
+    "votes": 378812,
+    "quoc": 2.233982826948481,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 245318,
+    "countExtra": 78,
+    "totalExtraVotes": 284994,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "12 - PDT",
+    "parties": [
+      "PDT"
+    ],
+    "votes": 270084,
+    "quoc": 1.5927769390451028,
+    "positions": 2,
+    "countNeeds": 1,
+    "totalNeedVotes": 122198,
+    "countExtra": 47,
+    "totalExtraVotes": 222714,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "POR UM RIO MELHOR",
+    "parties": [
+      "PSDC",
+      "PMN",
+      "PTC"
+    ],
+    "votes": 193830,
+    "quoc": 1.1430812417437253,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 85,
+    "totalExtraVotes": 193830
+  },
+  {
+    "name": "RENOVA RIO",
+    "parties": [
+      "PRP",
+      "PRTB",
+      "PPL"
+    ],
+    "votes": 181801,
+    "quoc": 1.0721421494621626,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 143042,
+    "countExtra": 71,
+    "totalExtraVotes": 155275,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "31 - PHS",
+    "parties": [
+      "PHS"
+    ],
+    "votes": 132491,
+    "quoc": 0.7813443574259294,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 66,
+    "totalExtraVotes": 132491
+  },
+  {
+    "name": "51 - PEN",
+    "parties": [
+      "PEN"
+    ],
+    "votes": 101516,
+    "quoc": 0.5986742781656916,
+    "positions": 1,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 56,
+    "totalExtraVotes": 101516
+  },
+  {
+    "name": "70 - PTdoB",
+    "parties": [
+      "PTdoB"
+    ],
+    "votes": 81990,
+    "quoc": 0.4835228344970749,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 68,
+    "totalExtraVotes": 81990
+  },
+  {
+    "name": "43 - PV",
+    "parties": [
+      "PV"
+    ],
+    "votes": 78129,
+    "quoc": 0.4607532081524816,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 34,
+    "totalExtraVotes": 78129
+  },
+  {
+    "name": "19 - PTN",
+    "parties": [
+      "PTN"
+    ],
+    "votes": 17367,
+    "quoc": 0.10241908850726553,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 13,
+    "totalExtraVotes": 17367
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 14018,
+    "quoc": 0.08266889979241367,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 4,
+    "totalExtraVotes": 14018
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 8482,
+    "quoc": 0.05002123042083412,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 12,
+    "totalExtraVotes": 8482
+  },
+  {
+    "name": "29 - PCO",
+    "parties": [
+      "PCO"
+    ],
+    "votes": 1467,
+    "quoc": 0.008651396489903755,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 1467
+  }
+]

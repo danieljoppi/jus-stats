@@ -1,0 +1,194 @@
+[
+  {
+    "name": "MS CADA VEZ MELHOR I",
+    "parties": [
+      "PMDB",
+      "PSB",
+      "PRB",
+      "PTN",
+      "PEN",
+      "PSC"
+    ],
+    "votes": 495031,
+    "quoc": 3.099600520950735,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 156721,
+    "countExtra": 27,
+    "totalExtraVotes": 332336,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "MATO GROSSO DO SUL COM A FORÇA DE TODOS I",
+    "parties": [
+      "PT",
+      "PR",
+      "PDT",
+      "PROS",
+      "PTC",
+      "PCdoB",
+      "PTB",
+      "PSDC"
+    ],
+    "votes": 454514,
+    "quoc": 2.8459062789591005,
+    "positions": 3,
+    "countNeeds": 1,
+    "totalNeedVotes": 90204,
+    "countExtra": 30,
+    "totalExtraVotes": 225302,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "NOVO TEMPO",
+    "parties": [
+      "PSDB",
+      "DEM",
+      "PSD",
+      "SD",
+      "PPS",
+      "PMN"
+    ],
+    "votes": 264920,
+    "quoc": 1.65877726851504,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 222968,
+    "countExtra": 27,
+    "totalExtraVotes": 168472,
+    "hasMore": false,
+    "pctLess": 0.24441175415306232
+  },
+  {
+    "name": "11 - PP",
+    "parties": [
+      "PP"
+    ],
+    "votes": 22981,
+    "quoc": 0.1438938562877251,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 22981
+  },
+  {
+    "name": "44 - PRP",
+    "parties": [
+      "PRP"
+    ],
+    "votes": 10051,
+    "quoc": 0.06293360382698425,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 10,
+    "totalExtraVotes": 10051
+  },
+  {
+    "name": "31 - PHS",
+    "parties": [
+      "PHS"
+    ],
+    "votes": 8446,
+    "quoc": 0.05288401332431688,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 8446
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 5844,
+    "quoc": 0.036591779998497255,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 5844
+  },
+  {
+    "name": "17 - PSL",
+    "parties": [
+      "PSL"
+    ],
+    "votes": 5179,
+    "quoc": 0.0324279309740276,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 8,
+    "totalExtraVotes": 5179
+  },
+  {
+    "name": "70 - PTdoB",
+    "parties": [
+      "PTdoB"
+    ],
+    "votes": 3978,
+    "quoc": 0.024907957021564356,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 7,
+    "totalExtraVotes": 3978
+  },
+  {
+    "name": "43 - PV",
+    "parties": [
+      "PV"
+    ],
+    "votes": 3346,
+    "quoc": 0.020950735091542064,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 3346
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 1727,
+    "quoc": 0.010813484609412177,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 1727
+  },
+  {
+    "name": "54 - PPL",
+    "parties": [
+      "PPL"
+    ],
+    "votes": 848,
+    "quoc": 0.005309690184586871,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 848
+  },
+  {
+    "name": "28 - PRTB",
+    "parties": [
+      "PRTB"
+    ],
+    "votes": 796,
+    "quoc": 0.0049840959751546576,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 3,
+    "totalExtraVotes": 796
+  }
+]

@@ -1,0 +1,1339 @@
+[
+  {
+    "candidate": 4545,
+    "fullName": "ARTHUR VIRGILIO DO CARMO RIBEIRO BISNETO",
+    "urnaName": "ARTUR BISNETO",
+    "party": "PSDB",
+    "state": "AM",
+    "votes": 250916,
+    "pct": 15.11,
+    "individual": true,
+    "quoc": 1.21,
+    "status": {
+      "individual": "winner",
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5555,
+    "fullName": "SILAS CAMARA",
+    "urnaName": "SILAS CAMARA",
+    "party": "PSD",
+    "state": "AM",
+    "impeachment": true,
+    "votes": 166281,
+    "pct": 10.01,
+    "individual": false,
+    "quoc": 0.8,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2222,
+    "fullName": "ALFREDO PEREIRA DO NASCIMENTO",
+    "urnaName": "ALFREDO NASCIMENTO",
+    "party": "PR",
+    "state": "AM",
+    "impeachment": true,
+    "votes": 120060,
+    "pct": 7.23,
+    "individual": false,
+    "quoc": 0.58,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "MARCOS SERGIO ROTTA",
+    "urnaName": "MARCOS ROTTA",
+    "party": "PMDB",
+    "state": "AM",
+    "impeachment": true,
+    "votes": 117955,
+    "pct": 7.1,
+    "individual": false,
+    "quoc": 0.57,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2323,
+    "fullName": "HISSA NAGIB ABRAHÃO FILHO",
+    "urnaName": "HISSA ABRAHAO",
+    "party": "PPS",
+    "state": "AM",
+    "impeachment": true,
+    "votes": 113646,
+    "pct": 6.84,
+    "individual": false,
+    "quoc": 0.55,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 2525,
+    "fullName": "PAUDERNEY TOMAZ AVELINO",
+    "urnaName": "PAUDERNEY",
+    "party": "DEM",
+    "state": "AM",
+    "votes": 103904,
+    "pct": 6.26,
+    "individual": false,
+    "quoc": 0.5,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 5525,
+    "fullName": "ATILA SIDNEY LINS DE ALBUQUERQUE",
+    "urnaName": "ATILA LINS",
+    "party": "PSD",
+    "state": "AM",
+    "impeachment": true,
+    "votes": 89453,
+    "pct": 5.39,
+    "individual": false,
+    "quoc": 0.43,
+    "status": {
+      "geral": "winner",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 1122,
+    "fullName": "MARIA DA CONCEIÇÃO SAMPAIO MOURA",
+    "urnaName": "CONCEICAO SAMPAIO",
+    "party": "PP",
+    "state": "AM",
+    "impeachment": true,
+    "votes": 71878,
+    "pct": 4.33,
+    "individual": false,
+    "quoc": 0.35,
+    "status": {
+      "geral": "winner"
+    }
+  },
+  {
+    "candidate": 1414,
+    "fullName": "RAIMUNDO SABINO CASTELO BRANCO MAUES",
+    "urnaName": "SABINO CASTELO BRANCO",
+    "party": "PTB",
+    "state": "AM",
+    "votes": 69708,
+    "pct": 4.2,
+    "individual": false,
+    "quoc": 0.34,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1555,
+    "fullName": "GEDEAO TIMOTEO AMORIM",
+    "urnaName": "GEDEAO AMORIM",
+    "party": "PMDB",
+    "state": "AM",
+    "votes": 62999,
+    "pct": 3.79,
+    "individual": false,
+    "quoc": 0.3,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 6565,
+    "fullName": "ERONILDO BRAGA BEZERRA",
+    "urnaName": "ERON BEZERRA",
+    "party": "PCdoB",
+    "state": "AM",
+    "votes": 58766,
+    "pct": 3.54,
+    "individual": false,
+    "quoc": 0.28,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 5522,
+    "fullName": "CARLOS ALBERTO CAVALCANTE DE SOUZA",
+    "urnaName": "CARLOS SOUZA",
+    "party": "PSD",
+    "state": "AM",
+    "votes": 53020,
+    "pct": 3.19,
+    "individual": false,
+    "quoc": 0.26,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "CARLOS RENÊ DE SOUZA FERNANDES",
+    "urnaName": "CARLOS PORTTA",
+    "party": "PSB",
+    "state": "AM",
+    "votes": 49275,
+    "pct": 2.97,
+    "individual": false,
+    "quoc": 0.24,
+    "status": {}
+  },
+  {
+    "candidate": 1010,
+    "fullName": "JOSE NILMAR ALVES DE OLIVEIRA",
+    "urnaName": "PASTOR NILMAR",
+    "party": "PRB",
+    "state": "AM",
+    "votes": 48281,
+    "pct": 2.91,
+    "individual": false,
+    "quoc": 0.23,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1315,
+    "fullName": "JOÃO PEDRO GONÇALVES DA COSTA",
+    "urnaName": "JOAO PEDRO",
+    "party": "PT",
+    "state": "AM",
+    "votes": 46927,
+    "pct": 2.83,
+    "individual": false,
+    "quoc": 0.23,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1900,
+    "fullName": "LUIS FELIPE SILVA DE SOUZA",
+    "urnaName": "FELIPE SOUZA",
+    "party": "PTN",
+    "state": "AM",
+    "votes": 18950,
+    "pct": 1.14,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 55,
+    "party": "PSD",
+    "state": "AM",
+    "votes": 18745,
+    "pct": 1.13,
+    "individual": false,
+    "quoc": 0.09,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 13,
+    "party": "PT",
+    "state": "AM",
+    "votes": 17352,
+    "pct": 1.04,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 1512,
+    "fullName": "MESSIAS WILSON DE MEDEIROS CURSINO",
+    "urnaName": "MESSIAS CURSINO",
+    "party": "PMDB",
+    "state": "AM",
+    "votes": 16089,
+    "pct": 0.97,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 3131,
+    "fullName": "MAURICIO WILKER DE AZEVEDO BARRETO",
+    "urnaName": "WILKER BARRETO",
+    "party": "PHS",
+    "state": "AM",
+    "votes": 16064,
+    "pct": 0.97,
+    "individual": false,
+    "quoc": 0.08,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 15,
+    "party": "PMDB",
+    "state": "AM",
+    "votes": 10992,
+    "pct": 0.66,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {}
+  },
+  {
+    "candidate": 1312,
+    "fullName": "CRISTIANE AMARAL SALES TELLES",
+    "urnaName": "CRISTIANE SALES",
+    "party": "PT",
+    "state": "AM",
+    "votes": 9775,
+    "pct": 0.59,
+    "individual": false,
+    "quoc": 0.05,
+    "status": {}
+  },
+  {
+    "candidate": 45,
+    "party": "PSDB",
+    "state": "AM",
+    "votes": 7919,
+    "pct": 0.48,
+    "individual": false,
+    "quoc": 0.04,
+    "status": {
+      "geral": "sup",
+      "party": "winner"
+    }
+  },
+  {
+    "candidate": 40,
+    "party": "PSB",
+    "state": "AM",
+    "votes": 7248,
+    "pct": 0.44,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 3600,
+    "fullName": "ALONSO OLIVEIRA DE SOUZA",
+    "urnaName": "DR. ALONSO OLIVEIRA",
+    "party": "PTC",
+    "state": "AM",
+    "votes": 6461,
+    "pct": 0.39,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4411,
+    "fullName": "LUIZ ANTONIO CAMPOS CORREA",
+    "urnaName": "LUIZ ANTONIO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 5585,
+    "pct": 0.34,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {}
+  },
+  {
+    "candidate": 9090,
+    "fullName": "VILMA FLORENÇO QUEIROZ",
+    "urnaName": "VILMA QUEIROZ",
+    "party": "PROS",
+    "state": "AM",
+    "votes": 5337,
+    "pct": 0.32,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 3636,
+    "fullName": "WALFRAN DE SOUZA TORRES",
+    "urnaName": "WALFRAN TORRES",
+    "party": "PTC",
+    "state": "AM",
+    "votes": 5247,
+    "pct": 0.32,
+    "individual": false,
+    "quoc": 0.03,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 4077,
+    "fullName": "STANLEY PINHEIRO BRAGA",
+    "urnaName": "STANLEY  BRAGA",
+    "party": "PSB",
+    "state": "AM",
+    "votes": 5157,
+    "pct": 0.31,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 90,
+    "party": "PROS",
+    "state": "AM",
+    "votes": 4898,
+    "pct": 0.29,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "geral": "sup"
+    }
+  },
+  {
+    "candidate": 11,
+    "party": "PP",
+    "state": "AM",
+    "votes": 3676,
+    "pct": 0.22,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 1234,
+    "fullName": "RONYERVERSON PEREIRA SIQUEIRA",
+    "urnaName": "PROF. RONY SIQUEIRA",
+    "party": "PDT",
+    "state": "AM",
+    "votes": 3595,
+    "pct": 0.22,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {}
+  },
+  {
+    "candidate": 25,
+    "party": "DEM",
+    "state": "AM",
+    "votes": 3305,
+    "pct": 0.2,
+    "individual": false,
+    "quoc": 0.02,
+    "status": {
+      "geral": "sup",
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4404,
+    "fullName": "ANDERSON JOSE RAZORI",
+    "urnaName": "PARANA",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 2933,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3101,
+    "fullName": "LUIZ GONZAGA OLIVEIRA DE MORAES",
+    "urnaName": "GONZAGA DO ARSENAL",
+    "party": "PHS",
+    "state": "AM",
+    "votes": 2924,
+    "pct": 0.18,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1919,
+    "fullName": "SARAH KALILAH FERNANDES FURTADO",
+    "urnaName": "SARAH FURTADO",
+    "party": "PTN",
+    "state": "AM",
+    "votes": 2883,
+    "pct": 0.17,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 12,
+    "party": "PDT",
+    "state": "AM",
+    "votes": 2818,
+    "pct": 0.17,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 22,
+    "party": "PR",
+    "state": "AM",
+    "votes": 2804,
+    "pct": 0.17,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1717,
+    "fullName": "GILMAR EDUARDO COSTA DO COUTO",
+    "urnaName": "GILMAR COUTO",
+    "party": "PSL",
+    "state": "AM",
+    "votes": 2792,
+    "pct": 0.17,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1212,
+    "fullName": "STONES DA COSTA MACHADO",
+    "urnaName": "STONES MACHADO",
+    "party": "PDT",
+    "state": "AM",
+    "votes": 2426,
+    "pct": 0.15,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5577,
+    "fullName": "GUARACY DE JESUS DIAS REBELO",
+    "urnaName": "GUARACY DE JESUS",
+    "party": "PSD",
+    "state": "AM",
+    "votes": 2426,
+    "pct": 0.15,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 65,
+    "party": "PCdoB",
+    "state": "AM",
+    "votes": 2396,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 14,
+    "party": "PTB",
+    "state": "AM",
+    "votes": 2339,
+    "pct": 0.14,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 2014,
+    "fullName": "KATIA CILENE DOS SANTOS SILVA",
+    "urnaName": "KATIA SANTOS",
+    "party": "PSC",
+    "state": "AM",
+    "votes": 2033,
+    "pct": 0.12,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 19,
+    "party": "PTN",
+    "state": "AM",
+    "votes": 1746,
+    "pct": 0.11,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 23,
+    "party": "PPS",
+    "state": "AM",
+    "votes": 1727,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "JOSE DOS SANTOS NASCIMENTO",
+    "urnaName": "ZE NASCIMENTO",
+    "party": "PT",
+    "state": "AM",
+    "votes": 1673,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 3344,
+    "fullName": "RODRIGO FROTA",
+    "urnaName": "RODRIGO FROTA",
+    "party": "PMN",
+    "state": "AM",
+    "votes": 1620,
+    "pct": 0.1,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1300,
+    "fullName": "FRANCISCO NAZARENO CORREA NEVES",
+    "urnaName": "CHICO NEVES",
+    "party": "PT",
+    "state": "AM",
+    "votes": 1475,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 5011,
+    "fullName": "ALEXANDRE SIMÕES DE SOUZA",
+    "urnaName": "ALEXANDRE SIMOES",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 1448,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4310,
+    "fullName": "MONICA GOMES DA SILVA PITANGA",
+    "urnaName": "ENFERMEIRA MONICA",
+    "party": "PV",
+    "state": "AM",
+    "votes": 1443,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 9007,
+    "fullName": "CARLOS CRISTIANO FELIX",
+    "urnaName": "CARLOS FELIX",
+    "party": "PROS",
+    "state": "AM",
+    "votes": 1421,
+    "pct": 0.09,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1333,
+    "fullName": "MIGUEL DAVID FABIANO PERRONE",
+    "urnaName": "DAVID PERRONE",
+    "party": "PT",
+    "state": "AM",
+    "votes": 1377,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 43,
+    "party": "PV",
+    "state": "AM",
+    "votes": 1350,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 4444,
+    "fullName": "ANTONIO DO NASCIMENTO CORDEIRO",
+    "urnaName": "CORDEIRO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 1320,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 10,
+    "party": "PRB",
+    "state": "AM",
+    "votes": 1280,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 1222,
+    "fullName": "INALDO CRUZ PLACIDO",
+    "urnaName": "INALDO CRUZ PLACIDO",
+    "party": "PDT",
+    "state": "AM",
+    "votes": 1278,
+    "pct": 0.08,
+    "individual": false,
+    "quoc": 0.01,
+    "status": {}
+  },
+  {
+    "candidate": 50,
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 934,
+    "pct": 0.06,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 33,
+    "party": "PMN",
+    "state": "AM",
+    "votes": 835,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1207,
+    "fullName": "SEBASTIÃO SOUZA QUEIROZ",
+    "urnaName": "TIAO QUEIROZ",
+    "party": "PDT",
+    "state": "AM",
+    "votes": 783,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1522,
+    "fullName": "ANA MARIA DOS SANTOS BRITO",
+    "urnaName": "ANINHA",
+    "party": "PMDB",
+    "state": "AM",
+    "votes": 768,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4413,
+    "fullName": "LAURI DA SILVA GUERREIRO",
+    "urnaName": "LAURI GUERREIRO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 760,
+    "pct": 0.05,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 20,
+    "party": "PSC",
+    "state": "AM",
+    "votes": 726,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3346,
+    "fullName": "DARLENE MAQUINÉ DOS SANTOS",
+    "urnaName": "DARLENE MAQUINE",
+    "party": "PMN",
+    "state": "AM",
+    "votes": 724,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 31,
+    "party": "PHS",
+    "state": "AM",
+    "votes": 692,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5000,
+    "fullName": "AUXILIADORA DE SOUZA SANTOS",
+    "urnaName": "DORA SANTOS",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 672,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 54,
+    "party": "PPL",
+    "state": "AM",
+    "votes": 656,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 3300,
+    "fullName": "RICARDO ZIMA AGUIAR",
+    "urnaName": "RICARDO AGUIAR",
+    "party": "PMN",
+    "state": "AM",
+    "votes": 656,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1616,
+    "fullName": "DAMIANA AMORIM CABRAL",
+    "urnaName": "DAMIANA AMORIM",
+    "party": "PSTU",
+    "state": "AM",
+    "votes": 652,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5050,
+    "fullName": "JOSÉ ROBERTO DOS SANTOS",
+    "urnaName": "ROBERTO SANTOS",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 651,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 17,
+    "party": "PSL",
+    "state": "AM",
+    "votes": 610,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2299,
+    "fullName": "MAYSA COSTA DA SILVA",
+    "urnaName": "MAYSA COSTA",
+    "party": "PR",
+    "state": "AM",
+    "votes": 584,
+    "pct": 0.04,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 5051,
+    "fullName": "SHIRNEILA PALHETA FREITAS",
+    "urnaName": "BRANCA",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 577,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1600,
+    "fullName": "PAULO VICTOR PENAFORT MENDES",
+    "urnaName": "PAULO MENDES",
+    "party": "PSTU",
+    "state": "AM",
+    "votes": 572,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 44,
+    "party": "PRP",
+    "state": "AM",
+    "votes": 571,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2111,
+    "fullName": "MARCELO FURTADO MACHADO LEITÃO",
+    "urnaName": "MARCELO LEITAO",
+    "party": "PCB",
+    "state": "AM",
+    "votes": 542,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 51,
+    "party": "PEN",
+    "state": "AM",
+    "votes": 524,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2727,
+    "fullName": "MARCELO SOARES DE OLIVEIRA",
+    "urnaName": "MARCELO GENEROSO",
+    "party": "PSDC",
+    "state": "AM",
+    "votes": 520,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7777,
+    "fullName": "ANA CRISTINA DE CARLI",
+    "urnaName": "ANA DE ' CARLI",
+    "party": "SD",
+    "state": "AM",
+    "votes": 520,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4455,
+    "fullName": "RIGOCELIA COSTA",
+    "urnaName": "MULHER DE BRANCO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 510,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4350,
+    "fullName": "JOSE ADALBERTO DA SILVA",
+    "urnaName": "ADAL",
+    "party": "PV",
+    "state": "AM",
+    "votes": 501,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 27,
+    "party": "PSDC",
+    "state": "AM",
+    "votes": 486,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5012,
+    "fullName": "ADAMOR SANTANA LIBERAL DE JESUS",
+    "urnaName": "ADAMOR",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 479,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4446,
+    "fullName": "ARMANDO ANDRADE ARAUJO",
+    "urnaName": "DR. ARMANDO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 453,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 16,
+    "party": "PSTU",
+    "state": "AM",
+    "votes": 432,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 77,
+    "party": "SD",
+    "state": "AM",
+    "votes": 418,
+    "pct": 0.03,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4044,
+    "fullName": "ROBERTO AUGUSTO RODRIGUES CAMPAINHA",
+    "urnaName": "ROBERTO CAMPAINHA",
+    "party": "PSB",
+    "state": "AM",
+    "votes": 408,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5077,
+    "fullName": "FERNANDO JOSÉ RODRIGUES LOBATO",
+    "urnaName": "FERNANDO LOBATO",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 397,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4445,
+    "fullName": "DARCY GRAÇA VALERIO DE SOUSA",
+    "urnaName": "DARCY VALERIO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 390,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4405,
+    "fullName": "JOSE OTACI TEIXEIRA FILHO",
+    "urnaName": "OTACI TEIXERA",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 366,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 2100,
+    "fullName": "VALDIRENE PICANÇO DE CASTRO",
+    "urnaName": "VALDIRENE CASTRO",
+    "party": "PCB",
+    "state": "AM",
+    "votes": 364,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5033,
+    "fullName": "PAULO JOSÉ RIBEIRO DA SILVA",
+    "urnaName": "PAULO APURINA",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 352,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 21,
+    "party": "PCB",
+    "state": "AM",
+    "votes": 352,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 36,
+    "party": "PTC",
+    "state": "AM",
+    "votes": 318,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4456,
+    "fullName": "GILBERTO HILARIO DA SILVA",
+    "urnaName": "GILBERTO HILARIO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 300,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5515,
+    "fullName": "FRANCISCO RITTA BERNARDINO JUNIOR",
+    "urnaName": "RITTA BERNARDINO JR.",
+    "party": "PSD",
+    "state": "AM",
+    "votes": 296,
+    "pct": 0.02,
+    "individual": false,
+    "quoc": 0,
+    "status": {
+      "party": "sup"
+    }
+  },
+  {
+    "candidate": 4432,
+    "fullName": "OSMARINO ANTONIO BUENO DE CASTRO",
+    "urnaName": "ANTONIO BUENO",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 247,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 7035,
+    "fullName": "CLEISIANE OLIVEIRA DA SILVA",
+    "urnaName": "CLEISIANE OLIVEIRA",
+    "party": "PTdoB",
+    "state": "AM",
+    "votes": 207,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4050,
+    "fullName": "REGINA CÉLIA SICSU DOS SANTOS",
+    "urnaName": "REGINA SICSU",
+    "party": "PSB",
+    "state": "AM",
+    "votes": 196,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4423,
+    "fullName": "ANA SUZY DE ALMEIDA CAVALCANTE",
+    "urnaName": "ANA SUZY",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 180,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4022,
+    "fullName": "DEUSA RAMIRO LOPES",
+    "urnaName": "DEUSA SILVA",
+    "party": "PSB",
+    "state": "AM",
+    "votes": 171,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 4422,
+    "fullName": "BENILDES DOS SANTOS SILVA",
+    "urnaName": "BENILDES SILVA",
+    "party": "PRP",
+    "state": "AM",
+    "votes": 162,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5151,
+    "fullName": "ERIVALDO COUTINHO AGUIAR",
+    "urnaName": "ERIVALDINHO",
+    "party": "PEN",
+    "state": "AM",
+    "votes": 120,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1321,
+    "fullName": "ALCINEIDE PEREIRA DA SILVA",
+    "urnaName": "ALCINEIDE SILVA",
+    "party": "PT",
+    "state": "AM",
+    "votes": 110,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 28,
+    "party": "PRTB",
+    "state": "AM",
+    "votes": 91,
+    "pct": 0.01,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 70,
+    "party": "PTdoB",
+    "state": "AM",
+    "votes": 82,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1030,
+    "fullName": "ANTONIA NIELE DA COSTA SILVA",
+    "urnaName": "NIELE SILVA",
+    "party": "PRB",
+    "state": "AM",
+    "votes": 51,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 5080,
+    "fullName": "MARCELA LIMA TEIXEIRA",
+    "urnaName": "MARCELA TEIXEIRA",
+    "party": "PSOL",
+    "state": "AM",
+    "votes": 50,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1344,
+    "fullName": "IVONE MARIA DO NASCIMENTO PERRONE",
+    "urnaName": "IVONE PERRONE",
+    "party": "PT",
+    "state": "AM",
+    "votes": 36,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  },
+  {
+    "candidate": 1015,
+    "fullName": "NUBIA REGINA SOARES RODRIGUES",
+    "urnaName": "NUBIA RODRIGUES",
+    "party": "PRB",
+    "state": "AM",
+    "votes": 32,
+    "pct": 0,
+    "individual": false,
+    "quoc": 0,
+    "status": {}
+  }
+]

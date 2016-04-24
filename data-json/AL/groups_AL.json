@@ -1,0 +1,122 @@
+[
+  {
+    "name": "COM O POVO PRA ALAGOAS MUDAR I",
+    "parties": [
+      "PDT",
+      "PSC",
+      "PMDB",
+      "PV",
+      "PTB",
+      "PSD",
+      "PTdoB",
+      "PROS",
+      "PCdoB",
+      "PT",
+      "PHS"
+    ],
+    "votes": 501654,
+    "quoc": 3.2607754558159185,
+    "positions": 4,
+    "countNeeds": 4,
+    "totalNeedVotes": 268072,
+    "countExtra": 33,
+    "totalExtraVotes": 154346,
+    "hasMore": false,
+    "pctLess": 0.4242367722104509
+  },
+  {
+    "name": "JUNTOS COM O POVO PELA MELHORIA DE ALAGOAS 1",
+    "parties": [
+      "PP",
+      "PPS",
+      "PSDC",
+      "PRP",
+      "PR",
+      "PSL",
+      "PSB",
+      "SD",
+      "DEM"
+    ],
+    "votes": 464750,
+    "quoc": 3.0208976567324255,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 150669,
+    "countExtra": 30,
+    "totalExtraVotes": 153884,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "UM NOVO JEITO DE FAZER",
+    "parties": [
+      "PSDB",
+      "PRB"
+    ],
+    "votes": 212364,
+    "quoc": 1.3803763528226463,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 34263,
+    "countExtra": 20,
+    "totalExtraVotes": 92782,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "CAMINHANDO COM O POVO",
+    "parties": [
+      "PRTB",
+      "PPL",
+      "PMN"
+    ],
+    "votes": 189538,
+    "quoc": 1.2320062400468004,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 89410,
+    "countExtra": 23,
+    "totalExtraVotes": 125103,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 11681,
+    "quoc": 0.0759270694530209,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 6,
+    "totalExtraVotes": 11681
+  },
+  {
+    "name": "36 - PTC",
+    "parties": [
+      "PTC"
+    ],
+    "votes": 2574,
+    "quoc": 0.016731125483441127,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 5,
+    "totalExtraVotes": 2574
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 2046,
+    "quoc": 0.013299099743248074,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 2046
+  }
+]
