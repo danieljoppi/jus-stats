@@ -57,7 +57,7 @@ exports.loadCandidate = (state) => new Promise(resolve => {
 
             candVotes.forEach(candVote => {
                 if (candVote.state !== state) return;
-                let candidate = candidates.filter(c => c.urnaName === candVote.urnaName);
+                let candidate = candidates.filter(c => c.urnaName === candVote.urnaName && c.state === candVote.state);
                 if (candidate && candidate.length) {
                     let cand = candidate[0];
                     //cand.avatar = candVote.avatar;

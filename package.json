@@ -9,6 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "gen": "node  --max_old_space_size=4096 index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

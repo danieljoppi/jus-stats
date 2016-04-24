@@ -3,8 +3,12 @@ var path = require('path'),
     fs = require('fs');
 
 exports.gen = (state) => {
-    let dataPath = path.join(__dirname, 'data-json', `candidate-impeachment_${state}.json`),
-        dataStr = fs.readFileSync(dataPath, 'utf8'),
+    let dataPath = path.join(__dirname, 'data-json', `candidate-impeachment_${state}.json`);
+    if (!fs.existsSync(dataPath)) {
+        return;
+    }
+
+    let dataStr = fs.readFileSync(dataPath, 'utf8'),
         candidates = JSON.parse(dataStr);
 
     let resume = [],
@@ -42,11 +46,18 @@ exports.gen = (state) => {
         }
     }
 
-    let jsonPath = path.join(__dirname, 'data-json', `resume_${state}.json`);
+    let jsonPath = path.join(__dirname, 'data-json', state, `resume_${state}.json`);
     //if (!fs.existsSync(jsonPath)) {
     fs.writeFile(jsonPath, JSON.stringify(resume, 0, '  '), 'utf8', () => {
         console.log('saved in:', jsonPath);
     });
 };
 
-exports.gen('SC');
+
+const groups = require('./models/party-groups'),
+    states = Object.keys(groups);
+
+for (let i=0; i<states.length; i++) {
+    let state = states[i];
+    exports.gen(state);
+}

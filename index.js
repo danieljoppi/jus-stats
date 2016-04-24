@@ -7,9 +7,9 @@ const groups = require('./models/party-groups'),
 
 for (let i=0; i<states.length; i++) {
     let state = states[i];
-    if (~['RS', 'RJ', 'SP'].indexOf(state)) {
-        continue;
-    }
+    //if (~['RS', 'RJ', 'SP'].indexOf(state)) {
+    //    continue;
+    //}
     Promise.all([
         loadData.loadPositions(state),
         loadData.loadCandidate(state)
