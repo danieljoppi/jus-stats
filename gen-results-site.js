@@ -3,7 +3,7 @@ var path = require('path'),
     fs = require('fs');
 
 exports.gen = (state) => {
-    let dataPath = path.join(__dirname, 'data-json', `candidate-impeachment_${state}.json`);
+    let dataPath = path.join(__dirname, 'data-json', state, `candidate-impeachment_${state}.json`);
     if (!fs.existsSync(dataPath)) {
         return;
     }

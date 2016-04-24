@@ -1,0 +1,482 @@
+[
+  [
+    "PMDB - WALTER ALVES",
+    "PMDB",
+    800
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PR",
+    44
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PSB",
+    1120
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PROS",
+    171
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PDT",
+    840
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "SD",
+    377
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PSC",
+    89
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "DEM",
+    111
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PV",
+    110
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PMN",
+    32
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PRP",
+    53
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PSDB",
+    149
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PSDC",
+    194
+  ],
+  [
+    "PMDB - WALTER ALVES",
+    "PRB",
+    1050
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PMDB",
+    2538
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PR",
+    138
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PSB",
+    3553
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PROS",
+    542
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PDT",
+    2662
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "SD",
+    1197
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PSC",
+    285
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "DEM",
+    352
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PV",
+    346
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PMN",
+    102
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PRP",
+    167
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PSDB",
+    471
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PSDC",
+    616
+  ],
+  [
+    "PROS - RAFAEL MOTTA",
+    "PRB",
+    3387
+  ],
+  [
+    "PSD - FABIO FARIA",
+    "PSD",
+    4666
+  ],
+  [
+    "PSD - FABIO FARIA",
+    "PT",
+    20921
+  ],
+  [
+    "PSD - FABIO FARIA",
+    "PCdoB",
+    1739
+  ],
+  [
+    "PSD - FABIO FARIA",
+    "PTdoB",
+    142
+  ],
+  [
+    "PSD - FABIO FARIA",
+    "PP",
+    2231
+  ],
+  [
+    "PSD - FABIO FARIA",
+    "PEN",
+    1731
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PMDB",
+    7422
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PR",
+    404
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PSB",
+    10391
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PROS",
+    1586
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PDT",
+    7787
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "SD",
+    3502
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PSC",
+    832
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "DEM",
+    1031
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PV",
+    1013
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PMN",
+    299
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PRP",
+    488
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PSDB",
+    1379
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PSDC",
+    1800
+  ],
+  [
+    "PR - DRA ZENAIDE MAIA",
+    "PRB",
+    9936
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PMDB",
+    9871
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PR",
+    538
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PSB",
+    13820
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PROS",
+    2109
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PDT",
+    10356
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "SD",
+    4658
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PSC",
+    1107
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "DEM",
+    1371
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PV",
+    1348
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PMN",
+    397
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PRP",
+    649
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PSDB",
+    1834
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PSDC",
+    2393
+  ],
+  [
+    "DEM - FELIPE MAIA",
+    "PRB",
+    13206
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PMDB",
+    13646
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PR",
+    744
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PSB",
+    19105
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PROS",
+    2916
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PDT",
+    14316
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "SD",
+    6440
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PSC",
+    1530
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "DEM",
+    1895
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PV",
+    1863
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PMN",
+    549
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PRP",
+    897
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PSDB",
+    2535
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PSDC",
+    3310
+  ],
+  [
+    "PSDB - ROGERIO MARINHO",
+    "PRB",
+    18265
+  ],
+  [
+    "PMN - JACOME",
+    "PMDB",
+    14815
+  ],
+  [
+    "PMN - JACOME",
+    "PR",
+    807
+  ],
+  [
+    "PMN - JACOME",
+    "PSB",
+    20741
+  ],
+  [
+    "PMN - JACOME",
+    "PROS",
+    3165
+  ],
+  [
+    "PMN - JACOME",
+    "PDT",
+    15542
+  ],
+  [
+    "PMN - JACOME",
+    "SD",
+    6991
+  ],
+  [
+    "PMN - JACOME",
+    "PSC",
+    1661
+  ],
+  [
+    "PMN - JACOME",
+    "DEM",
+    2058
+  ],
+  [
+    "PMN - JACOME",
+    "PV",
+    2022
+  ],
+  [
+    "PMN - JACOME",
+    "PMN",
+    596
+  ],
+  [
+    "PMN - JACOME",
+    "PRP",
+    974
+  ],
+  [
+    "PMN - JACOME",
+    "PSDB",
+    2752
+  ],
+  [
+    "PMN - JACOME",
+    "PSDC",
+    3593
+  ],
+  [
+    "PMN - JACOME",
+    "PRB",
+    19831
+  ],
+  [
+    "PP - BETINHO ROSADO",
+    "PSD",
+    19798
+  ],
+  [
+    "PP - BETINHO ROSADO",
+    "PT",
+    88815
+  ],
+  [
+    "PP - BETINHO ROSADO",
+    "PCdoB",
+    7379
+  ],
+  [
+    "PP - BETINHO ROSADO",
+    "PTdoB",
+    602
+  ],
+  [
+    "PP - BETINHO ROSADO",
+    "PP",
+    9468
+  ],
+  [
+    "PP - BETINHO ROSADO",
+    "PEN",
+    7350
+  ]
+]
